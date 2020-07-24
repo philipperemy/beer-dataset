@@ -1,0 +1,2589 @@
+{
+  "currentPage": 577,
+  "numberOfPages": 603,
+  "totalResults": 30140,
+  "data": [
+    {
+      "id": "wl6mBg",
+      "name": "Weathered Wit",
+      "nameDisplay": "Weathered Wit",
+      "description": "A true Belgian style Wit beer with a light, tart, and slightly acidic flavor, finishing with a complex citrus blend. Our Wit yeast does the heavy lifting on this beer producing complex Belgian flavors resulting in a simple yet refined taste. This is a great beer for a hot summer day or paired with a spicy dish.",
+      "abv": "5.2",
+      "ibu": "15",
+      "glasswareId": 8,
+      "srmId": 7,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/wl6mBg/upload_qrVABQ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/wl6mBg/upload_qrVABQ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/wl6mBg/upload_qrVABQ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/wl6mBg/upload_qrVABQ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/wl6mBg/upload_qrVABQ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/wl6mBg/upload_qrVABQ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-07-30 00:38:05",
+      "updateDate": "2015-12-17 04:16:58",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 7,
+        "name": "7",
+        "hex": "F39C00"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "meSFU9",
+      "name": "Weatherman Wheat",
+      "nameDisplay": "Weatherman Wheat",
+      "description": "An American style wheat ale brewed with 50% wheat, Saaz and Hallertauer",
+      "abv": "6",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/meSFU9/upload_uZWsWV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/meSFU9/upload_uZWsWV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/meSFU9/upload_uZWsWV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/meSFU9/upload_uZWsWV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/meSFU9/upload_uZWsWV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/meSFU9/upload_uZWsWV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:28",
+      "updateDate": "2015-12-16 13:36:27",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "uNvJI5",
+      "name": "Weaver Trail",
+      "nameDisplay": "Weaver Trail",
+      "description": "Weaver Trail is a Dry, Irish Stout made with Beech smoked malt.  Notes of roasted coffee and wood smoke give this low-gravity Stout an old world feel.  It is conditioned with Nitrogen instead of CO2, resulting in a silky, creamy mouth-feel and higher drinkability.",
+      "abv": "5",
+      "glasswareId": 5,
+      "availableId": 2,
+      "styleId": 23,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/uNvJI5/upload_1zmc9y-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/uNvJI5/upload_1zmc9y-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/uNvJI5/upload_1zmc9y-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/uNvJI5/upload_1zmc9y-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/uNvJI5/upload_1zmc9y-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/uNvJI5/upload_1zmc9y-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-05-21 12:24:40",
+      "updateDate": "2015-12-17 03:15:09",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 23,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Classic Irish-Style Dry Stout",
+        "shortName": "Dry Irish Stout",
+        "description": "Dry stouts have an initial malt and light caramel flavor profile with a distinctive dry-roasted bitterness in the finish. Dry stouts achieve a dry-roasted character through the use of roasted barley. The emphasis of coffee-like roasted barley and a moderate degree of roasted malt aromas define much of the character. Some slight acidity may be perceived but is not necessary. European hop aroma and flavor should be low or not perceived. Dry stouts have medium-light to medium body. Fruity esters are minimal and overshadowed by malt, high hop bitterness, and roasted barley character. Diacetyl (butterscotch) should be very low or not perceived. Head retention and rich character should be part of its visual character.",
+        "ibuMin": "30",
+        "ibuMax": "40",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.038",
+        "fgMin": "1.008",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:51"
+      }
+    },
+    {
+      "id": "NVBX91",
+      "name": "Webbs City Cellar: the Dancing Chickens",
+      "nameDisplay": "Webbs City Cellar: the Dancing Chickens",
+      "abv": "9",
+      "styleId": 64,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NVBX91/upload_BviFeZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NVBX91/upload_BviFeZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NVBX91/upload_BviFeZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/NVBX91/upload_BviFeZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/NVBX91/upload_BviFeZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/NVBX91/upload_BviFeZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-09-17 20:57:18",
+      "updateDate": "2018-09-17 20:58:18",
+      "style": {
+        "id": 64,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Dark Strong Ale",
+        "shortName": "Belgian Dark Strong",
+        "description": "Belgian dark strong ales are amber to dark brown in color. Often, though not always, brewed with dark Belgian \"candy\" sugar, these beers can be well attenuated, ranging from medium to full-bodied. The perception of hop bitterness is low to medium, with hop flavor and aroma also in this range. Fruity complexity along with the soft flavors of roasted malts add distinct character. The alcohol strength of these beers can often be deceiving to the senses. The intensity of malt character can be rich, creamy, and sweet with intensities ranging from medium to high. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "50",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "9",
+        "srmMax": "35",
+        "ogMin": "1.064",
+        "fgMin": "1.012",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:23"
+      }
+    },
+    {
+      "id": "ucjXtd",
+      "name": "Wedding Ale",
+      "nameDisplay": "Wedding Ale",
+      "description": "Wedding Ale is one of the rare Bell’s brands to use spices. A subtle blend of orange peel & coriander enhance the aromatic profile of this golden ale. Brewed with a combination of wheat and pale malts, Wedding Ale is fermented with our signature house ale yeast. A light touch of European hops rounds out the beer, while a generous addition of honey adds a dry complexity rather than sweetness.",
+      "abv": "8",
+      "glasswareId": 10,
+      "availableId": 4,
+      "styleId": 125,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ucjXtd/upload_wzOjeJ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ucjXtd/upload_wzOjeJ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ucjXtd/upload_wzOjeJ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ucjXtd/upload_wzOjeJ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ucjXtd/upload_wzOjeJ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ucjXtd/upload_wzOjeJ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.065",
+      "createDate": "2012-01-03 02:44:28",
+      "updateDate": "2018-05-09 19:05:48",
+      "glass": {
+        "id": 10,
+        "name": "Oversized Wine Glass",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "xCXHTf",
+      "name": "Wedding Alt",
+      "nameDisplay": "Wedding Alt",
+      "description": "Modeled after the Alt style from Düsseldorf, Wedding Alt is characterized by a clean, balanced flavor that is ushered in by subtle hop aroma. Wedding Alt dances crisply on the palate and finishes with a slight sweetness.",
+      "abv": "5.4",
+      "ibu": "12",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 55,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/xCXHTf/upload_0xZCOT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/xCXHTf/upload_0xZCOT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/xCXHTf/upload_0xZCOT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/xCXHTf/upload_0xZCOT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/xCXHTf/upload_0xZCOT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/xCXHTf/upload_0xZCOT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-05-04 13:25:17",
+      "updateDate": "2015-12-17 14:05:09",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 55,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Altbier",
+        "shortName": "Altbier",
+        "description": "German-Style Altbiers are copper to dark brown ales, originally from the Düsseldorf area. No chill haze should be perceived. A variety of malts including wheat may be used to produce medium-low to medium malt aroma. Fruityester aroma can be low. No diacetyl aroma should be perceived. Hop aroma is low to medium. A variety of malts including wheat may be used to produce medium-low to medium level malty flavor. Hop flavor is low to medium. Hop bitterness is medium to very high (although the 25 to 35 IBU range is more normal for the majority of Altbiers from Düsseldorf). Fruity-ester flavors can be low. No diacetyl should be perceived. The overall impression is clean, crisp, and flavorful often with a dry finish. Body is medium.",
+        "ibuMin": "25",
+        "ibuMax": "52",
+        "abvMin": "4.3",
+        "abvMax": "5.5",
+        "srmMin": "11",
+        "srmMax": "19",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:08:31"
+      }
+    },
+    {
+      "id": "XCcoAI",
+      "name": "Wedding Beer",
+      "nameDisplay": "Wedding Beer",
+      "abv": "4.5",
+      "ibu": "30",
+      "availableId": 2,
+      "styleId": 125,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/XCcoAI/upload_bdwBoB-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/XCcoAI/upload_bdwBoB-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/XCcoAI/upload_bdwBoB-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/XCcoAI/upload_bdwBoB-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/XCcoAI/upload_bdwBoB-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/XCcoAI/upload_bdwBoB-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-06-25 19:25:53",
+      "updateDate": "2015-12-18 03:58:06",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "rlRp2E",
+      "name": "Wedding Rauch",
+      "nameDisplay": "Wedding Rauch",
+      "description": "She was a girl with a weakness for Rauch beers and he was a brewer in love with his work. This beer is in honor of their wedding. Inspired by the traditional smoked beers from Bamberg, it is amber with red highlights and a strong smoked flavor blending with hints of caramel and dried fruit.\r\n“To a summer that won’t come back towards a future of great emotions.”\r\n\r\nABV. 5,2% 13°P\r\n\r\nI created this beer to celebrate my wedding and my bride who has always loved Rauch beers. The city of Bamberg is particularly dear to us. We ventured through its streets, indulged in its well known smoked beers and stood together contemplating the water ripples of the river Regnitz.\r\n Being in Tettnang 2 days before the wedding to select the newly harvested hops, I brought back 10 freshly uprooted hop plants to decorate the wedding reception. Instead of the traditional rice tossing, the guests showered us with hop flowers. My weeding suit was garmented by a small hop blossom as well. With more than 200 guests and 450 liters of beer, many remember our celebration as one of the most memorable gatherings they have ever attended.\r\n Selling the leftover beer to some clients was such a success that we decided to keep brewing it. It is now part of our beer family!",
+      "abv": "5.2",
+      "availableId": 1,
+      "styleId": 85,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rlRp2E/upload_fFKLEU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rlRp2E/upload_fFKLEU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rlRp2E/upload_fFKLEU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rlRp2E/upload_fFKLEU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rlRp2E/upload_fFKLEU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rlRp2E/upload_fFKLEU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.053",
+      "createDate": "2015-03-04 15:17:39",
+      "updateDate": "2017-08-30 17:21:22",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 85,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Bamberg-Style Märzen Rauchbier",
+        "shortName": "Märzen Rauchbier",
+        "description": "Bamberg-style Rauchbier Märzen should have beechwood smoky characters that range from detectable to prevalent in the aroma and flavor. Smoke character is neither harshly phenolic nor acrid, but rather very smooth, almost rendering a perception of mild sweetness to this style of beer. The beer is generally toasted malty sweet and full-bodied with low to medium-low hop bitterness. Noble-type hop flavor is low but may be perceptible. The aroma should strike a balance between malt, hop, and smoke. Fruity esters, diacetyl, and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:37:20"
+      }
+    },
+    {
+      "id": "cFQ13f",
+      "name": "Wedding Witte",
+      "nameDisplay": "Wedding Witte",
+      "description": "A Belgian style white ale brewed with orange peel and coriander spice. Originally brewed for assistant brewer John’s wedding in the fall of 2008.",
+      "abv": "5.2",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/cFQ13f/upload_emLL1r-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/cFQ13f/upload_emLL1r-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/cFQ13f/upload_emLL1r-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/cFQ13f/upload_emLL1r-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/cFQ13f/upload_emLL1r-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/cFQ13f/upload_emLL1r-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:28",
+      "updateDate": "2015-12-16 08:28:30",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "NZIe4y",
+      "name": "WEDLOCK PALE ALE",
+      "nameDisplay": "WEDLOCK PALE ALE",
+      "description": "The lightest of our house brews. It's copper color with a subtle hop flavor makes this thirst quenching beer a popular favorite.",
+      "abv": "4.7",
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NZIe4y/upload_Q7dJ7U-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NZIe4y/upload_Q7dJ7U-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NZIe4y/upload_Q7dJ7U-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/NZIe4y/upload_Q7dJ7U-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/NZIe4y/upload_Q7dJ7U-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/NZIe4y/upload_Q7dJ7U-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-04-20 15:04:58",
+      "updateDate": "2015-12-18 01:43:20",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "X0l98q",
+      "name": "Wee Beast",
+      "nameDisplay": "Wee Beast",
+      "abv": "7",
+      "glasswareId": 5,
+      "styleId": 14,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/X0l98q/upload_ZfE4aj-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/X0l98q/upload_ZfE4aj-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/X0l98q/upload_ZfE4aj-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/X0l98q/upload_ZfE4aj-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/X0l98q/upload_ZfE4aj-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/X0l98q/upload_ZfE4aj-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:28",
+      "updateDate": "2015-12-15 21:25:09",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 14,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Strong Ale",
+        "shortName": "Strong Ale",
+        "description": "Light amber to mid-range brown in color, strong ales are medium to full bodied with a malty sweetness and may have low levels of roast malt character. Hop aroma should be minimal and flavor can vary from none to medium in character intensity. Fruity-ester flavors and aromas can contribute to the character of this ale. Bitterness should be minimal but evident and balanced with malt and/or caramel-like sweetness. Alcohol types can be varied and complex. A rich, often sweet and complex estery character may be evident. Very low levels of diacetyl are acceptable. Chill haze is acceptable at low temperatures. (This style may often be split into two categories, strong and very strong.)",
+        "ibuMin": "30",
+        "ibuMax": "65",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "8",
+        "srmMax": "21",
+        "ogMin": "1.06",
+        "fgMin": "1.014",
+        "fgMax": "1.04",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:05"
+      }
+    },
+    {
+      "id": "YAziZ7",
+      "name": "Wee Beastie",
+      "nameDisplay": "Wee Beastie",
+      "description": "A rich, malty Wee Heavy style Scotch ale, brewed with 100% barley malt, hops, water and yeast. Peated malt provides a subtle smokiness to this beer, while medium toasted American oak imparts a silky smoothness and additional complexity. Named in honour of Scottish poet Robbie Burns’ famous poem, To A Mouse, written in 1785. Wee, sleeket, cowran, tim’rous beastie, O, what panic’s in thy breastie! A brave big bodied ale!",
+      "abv": "7",
+      "ibu": "26",
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YAziZ7/upload_0yu0wC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YAziZ7/upload_0yu0wC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YAziZ7/upload_0yu0wC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YAziZ7/upload_0yu0wC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YAziZ7/upload_0yu0wC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YAziZ7/upload_0yu0wC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "This smokey darker ale goes well with hearty fare such as hamburgers, sausages, stews, smoked fish, lamb, beef and game as well as other numerous foods such as fried seafood and highly spiced cuisine. It also pairs well with desserts.",
+      "createDate": "2014-11-15 18:42:38",
+      "updateDate": "2015-12-17 19:43:59",
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "0mOowJ",
+      "name": "Wee Heavy",
+      "nameDisplay": "Wee Heavy",
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0mOowJ/upload_6RxmJz-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0mOowJ/upload_6RxmJz-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0mOowJ/upload_6RxmJz-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0mOowJ/upload_6RxmJz-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0mOowJ/upload_6RxmJz-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0mOowJ/upload_6RxmJz-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-03 17:18:34",
+      "updateDate": "2015-12-16 21:02:15",
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "Dz81QB",
+      "name": "Wee Heavy",
+      "nameDisplay": "Wee Heavy",
+      "description": "This Scottish-inspired deep mahogany-colored ale showcases a rich, malty flavor profile of caramel and toffee offset by hints of roast and subtle smoke. The complex malty sweetness includes notes of dark fruit balanced by a subdued hop bitterness. Wee Heavy is incredibly nuanced and in a class of its own in terms of balance and sophistication. It ages very well and will keep improving for years to come.",
+      "abv": "10",
+      "ibu": "26",
+      "glasswareId": 8,
+      "srmId": 30,
+      "availableId": 1,
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Dz81QB/upload_drA9CF-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Dz81QB/upload_drA9CF-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Dz81QB/upload_drA9CF-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Dz81QB/upload_drA9CF-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Dz81QB/upload_drA9CF-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Dz81QB/upload_drA9CF-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Wee Heavy’s complex malt profile lends itself very well to a host of roasted or grilled meat and vegetable dishes. Robust cheeses, salty blues and nutty farmhouse-style cheeses also pair very well with this beer.",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "originalGravity": "1.102",
+      "createDate": "2012-01-03 02:44:28",
+      "updateDate": "2017-01-10 22:10:57",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 30,
+        "name": "30",
+        "hex": "600903"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "G4tM6F",
+      "name": "Wee Heavy",
+      "nameDisplay": "Wee Heavy",
+      "description": "A Scottish ale with a rich roasted maltiness blended with mellow hoppiness, and an alcohol by volume of 8%.",
+      "abv": "8",
+      "glasswareId": 5,
+      "availableId": 2,
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/G4tM6F/upload_NUoOwN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/G4tM6F/upload_NUoOwN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/G4tM6F/upload_NUoOwN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/G4tM6F/upload_NUoOwN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/G4tM6F/upload_NUoOwN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/G4tM6F/upload_NUoOwN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.08",
+      "createDate": "2012-01-03 02:44:28",
+      "updateDate": "2015-12-16 07:52:38",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "Y5WO7U",
+      "name": "Wee Heavy",
+      "nameDisplay": "Wee Heavy",
+      "description": "During the mid to late 1800’s Scottish beers were taxed according to their strength, fewer shillings for lower strength beer, more shillings for higher alcohol beer. The strongest version of the Scottish beer style was called a “wee heavy” and was typically served in smaller, 6-­ounce, a “wee” bit of “heavy” ale.\r\n\r\n \r\n\r\nO’Fallon Wee Heavy is our nod to the era and the style. It’s a malt-­forward beer with subtle hints of roasted malts and cherry wood and nutty flavors with just enough hop bitterness to support the big malt backbone and balance its sweetness. This beer was fermented at cooler temperatures to reduce the esters (fruitiness) of the yeast and create a very clean and smooth profile for a beer with an 8.5% ABV.",
+      "abv": "8.5",
+      "ibu": "30",
+      "availableId": 2,
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Y5WO7U/upload_1jMdkj-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Y5WO7U/upload_1jMdkj-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Y5WO7U/upload_1jMdkj-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Y5WO7U/upload_1jMdkj-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Y5WO7U/upload_1jMdkj-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Y5WO7U/upload_1jMdkj-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-17 01:20:39",
+      "updateDate": "2015-12-17 07:04:02",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "NqGHEP",
+      "name": "Wee Heavy",
+      "nameDisplay": "Wee Heavy",
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NqGHEP/upload_4iPgLY-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NqGHEP/upload_4iPgLY-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NqGHEP/upload_4iPgLY-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/NqGHEP/upload_4iPgLY-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/NqGHEP/upload_4iPgLY-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/NqGHEP/upload_4iPgLY-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-26 12:36:02",
+      "updateDate": "2015-12-17 07:35:52",
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "sqeHOM",
+      "name": "Wee Heavy",
+      "nameDisplay": "Wee Heavy",
+      "description": "Inspired by Green Mountain Masher founder Greg Noonan, this complex Wee Heavy Strong Scotch Ale features aromas and flavors of caramel, subtle fruit esters, and a hint of roast.",
+      "abv": "8.9",
+      "ibu": "30",
+      "availableId": 2,
+      "styleId": 15,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/sqeHOM/upload_wI1DPG-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/sqeHOM/upload_wI1DPG-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/sqeHOM/upload_wI1DPG-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/sqeHOM/upload_wI1DPG-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/sqeHOM/upload_wI1DPG-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/sqeHOM/upload_wI1DPG-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-04-26 16:37:59",
+      "updateDate": "2019-04-26 16:39:13",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 15,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scotch Ale",
+        "shortName": "Scotch Ale",
+        "description": "Scotch ales are overwhelmingly malty and full-bodied. Perception of hop bitterness is very low. Hop flavor and aroma are very low or nonexistent. Color ranges from deep copper to brown. The clean alcohol flavor balances the rich and dominant sweet maltiness in flavor and aroma. A caramel character is often a part of the profile. Dark roasted malt flavors and aroma may be evident at low levels. If present, fruity esters are generally at low aromatic and flavor levels. Low diacetyl levels are acceptable. Chill haze is allowable at cold temperatures. Though there is little evidence suggesting that traditionally made strong Scotch ales exhibited peat smoke character, the current marketplace offers many Scotch Ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scotch Ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "25",
+        "ibuMax": "35",
+        "abvMin": "6.2",
+        "abvMax": "8",
+        "srmMin": "15",
+        "srmMax": "30",
+        "ogMin": "1.072",
+        "fgMin": "1.016",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:11"
+      }
+    },
+    {
+      "id": "HYk1fA",
+      "name": "Wee Heavy 90/~",
+      "nameDisplay": "Wee Heavy 90/~",
+      "abv": "7.4",
+      "glasswareId": 5,
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HYk1fA/upload_HmobXe-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HYk1fA/upload_HmobXe-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HYk1fA/upload_HmobXe-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HYk1fA/upload_HmobXe-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HYk1fA/upload_HmobXe-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HYk1fA/upload_HmobXe-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:28",
+      "updateDate": "2016-12-19 00:31:13",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "YYOFfb",
+      "name": "Wee Heavy Ale",
+      "nameDisplay": "Wee Heavy Ale",
+      "description": "Our Scottish style brown ale is deep brown in color – just take a smell of this beautiful beer and you will see why it is Scottish in style. Strong notes of roasted caramel malt & finishing with a touch of smoke and whiskey. Very reminiscent of the best scotches. The taste will leave you wanting more!",
+      "abv": "9.2",
+      "ibu": "20",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YYOFfb/upload_5pwZ6S-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YYOFfb/upload_5pwZ6S-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YYOFfb/upload_5pwZ6S-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YYOFfb/upload_5pwZ6S-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YYOFfb/upload_5pwZ6S-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YYOFfb/upload_5pwZ6S-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-05-05 13:42:21",
+      "updateDate": "2015-12-17 03:30:36",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "y5PZkF",
+      "name": "Wee Heavy Scotch Ale",
+      "nameDisplay": "Wee Heavy Scotch Ale",
+      "abv": "6.5",
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/y5PZkF/upload_HA1KsU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/y5PZkF/upload_HA1KsU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/y5PZkF/upload_HA1KsU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/y5PZkF/upload_HA1KsU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/y5PZkF/upload_HA1KsU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/y5PZkF/upload_HA1KsU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-02-24 15:17:15",
+      "updateDate": "2015-12-17 02:17:20",
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "U0vh9j",
+      "name": "Wee Heavy Winter Ale",
+      "nameDisplay": "Wee Heavy Winter Ale",
+      "description": "In December 1985 Hale's Wee Heavy became the Northwest’s first designated “seasonal” ale. It is an award\r\n winning strong ale that is a perfect match for the cold weather months. Mahoghany colored and rich tasting, with an intriguing hop profile.",
+      "abv": "7.2",
+      "ibu": "24",
+      "availableId": 4,
+      "styleId": 14,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/U0vh9j/upload_fpBEfd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/U0vh9j/upload_fpBEfd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/U0vh9j/upload_fpBEfd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/U0vh9j/upload_fpBEfd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/U0vh9j/upload_fpBEfd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/U0vh9j/upload_fpBEfd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.074",
+      "createDate": "2012-01-03 02:44:29",
+      "updateDate": "2015-12-15 21:05:48",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 14,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Strong Ale",
+        "shortName": "Strong Ale",
+        "description": "Light amber to mid-range brown in color, strong ales are medium to full bodied with a malty sweetness and may have low levels of roast malt character. Hop aroma should be minimal and flavor can vary from none to medium in character intensity. Fruity-ester flavors and aromas can contribute to the character of this ale. Bitterness should be minimal but evident and balanced with malt and/or caramel-like sweetness. Alcohol types can be varied and complex. A rich, often sweet and complex estery character may be evident. Very low levels of diacetyl are acceptable. Chill haze is acceptable at low temperatures. (This style may often be split into two categories, strong and very strong.)",
+        "ibuMin": "30",
+        "ibuMax": "65",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "8",
+        "srmMax": "21",
+        "ogMin": "1.06",
+        "fgMin": "1.014",
+        "fgMax": "1.04",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:05"
+      }
+    },
+    {
+      "id": "ri9Ap6",
+      "name": "Wee Heavy-er Scotch Ale",
+      "nameDisplay": "Wee Heavy-er Scotch Ale",
+      "description": "This staple from the highlands of Scotland is right at home in the mountains of Western North Carolina. Wee Heavy-er is French Broad’s best-selling beer. At 7% ABV, it is meant to be savored. Great with food and friends.",
+      "abv": "7",
+      "ibu": "25",
+      "glasswareId": 5,
+      "srmId": 15,
+      "availableId": 1,
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ri9Ap6/upload_r5HEzJ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ri9Ap6/upload_r5HEzJ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ri9Ap6/upload_r5HEzJ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ri9Ap6/upload_r5HEzJ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ri9Ap6/upload_r5HEzJ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ri9Ap6/upload_r5HEzJ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "originalGravity": "1.07",
+      "createDate": "2012-01-04 01:00:32",
+      "updateDate": "2019-07-10 15:09:21",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 15,
+        "name": "15",
+        "hex": "BB5100"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "NBEe3x",
+      "name": "Wee Heavy-est",
+      "nameDisplay": "Wee Heavy-est",
+      "abv": "9",
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NBEe3x/upload_5g5UdG-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NBEe3x/upload_5g5UdG-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NBEe3x/upload_5g5UdG-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/NBEe3x/upload_5g5UdG-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/NBEe3x/upload_5g5UdG-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/NBEe3x/upload_5g5UdG-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-05-07 21:07:11",
+      "updateDate": "2015-12-17 03:04:28",
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "u8oy5e",
+      "name": "Wee IPA",
+      "nameDisplay": "Wee IPA",
+      "description": "Our Wee IPA is a low-alcohol, heavily hopped and sessionable pale ale with aromas of passionfruit, key lime, and melon, as well as malt flavors of bread crust and toast. With a complex malt bill of UK and US malts and an enticing blend of hops from Washington, Germany, New Zealand, and Australia, Wee IPA offers fruity, thirst-quenching bitterness and refreshment you can return to again and again.",
+      "abv": "4.7",
+      "ibu": "35",
+      "styleId": 164,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/u8oy5e/upload_g5bFP9-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/u8oy5e/upload_g5bFP9-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/u8oy5e/upload_g5bFP9-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/u8oy5e/upload_g5bFP9-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/u8oy5e/upload_g5bFP9-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/u8oy5e/upload_g5bFP9-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-03-13 14:46:24",
+      "updateDate": "2018-03-13 14:47:03",
+      "style": {
+        "id": 164,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Session India Pale Ale",
+        "shortName": "Session IPA",
+        "description": "Session India Pale Ales are gold to copper. Chill haze is allowable at cold temperatures and hop haze is allowable at any temperature. Fruity-ester aroma is light to moderate. Hop aroma is medium to high with qualities from a wide variety of hops from all over the world. Low to medium maltiness is present. Hop flavor is strong, characterized by flavors from a wide variety of hops. Hop bitterness is medium to high. Fruity-ester flavors are low to moderate. Diacetyl is absent or at very low levels. Body is low to medium.",
+        "createDate": "2015-04-07 17:07:27"
+      }
+    },
+    {
+      "id": "AAxJnJ",
+      "name": "Wee Mac",
+      "nameDisplay": "Wee Mac",
+      "description": "Wee Mac Scottish-style Ale has a nice hazelnut character with rich toffee undertones.\r\nHops are used sparingly in this beer and serve only to help balance the sweetness of the malt.",
+      "abv": "5.3",
+      "ibu": "23",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 8,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/AAxJnJ/upload_wb5TW7-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/AAxJnJ/upload_wb5TW7-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/AAxJnJ/upload_wb5TW7-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/AAxJnJ/upload_wb5TW7-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/AAxJnJ/upload_wb5TW7-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/AAxJnJ/upload_wb5TW7-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:44:29",
+      "updateDate": "2018-08-03 13:48:36",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 8,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Heavy Ale",
+        "shortName": "Scottish Heavy",
+        "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "12",
+        "ibuMax": "20",
+        "abvMin": "3.5",
+        "abvMax": "4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.035",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:48"
+      }
+    },
+    {
+      "id": "0HNYqJ",
+      "name": "Wee Muckle",
+      "nameDisplay": "Wee Muckle",
+      "description": "Wee Muckle is a large, malt-balanced ale with huge toffee flavors and hints of port-like character.\r\n \r\nWee Muckle was the winner of the Gold Medal in the Scotch Ale category at the 2011 Great American Beer Festival",
+      "abv": "8.8",
+      "ibu": "30",
+      "styleId": 9,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0HNYqJ/upload_Xbvpww-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0HNYqJ/upload_Xbvpww-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0HNYqJ/upload_Xbvpww-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0HNYqJ/upload_Xbvpww-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0HNYqJ/upload_Xbvpww-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0HNYqJ/upload_Xbvpww-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-12-16 00:44:36",
+      "updateDate": "2017-01-09 16:19:55",
+      "style": {
+        "id": 9,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Export Ale",
+        "shortName": "Scottish Export",
+        "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4",
+        "abvMax": "5.3",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:56"
+      }
+    },
+    {
+      "id": "8kCKb5",
+      "name": "Wee on the Lam Sour Brown",
+      "nameDisplay": "Wee on the Lam Sour Brown",
+      "ibu": "40",
+      "glasswareId": 1,
+      "srmId": 17,
+      "availableId": 2,
+      "styleId": 39,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8kCKb5/upload_GbIcnf-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8kCKb5/upload_GbIcnf-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8kCKb5/upload_GbIcnf-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8kCKb5/upload_GbIcnf-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8kCKb5/upload_GbIcnf-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8kCKb5/upload_GbIcnf-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "originalGravity": "1.096",
+      "createDate": "2012-12-04 11:56:38",
+      "updateDate": "2015-12-16 20:33:05",
+      "glass": {
+        "id": 1,
+        "name": "Flute",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 17,
+        "name": "17",
+        "hex": "B04500"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 39,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Brett Beer",
+        "shortName": "Brett",
+        "description": "Brett Beers are any range of color and may take on the color of added fruits or other ingredients. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Moderate to intense yet balanced fruity-ester aromas are evident. In darker versions, roasted malt, caramel-like and chocolate-like aromas are subtly present. Diacetyl and DMS aromas should not be perceived. Hop aroma is evident over a full range from low to high. In darker versions, roasted malt, caramel-like and chocolate-like flavors are subtly present. Fruited versions will exhibit fruit flavors in harmonious balance with other characters. Hop flavor is evident over a full range from low to high. Hop bitterness is evident over a full range from low to high. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, not dominant and in balance with other character. Cultured yeast strains may be used in the fermentation. Beers in this style should not use bacteria or exhibit bacteria-derived characters. Moderate to intense yet balanced fruity-ester flavors are evident. Diacetyl and DMS flavors should not be perceived. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Body is evident over a full range from low to high. For purposes of competition entries exhibiting wood-derived characters or characters of liquids previously aged in wood would more appropriately be entered in other Wood-Aged Beer categories. Wood- and barrel-aged sour ales should not be entered here and are classified elsewhere.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:04:16"
+      }
+    },
+    {
+      "id": "UfCifC",
+      "name": "Wee Peat",
+      "nameDisplay": "Wee Peat",
+      "description": "Doff the cap of this complex Scottish Ale with 5.6% ALC/VOL, and in a wink you’ll be hearing Highland bagpipes as you sip this smoky, peaty, bonnie good brew. Aye. That’s the high road, that is.",
+      "abv": "5.6",
+      "glasswareId": 14,
+      "availableId": 1,
+      "styleId": 9,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/UfCifC/upload_Uvs5IR-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/UfCifC/upload_Uvs5IR-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/UfCifC/upload_Uvs5IR-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/UfCifC/upload_Uvs5IR-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/UfCifC/upload_Uvs5IR-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/UfCifC/upload_Uvs5IR-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-09-02 23:29:16",
+      "updateDate": "2019-06-14 23:06:39",
+      "glass": {
+        "id": 14,
+        "name": "Thistle",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 9,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Export Ale",
+        "shortName": "Scottish Export",
+        "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4",
+        "abvMax": "5.3",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:56"
+      }
+    },
+    {
+      "id": "dxmodF",
+      "name": "Wee Peat",
+      "nameDisplay": "Wee Peat",
+      "abv": "5",
+      "styleId": 7,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dxmodF/upload_cQbAb8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dxmodF/upload_cQbAb8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dxmodF/upload_cQbAb8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dxmodF/upload_cQbAb8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dxmodF/upload_cQbAb8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dxmodF/upload_cQbAb8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-02-03 12:33:17",
+      "updateDate": "2015-12-17 09:33:04",
+      "style": {
+        "id": 7,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scottish-Style Light Ale",
+        "shortName": "Scottish Light",
+        "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "9",
+        "ibuMax": "20",
+        "abvMin": "2.8",
+        "abvMax": "3.5",
+        "srmMin": "8",
+        "srmMax": "17",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:41"
+      }
+    },
+    {
+      "id": "ZWwqEF",
+      "name": "Wee Plaid",
+      "nameDisplay": "Wee Plaid",
+      "abv": "7.7",
+      "styleId": 15,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ZWwqEF/upload_sUJ24W-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ZWwqEF/upload_sUJ24W-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ZWwqEF/upload_sUJ24W-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ZWwqEF/upload_sUJ24W-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ZWwqEF/upload_sUJ24W-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ZWwqEF/upload_sUJ24W-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-06-23 16:03:21",
+      "updateDate": "2015-12-18 03:03:29",
+      "style": {
+        "id": 15,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Scotch Ale",
+        "shortName": "Scotch Ale",
+        "description": "Scotch ales are overwhelmingly malty and full-bodied. Perception of hop bitterness is very low. Hop flavor and aroma are very low or nonexistent. Color ranges from deep copper to brown. The clean alcohol flavor balances the rich and dominant sweet maltiness in flavor and aroma. A caramel character is often a part of the profile. Dark roasted malt flavors and aroma may be evident at low levels. If present, fruity esters are generally at low aromatic and flavor levels. Low diacetyl levels are acceptable. Chill haze is allowable at cold temperatures. Though there is little evidence suggesting that traditionally made strong Scotch ales exhibited peat smoke character, the current marketplace offers many Scotch Ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scotch Ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+        "ibuMin": "25",
+        "ibuMax": "35",
+        "abvMin": "6.2",
+        "abvMax": "8",
+        "srmMin": "15",
+        "srmMax": "30",
+        "ogMin": "1.072",
+        "fgMin": "1.016",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:11"
+      }
+    },
+    {
+      "id": "rrh2pS",
+      "name": "Wee Stein WIt",
+      "nameDisplay": "Wee Stein WIt",
+      "description": "Layers of flavor delight in our Belgian Style Witbier. A light, creamy body compliments the zesty spiced aromas of orange peel and coriander with a sparkling, crisp and refreshing finish.\n There’s nothing wee about Wit!",
+      "abv": "5.25",
+      "ibu": "12",
+      "availableId": 4,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rrh2pS/upload_U2MRao-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rrh2pS/upload_U2MRao-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rrh2pS/upload_U2MRao-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rrh2pS/upload_U2MRao-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rrh2pS/upload_U2MRao-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rrh2pS/upload_U2MRao-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:00",
+      "updateDate": "2016-06-10 19:41:07",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Op4P0i",
+      "name": "Weed Golden Ale",
+      "nameDisplay": "Weed Golden Ale",
+      "description": "A light, fruity, golden colored ale, tasting crisp and clean as the mountain air. Whether you are summiting Mt. Shasta, tending a hop garden, drinking with friends after work, or dancing the night away, we proudly offer our Golden Weed to refresh and enthuse your palate. Peer into the light golden color and allow the aroma of citrus to lure your tastebuds to a chilled glass of this scrumptous Weed ale. With a modest bitterness, the taste left in your mouth is mild and relaxed. Hop flavors are of citrus, due to the low alpha of our Saaz dry hop. Savor the undertones of our quality grain and the clean, dry finish of the low final gravity. At 5% ABV this ale is not a heavy hitter.",
+      "abv": "5",
+      "ibu": "24.5",
+      "availableId": 1,
+      "styleId": 36,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Op4P0i/upload_mPky1T-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Op4P0i/upload_mPky1T-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Op4P0i/upload_mPky1T-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Op4P0i/upload_mPky1T-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Op4P0i/upload_mPky1T-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Op4P0i/upload_mPky1T-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-25 17:16:22",
+      "updateDate": "2015-12-18 00:48:54",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 36,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Golden or Blonde Ale",
+        "shortName": "Blonde",
+        "description": "Golden or Blonde ales are straw to golden blonde in color. They have a crisp, dry palate, light to medium body, and light malt sweetness. Low to medium hop aroma may be present but does not dominate. Bitterness is low to medium. Fruity esters may be perceived but do not predominate. Diacetyl should not be perceived. Chill haze should be absent.",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4",
+        "abvMax": "5",
+        "srmMin": "3",
+        "srmMax": "7",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:26"
+      }
+    },
+    {
+      "id": "aPp8Up",
+      "name": "Weedy’s",
+      "nameDisplay": "Weedy’s",
+      "description": "A dry, refreshing DIPA. Floral grapefruit aroma and flavors with a clean crisp finish. Not extremely bitter, but with a strong hop flavor.",
+      "abv": "8.5",
+      "ibu": "175",
+      "availableId": 1,
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/aPp8Up/upload_Ocwv5s-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/aPp8Up/upload_Ocwv5s-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/aPp8Up/upload_Ocwv5s-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/aPp8Up/upload_Ocwv5s-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/aPp8Up/upload_Ocwv5s-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/aPp8Up/upload_Ocwv5s-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-11 16:48:57",
+      "updateDate": "2015-12-17 23:57:16",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "PvSgPJ",
+      "name": "Week Away",
+      "nameDisplay": "Week Away",
+      "description": "Completely distinct from previous \"Week Away\" releases, this brand new recipe is a juicy, low bitterness hazy IPA featuring citrus and tropical fruit notes throughout.\r\n\r\nCompletely redesigned to bring juicy haze via El Dorado, Cashmere & Denali.",
+      "abv": "6.5",
+      "styleId": 172,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/PvSgPJ/upload_o1MNEN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/PvSgPJ/upload_o1MNEN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/PvSgPJ/upload_o1MNEN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/PvSgPJ/upload_o1MNEN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/PvSgPJ/upload_o1MNEN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/PvSgPJ/upload_o1MNEN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-08-20 16:57:05",
+      "updateDate": "2019-08-20 16:57:27",
+      "style": {
+        "id": 172,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Juicy or Hazy India Pale Ale",
+        "shortName": "Juicy or Hazy IPA",
+        "description": "Color: Straw to deep gold\r\n\r\nClarity: Low to very high degree of cloudiness is typical of these beers. Starch, yeast, hop, protein and/or other compounds contribute to a wide range of hazy appearance within this category.\r\n\r\nPerceived Malt Aroma & Flavor: Low to low-medium malt aroma and flavor may be present\r\n\r\nPerceived Hop Aroma & Flavor: Medium-high to very high hop aroma and flavor are present, with attributes typical of hops from any origin\r\n\r\nPerceived Bitterness: Medium-low to medium\r\n\r\nFermentation Characteristics: Low to medium fruity-estery aroma and ﬂavor may be present, but are usually overwhelmed by hop fruitiness. Diacetyl should not be perceived.\r\n\r\nBody: Medium-low to medium-high. Perceived silky or full mouthfeel may contribute to overall flavor profile.\r\n\r\nAdditional notes: Grist may include a small amount of oat, wheat or other adjuncts to promote haziness. Descriptors such as “juicy” are often used to describe the taste and aroma hop-derived attributes present in these beers.",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.06",
+        "ogMax": "1.07",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2018-08-16 14:03:57"
+      }
+    },
+    {
+      "id": "JX6ssl",
+      "name": "Week Sauce Porter",
+      "nameDisplay": "Week Sauce Porter",
+      "description": "In honor of Craft Beer Weeks all around the US, Left Hand created a special one-off beer called Beer Week Sauce Porter. This American-style porter contains a fair amount of coffee; which is just the thing that you’ll need to keep going through this week!",
+      "abv": "6.1",
+      "glasswareId": 5,
+      "availableId": 2,
+      "styleId": 18,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JX6ssl/upload_fbOGUn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JX6ssl/upload_fbOGUn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JX6ssl/upload_fbOGUn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JX6ssl/upload_fbOGUn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JX6ssl/upload_fbOGUn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JX6ssl/upload_fbOGUn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:29",
+      "updateDate": "2015-12-16 07:35:09",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 18,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Brown Porter",
+        "shortName": "Brown Porter",
+        "description": "Brown porters are mid to dark brown (may have red tint) in color. No roast barley or strong burnt/black malt character should be perceived. Low to medium malt sweetness, caramel and chocolate is acceptable along with medium hop bitterness. This is a lightto medium-bodied beer. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "35",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:43"
+      }
+    },
+    {
+      "id": "qUC8T8",
+      "name": "Weekday Warrior",
+      "nameDisplay": "Weekday Warrior",
+      "description": "The work week is in full swing, but that doesn't mean you've got a case of the Mondays...you've got a case of Weekday Warrior! When the whistle blows, wet your whistle with this Session IPA loaded with huge hop flavor and aroma with a low ABV of 4.5%. So tackle the week with gusto and crack open a Weekday Warrior Session IPA to a job well done!",
+      "abv": "4.5",
+      "ibu": "34",
+      "availableId": 1,
+      "styleId": 164,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qUC8T8/upload_dfcdRM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qUC8T8/upload_dfcdRM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qUC8T8/upload_dfcdRM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qUC8T8/upload_dfcdRM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qUC8T8/upload_dfcdRM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qUC8T8/upload_dfcdRM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Jerk chicken sandwich, Ceviche, Mango-habenero glazed pork chops, Cheddar burger",
+      "createDate": "2018-05-01 19:10:20",
+      "updateDate": "2018-08-20 13:32:35",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 164,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Session India Pale Ale",
+        "shortName": "Session IPA",
+        "description": "Session India Pale Ales are gold to copper. Chill haze is allowable at cold temperatures and hop haze is allowable at any temperature. Fruity-ester aroma is light to moderate. Hop aroma is medium to high with qualities from a wide variety of hops from all over the world. Low to medium maltiness is present. Hop flavor is strong, characterized by flavors from a wide variety of hops. Hop bitterness is medium to high. Fruity-ester flavors are low to moderate. Diacetyl is absent or at very low levels. Body is low to medium.",
+        "createDate": "2015-04-07 17:07:27"
+      }
+    },
+    {
+      "id": "2p4TFg",
+      "name": "Weekend @ Louie's",
+      "nameDisplay": "Weekend @ Louie's",
+      "description": "We took a batch of Louie’s Demise and added a bunch of Rishi’s Organic Blueberry Rooibos and Hibiscus Tea blends  to our secondary fermentation vessel. After two weeks of cold infusion we filtered out the tea, carbonated it.\r\n\r\nIn the fall of 2011 we created a sessionable version of our Louie’s Demise. We added Rishi’s Organic Blueberry Rooibos and Hibiscus Tea blends to our secondary fermentation vessels and after about 2 weeks of cold infusion we filtered out the tea and carbonated it.\r\n\r\nDuring the initial brew, we get a lot of the caramel and earthy malt aromas that we expect from brewing Louie’s, The blueberry and hibiscus smells explode after fermentation, it was surprisinig how intese they were after such a short period of time. Working with nontraditional ingredients was really exciting, however we had no idea what the cold infusion would do to such a light flavored beer. With no benchmark, we just guessed on the quantities.\r\n\r\nThis is an unusal beer, but it’s perfect for a hot afternoon when you’re looking for something refreshing.",
+      "abv": "4.25",
+      "ibu": "18",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 125,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2p4TFg/upload_ku95t1-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2p4TFg/upload_ku95t1-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2p4TFg/upload_ku95t1-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2p4TFg/upload_ku95t1-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2p4TFg/upload_ku95t1-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2p4TFg/upload_ku95t1-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-09-09 13:28:29",
+      "updateDate": "2015-12-16 18:41:20",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "AYSOJA",
+      "name": "Weekend Getaway",
+      "nameDisplay": "Weekend Getaway",
+      "abv": "7.4",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/AYSOJA/upload_SWB7t0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/AYSOJA/upload_SWB7t0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/AYSOJA/upload_SWB7t0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/AYSOJA/upload_SWB7t0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/AYSOJA/upload_SWB7t0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/AYSOJA/upload_SWB7t0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-05-08 14:32:53",
+      "updateDate": "2019-05-08 14:35:04",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "o55WYh",
+      "name": "Weekend Vibes",
+      "nameDisplay": "Weekend Vibes",
+      "description": "Bursting with tropical dankness, this beer is everything you want from a San Diego style IPA. It's jam-packed with hop fruitiness, and refreshingly dry. Crack one open and get ready to feel those Weekend Vibes",
+      "abv": "6.8",
+      "ibu": "60",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/o55WYh/upload_FcCeW4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/o55WYh/upload_FcCeW4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/o55WYh/upload_FcCeW4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/o55WYh/upload_FcCeW4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/o55WYh/upload_FcCeW4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/o55WYh/upload_FcCeW4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-12-18 18:09:10",
+      "updateDate": "2018-12-19 05:00:46",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "yvAtxW",
+      "name": "Weekend Warrior",
+      "nameDisplay": "Weekend Warrior",
+      "description": "Soft caramel malt flavors are met by bright, citrusy hop bitterness and aromatics to provide balance to this pale ale. Weekend Warrior gives hop heads just what they desire while delivering sessionability that allows you to check off that to do list!",
+      "abv": "5.5",
+      "ibu": "45",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/yvAtxW/upload_YBrL5R-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/yvAtxW/upload_YBrL5R-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/yvAtxW/upload_YBrL5R-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/yvAtxW/upload_YBrL5R-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/yvAtxW/upload_YBrL5R-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/yvAtxW/upload_YBrL5R-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Jerk chicken, fish and chips, hamburgers, chips and queso, life",
+      "originalGravity": "1.052",
+      "createDate": "2013-05-09 20:18:22",
+      "updateDate": "2018-08-20 13:27:46",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "0ZDcki",
+      "name": "Weekender",
+      "nameDisplay": "Weekender",
+      "description": "A crisp, refreshing ale made with malted white wheat and fresh squeezed lemon juice. The light wheat haze and refreshing lemon bite make it a must for hot Florida Summers.",
+      "abv": "4.6",
+      "ibu": "19.5",
+      "glasswareId": 5,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0ZDcki/upload_Jn2fp2-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0ZDcki/upload_Jn2fp2-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0ZDcki/upload_Jn2fp2-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0ZDcki/upload_Jn2fp2-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0ZDcki/upload_Jn2fp2-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0ZDcki/upload_Jn2fp2-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-01-03 20:42:54",
+      "updateDate": "2017-01-04 13:12:53",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "3vIMB4",
+      "name": "Weekender Wheat",
+      "nameDisplay": "Weekender Wheat",
+      "description": "This classic wheat beer offers all the thirst quenching refreshment you expect from your favorite ‘go to’ beer. Whether you are in town for the weekend or you call Geneva Lake home like us; this beer is sure to have you coming back for more. Quench your thirst in true wheat craft style all year long; cuz in Lake Geneva…every day feels like the weekend.",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 113,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/3vIMB4/upload_AJNhOV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/3vIMB4/upload_AJNhOV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/3vIMB4/upload_AJNhOV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/3vIMB4/upload_AJNhOV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/3vIMB4/upload_AJNhOV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/3vIMB4/upload_AJNhOV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-02 12:00:39",
+      "updateDate": "2015-12-16 20:52:53",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 113,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager without Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. A fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Appearance can be clear or with chill haze, golden to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:53"
+      }
+    },
+    {
+      "id": "nwbeUp",
+      "name": "Weeping Willow Wit",
+      "nameDisplay": "Weeping Willow Wit",
+      "description": "This beer style is over 400 years old, and continues to enjoy overwhelming popularity. Offering low hop bitterness, it is easy to enjoy. It pours very hazy, with a light gold color... we say it's like summertime in a glass. Bitter orange peel and fresh coriander add zest and depth to this refreshing beer.",
+      "abv": "5",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/nwbeUp/upload_zB8TSb-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/nwbeUp/upload_zB8TSb-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/nwbeUp/upload_zB8TSb-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/nwbeUp/upload_zB8TSb-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/nwbeUp/upload_zB8TSb-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/nwbeUp/upload_zB8TSb-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Fruit Salad, Grilled Chicken, Grilled Tuna, Steamed Mussels, Buffalo Mozzarella, Mango Pie",
+      "createDate": "2012-01-03 02:44:29",
+      "updateDate": "2016-10-18 19:07:12",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Sr0czG",
+      "name": "Weihenstephaner Pale Ale",
+      "nameDisplay": "Weihenstephaner Pale Ale",
+      "description": "A noble composition of very traditional aroma hops from the worlds biggest connected hops growing area with a blend of the sorts \"Tradition\" and the original local cultivars \"Hersbrucker\" and \"Hallertauer Mittelfrüh\". Local\r\ncultivars are hops in their most original and natural way, selected out of wild growing sorts over the last centuries.\r\nThey are highly sought after for their low bitter value yet very distinguished, elegant and flavorful aroma.",
+      "abv": "6.4",
+      "ibu": "52",
+      "styleId": 73,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Sr0czG/upload_Pmzjbv-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Sr0czG/upload_Pmzjbv-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Sr0czG/upload_Pmzjbv-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Sr0czG/upload_Pmzjbv-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Sr0czG/upload_Pmzjbv-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Sr0czG/upload_Pmzjbv-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-08-31 17:59:25",
+      "updateDate": "2018-08-31 18:00:58",
+      "style": {
+        "id": 73,
+        "categoryId": 6,
+        "category": {
+          "id": 6,
+          "name": "International Ale Styles",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "International-Style Pale Ale",
+        "shortName": "International Pale",
+        "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:35:08"
+      }
+    },
+    {
+      "id": "zz18ny",
+      "name": "Weihenstephaner Vitus",
+      "nameDisplay": "Weihenstephaner Vitus",
+      "description": "A light-colored, spicy single-bock wheat beer, for both beer loves and the beer connoisseur. Extra long and cold storage in our monastery cellars makes this single-bock a really special beer with full body and a distinctively great mouthfeel. Prost!",
+      "abv": "7.7",
+      "ibu": "17",
+      "glasswareId": 9,
+      "srmId": 5,
+      "availableId": 1,
+      "styleId": 53,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zz18ny/upload_04obdm-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zz18ny/upload_04obdm-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zz18ny/upload_04obdm-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/zz18ny/upload_04obdm-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/zz18ny/upload_04obdm-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/zz18ny/upload_04obdm-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2013-02-01 17:48:19",
+      "updateDate": "2015-12-17 00:29:11",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 5,
+        "name": "5",
+        "hex": "FBB123"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 53,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Weizenbock / Weissbock",
+        "shortName": "Weizenbock",
+        "description": "This style can be either pale or dark (golden to dark brown in color) and has a high starting gravity and alcohol content. The malty sweetness of a Weizenbock is balanced with a clove-like phenolic and fruity-estery banana element to produce a wellrounded aroma and flavor. As is true with all German wheat beers, hop bitterness is low and carbonation is high. Hop flavor and aroma are absent. It has a medium to full body. If dark, a mild roast malt character should emerge in flavor and to a lesser degree in the aroma. If this is served with yeast the beer may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "15",
+        "ibuMax": "35",
+        "abvMin": "6.9",
+        "abvMax": "9.3",
+        "srmMin": "5",
+        "srmMax": "30",
+        "ogMin": "1.066",
+        "fgMin": "1.016",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:30:15"
+      }
+    },
+    {
+      "id": "rKjM20",
+      "name": "Weim-R-iner",
+      "nameDisplay": "Weim-R-iner",
+      "description": "This is for all the beer drinkers. If you like a good IPA then this one’s for you. One of our award-winning hard ciders, dry hopped with a select variety of hops from across the country",
+      "abv": "6.9",
+      "styleId": 149,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rKjM20/upload_NZsJQt-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rKjM20/upload_NZsJQt-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rKjM20/upload_NZsJQt-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rKjM20/upload_NZsJQt-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rKjM20/upload_NZsJQt-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rKjM20/upload_NZsJQt-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-02-26 14:49:18",
+      "updateDate": "2015-12-17 21:28:49",
+      "style": {
+        "id": 149,
+        "categoryId": 12,
+        "category": {
+          "id": 12,
+          "name": "Mead, Cider, & Perry",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Common Cider",
+        "shortName": "Common Cider",
+        "description": "Variable, but should be a medium, refreshing drink. Sweet ciders must not be cloying. Dry ciders must not be too austere. An ideal cider serves well as a “session” drink, and suitably accompanies a wide variety of food.",
+        "abvMin": "5",
+        "abvMax": "8",
+        "ogMin": "1.045",
+        "ogMax": "1.065",
+        "fgMin": "1",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:48:44"
+      }
+    },
+    {
+      "id": "aa52mw",
+      "name": "Wein Lager",
+      "nameDisplay": "Wein Lager",
+      "abv": "5.5",
+      "styleId": 80,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/aa52mw/upload_iZRz4h-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/aa52mw/upload_iZRz4h-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/aa52mw/upload_iZRz4h-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/aa52mw/upload_iZRz4h-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/aa52mw/upload_iZRz4h-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/aa52mw/upload_iZRz4h-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-20 18:24:06",
+      "updateDate": "2015-12-18 00:06:25",
+      "style": {
+        "id": 80,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Vienna-Style Lager",
+        "shortName": "Vienna Lager",
+        "description": "Beers in this category are reddish brown or copper colored. They are medium in body. The beer is characterized by malty aroma and slight malt sweetness. The malt aroma and flavor should have a notable degree of toasted and/or slightly roasted malt character. Hop bitterness is clean and crisp. Noble-type hop aromas and flavors should be low or mild. Diacetyl, chill haze and ale-like fruity esters should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "28",
+        "abvMin": "4.8",
+        "abvMax": "5.4",
+        "srmMin": "12",
+        "srmMax": "16",
+        "ogMin": "1.046",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:42"
+      }
+    },
+    {
+      "id": "vXdWaQ",
+      "name": "Weird Weather Gluten Free",
+      "nameDisplay": "Weird Weather Gluten Free",
+      "description": "Gluten Free version of the Weird Weather Hazy IPA series.",
+      "abv": "6.7",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/vXdWaQ/upload_1MqeGX-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/vXdWaQ/upload_1MqeGX-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/vXdWaQ/upload_1MqeGX-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/vXdWaQ/upload_1MqeGX-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/vXdWaQ/upload_1MqeGX-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/vXdWaQ/upload_1MqeGX-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-01-18 15:43:35",
+      "updateDate": "2019-01-18 15:44:19",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "4aT687",
+      "name": "Weird Weather IIPA",
+      "nameDisplay": "Weird Weather IIPA",
+      "description": "New England Style Imperial IPA",
+      "abv": "8.3",
+      "styleId": 173,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4aT687/upload_uvuiZH-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4aT687/upload_uvuiZH-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4aT687/upload_uvuiZH-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4aT687/upload_uvuiZH-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4aT687/upload_uvuiZH-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4aT687/upload_uvuiZH-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-01-18 15:07:53",
+      "updateDate": "2019-01-18 15:08:50",
+      "style": {
+        "id": 173,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Juicy or Hazy Imperial or Double India Pale Ale",
+        "shortName": "Juicy or Hazy Double IPA",
+        "description": "Color: Straw to deep gold\r\n\r\nClarity: Low to very high degree of cloudiness is typical of these beers. Starch, yeast, hop, protein and/or other compounds contribute to a wide range of hazy appearance within this category.\r\n\r\nPerceived Malt Aroma & Flavor: Low to high malt aroma and flavor may be present\r\n\r\nPerceived Hop Aroma & Flavor: High to very high hop aroma and flavor are present, with attributes typical of hops from any origin.\r\n\r\nPerceived Bitterness: Low to medium. Perceived impression of bitterness is soft and well-integrated into overall balance, and may differ significantly from measured or calculated IBU levels.\r\n\r\nFermentation Characteristics: Low to medium fruity-estery aroma and ﬂavor may be present, but are usually overwhelmed by hop character. Diacetyl should not be perceived.\r\n\r\nBody: Medium to high. Perceived silky or full mouthfeel may contribute to overall flavor profile.\r\n\r\nAdditional notes: Grist may include a small amount of oat, wheat or other adjuncts to promote haziness. Descriptors such as “juicy” are often used to describe the taste and aroma hop-derived attributes present in these beers.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.6",
+        "abvMax": "10.6",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.07",
+        "ogMax": "1.1",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2018-08-16 14:08:49"
+      }
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,2568 @@
+{
+  "currentPage": 583,
+  "numberOfPages": 603,
+  "totalResults": 30140,
+  "data": [
+    {
+      "id": "rj6kKW",
+      "name": "Whistler Imperial Pils",
+      "nameDisplay": "Whistler Imperial Pils",
+      "description": "The piercing howl of the SD#1 Whistler Buoy echoes for miles, hailing ships of rocky shores ahead. Like its namesake, Whistler Imperial Pils warns and welcomes at the same time. The grassy and floral bitterness of Saaz hops warns this is no ordinary pilsner, while authentic Moravian malts provide a toasted malt balance that welcomes another sip. Finishing crisp and dry, this addition to the Coastal Reserve Series is right at home in America’s finest beer city.",
+      "abv": "7.5",
+      "ibu": "65",
+      "glasswareId": 4,
+      "srmId": 12,
+      "availableId": 3,
+      "styleId": 75,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rj6kKW/upload_Yr6lUq-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rj6kKW/upload_Yr6lUq-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rj6kKW/upload_Yr6lUq-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rj6kKW/upload_Yr6lUq-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rj6kKW/upload_Yr6lUq-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rj6kKW/upload_Yr6lUq-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 4,
+        "name": "Pilsner",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 12,
+        "name": "12",
+        "hex": "CF6900"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 75,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Pilsener",
+        "shortName": "German Pilsener",
+        "description": "A classic German Pilsener is very light straw or golden in color and well hopped. Perception of hop bitterness is medium to high. Noble-type hop aroma and flavor are moderate and quite obvious. It is a well-attenuated, medium-light bodied beer, but a malty residual sweetness can be perceived in aroma and flavor. Very low levels of sweet corn-like dimethylsulfide (DMS) character are below most beer drinkers' taste thresholds and are usually not detectable except to the trained or sensitive palate. Other fermentation or hop related sulfur compounds, when perceived at low levels, may be characteristic of this style. Fruity esters and diacetyl should not be perceived. There should be no chill haze. Its head should be dense and rich.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "4",
+        "abvMax": "5",
+        "srmMin": "3",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:35:59"
+      }
+    },
+    {
+      "id": "eJ3EsS",
+      "name": "Whistling Pig Hefeweizen",
+      "nameDisplay": "Whistling Pig Hefeweizen",
+      "description": "Fruity, refreshing, and touched with malt sweetness, Whistling Pig Hefeweizen is a bright reward for days under the sun. Crisp yet easygoing, Whistling Pig is an unfiltered wheat bier. Its classically cloudy appearance characterizes the best German hefeweizens. That a hefe this authentic is born in the great Pacific Northwest makes Whistling Pig Hefeweizen all the more delightful.",
+      "abv": "5.4",
+      "ibu": "22",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/eJ3EsS/upload_b0bIxT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/eJ3EsS/upload_b0bIxT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/eJ3EsS/upload_b0bIxT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/eJ3EsS/upload_b0bIxT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/eJ3EsS/upload_b0bIxT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/eJ3EsS/upload_b0bIxT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2015-12-15 21:07:28",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "XT5MsP",
+      "name": "White",
+      "nameDisplay": "White",
+      "description": "White is a tip of the hat to the great Belgian-style witbiers (or white beers). While this style of beer is usually delicate and subtle, ours is anything but. It’s brewed with traditional ingredients, such as unmalted wheat, orange peel and coriander, and fermented with our house Belgian yeast strain. With a dry hop level that matches an IPA, White features a commanding aroma more like its American peers than its Belgian ancestors. Tropical notes abound with a crisp, dry finish.",
+      "abv": "4.6",
+      "ibu": "25",
+      "glasswareId": 8,
+      "srmId": 6,
+      "availableId": 4,
+      "styleId": 65,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/XT5MsP/upload_7VrOyW-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/XT5MsP/upload_7VrOyW-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/XT5MsP/upload_7VrOyW-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/XT5MsP/upload_7VrOyW-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/XT5MsP/upload_7VrOyW-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/XT5MsP/upload_7VrOyW-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "originalGravity": "1.046",
+      "createDate": "2015-06-18 12:53:26",
+      "updateDate": "2015-12-18 03:42:05",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 6,
+        "name": "6",
+        "hex": "F8A600"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Lzmxub",
+      "name": "White",
+      "nameDisplay": "White",
+      "description": "Our version of a Belgian classic, brewed with wheat malt and spiced with coriander and orange peel. Pours a beautiful hazy blond-gold with a thick pearly white head. The nose is yeasty with a light aroma of fruit and spice. This beer is as crisp and refreshing as the aroma implies, with the wheat malt supplying a full, somewhat sweet background to the orange and coriander flavor. Spritzy carbonation lifts the sweetness to lend a crisp finish. A great beer for a warm summer day.",
+      "abv": "4.6",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 65,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Lzmxub/upload_6eOHLd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Lzmxub/upload_6eOHLd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Lzmxub/upload_6eOHLd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Lzmxub/upload_6eOHLd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Lzmxub/upload_6eOHLd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Lzmxub/upload_6eOHLd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Great with Belgian moules frites (steamed, buttered mussels and French fries) or charcuterie. The crisp carbonation in our White can cut through even the richest, creamiest dishes.",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2015-12-15 22:00:17",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "uCyeOp",
+      "name": "White",
+      "nameDisplay": "White",
+      "description": "Celis White is made using Pierre Celis’ original recipe from 1965, when he revived the witbier style on his father’s barn in Belgium. Brewed with the highest quality ingredients, Celis White is a light and hazy yellow wheat beer, ideal for sipping during the hot summer months. An easy-drinking session beer laced with flavors of orange peel, spice and coriander, take a step back in time and enjoy the first witbier, Celis White.",
+      "abv": "5",
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/uCyeOp/upload_9ikD20-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/uCyeOp/upload_9ikD20-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/uCyeOp/upload_9ikD20-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/uCyeOp/upload_9ikD20-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/uCyeOp/upload_9ikD20-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/uCyeOp/upload_9ikD20-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2018-07-18 05:02:54",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Q8hjek",
+      "name": "White",
+      "nameDisplay": "White",
+      "description": "Our interpretation of a traditional Belgian wheat beer. Brewed with a generous portion of wheat and spiced with coriander and Curacao orange peel, this beer is fruity, refreshing and slightly cloudy in appearance.\r\n\r\n\r\nAwards:\r\n    Gold, World Beer Cup 2010\r\n    Bronze, GABF 2010\r\n    Gold, GABF 2005\r\n    Silver, World Beer Cup 2004\r\n    Gold, GABF 2002\r\n    Bronze, World Beer Cup 2002\r\n    Gold, World Beer Cup 1998",
+      "abv": "5",
+      "ibu": "28",
+      "glasswareId": 5,
+      "srmId": 1,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Q8hjek/upload_Tv3050-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Q8hjek/upload_Tv3050-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Q8hjek/upload_Tv3050-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Q8hjek/upload_Tv3050-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Q8hjek/upload_Tv3050-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Q8hjek/upload_Tv3050-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:42:40",
+      "updateDate": "2017-01-10 22:11:47",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 1,
+        "name": "1",
+        "hex": "FFE699"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "eT2KGI",
+      "name": "White",
+      "nameDisplay": "White",
+      "abv": "6",
+      "availableId": 2,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/eT2KGI/upload_aLV7oT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/eT2KGI/upload_aLV7oT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/eT2KGI/upload_aLV7oT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/eT2KGI/upload_aLV7oT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/eT2KGI/upload_aLV7oT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/eT2KGI/upload_aLV7oT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-01-29 19:51:25",
+      "updateDate": "2015-12-17 09:58:40",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "6SiRgA",
+      "name": "White",
+      "nameDisplay": "White",
+      "description": "Our  ‘’white’’ beer is designed and manufactured to celebrate the beauty of the aroma, the taste and the quality of our local fresh ingredients. Freshly ground Cypriot coriander, orange zest from hand peeled unwaxed Cypriot oranges together with fresh chamomile straight from the mountains are beautifully combined with our aromatic hops to please your senses and allow you to get a fresh taste of Cyprus with every sip.",
+      "abv": "4.5",
+      "srmId": 2,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/6SiRgA/upload_wEimrg-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/6SiRgA/upload_wEimrg-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/6SiRgA/upload_wEimrg-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/6SiRgA/upload_wEimrg-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/6SiRgA/upload_wEimrg-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/6SiRgA/upload_wEimrg-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-11-19 18:28:22",
+      "updateDate": "2015-12-17 18:55:58",
+      "srm": {
+        "id": 2,
+        "name": "2",
+        "hex": "FFD878"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "b9edCN",
+      "name": "White & Nerdy",
+      "nameDisplay": "White & Nerdy",
+      "abv": "6",
+      "ibu": "32",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/b9edCN/upload_iSsWmh-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/b9edCN/upload_iSsWmh-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/b9edCN/upload_iSsWmh-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/b9edCN/upload_iSsWmh-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/b9edCN/upload_iSsWmh-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/b9edCN/upload_iSsWmh-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-01 11:09:16",
+      "updateDate": "2015-12-16 20:24:24",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Hv9hZc",
+      "name": "White Ale",
+      "nameDisplay": "White Ale",
+      "abv": "5.3",
+      "ibu": "11",
+      "glasswareId": 5,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Hv9hZc/upload_JLEfUT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Hv9hZc/upload_JLEfUT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Hv9hZc/upload_JLEfUT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Hv9hZc/upload_JLEfUT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Hv9hZc/upload_JLEfUT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Hv9hZc/upload_JLEfUT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.048",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2015-12-16 10:27:42",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Ly7M7Q",
+      "name": "White Ale",
+      "nameDisplay": "White Ale",
+      "abv": "4.7",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Ly7M7Q/upload_Lb9Ygu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Ly7M7Q/upload_Lb9Ygu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Ly7M7Q/upload_Lb9Ygu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Ly7M7Q/upload_Lb9Ygu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Ly7M7Q/upload_Lb9Ygu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Ly7M7Q/upload_Lb9Ygu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2018-05-01 12:00:42",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "kdfAoO",
+      "name": "White Ale",
+      "nameDisplay": "White Ale",
+      "description": "Our Belgian White is brewed with high quality pilsner and wheat malts, generously spiced with coriander and fresh orange peel. Belgian yeast provides the traditional refreshingly tart, spicy, and fruity flavor profile while the wheat protein and yeast give a customary hazy appearance and contribute to the flavor and mouth feel.",
+      "abv": "5",
+      "ibu": "15",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/kdfAoO/upload_nwsJ6N-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/kdfAoO/upload_nwsJ6N-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/kdfAoO/upload_nwsJ6N-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/kdfAoO/upload_nwsJ6N-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/kdfAoO/upload_nwsJ6N-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/kdfAoO/upload_nwsJ6N-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-09-11 00:42:34",
+      "updateDate": "2019-07-12 15:02:46",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Lbs4gB",
+      "name": "White Angel",
+      "nameDisplay": "White Angel",
+      "description": "WHITE ANGEL is an American Sour Ale blended with two pounds per gallon of locally harvested Muscadine and Scuppernong grapes and aged in white wine barrels. Alter eight months, another pound per gallon of Amarillo wine must is blended in stainless steel tanks for 2 months. A total of 2.5 tons of fruit and 10 total months of maturation later we give you White Angel.",
+      "abv": "7.3",
+      "styleId": 170,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Lbs4gB/upload_enIbli-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Lbs4gB/upload_enIbli-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Lbs4gB/upload_enIbli-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Lbs4gB/upload_enIbli-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Lbs4gB/upload_enIbli-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Lbs4gB/upload_enIbli-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-07-16 17:01:21",
+      "updateDate": "2017-08-04 19:47:16",
+      "style": {
+        "id": 170,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wild Beer",
+        "shortName": "Wild Beer",
+        "description": "Wild Beers are any range of color. These beers may be clear or hazy due to yeast, chill haze or hop haze. Aromas may vary tremendously due to fermentation characters contributed by various known and unknown microorganisms. The overall balance should be complex and balanced. Hop aroma very low to high. Usually because of a high degree of attenuation in these beers, malt character is very low to low. If there are exceptions that are malty, the overall balance of complexity of other characters should be in harmony. Hop flavor very low to high. Hop bitterness is perceived at varying levels depending on the overall balance, but usually perceived as very low to low. Wild beers are \"spontaneously\" fermented with microorganisms that the brewer has introduced from the ambient air/environment in the vicinity of the brewery in which the beer is brewed. Wild beers may not be fermented with any cultured strains of yeast or bacteria. Wild beer may or may not be perceived as acidic. It may include a wildly variable spectrum of flavors and aromas derived from the wild microorganisms with which it was fermented. The overall balance of flavors, aromas, appearance and body is an important factor in assessing these beers. Body is very low to medium. Spontaneously fermented beers with fruit, spice or other ingredients would be appropriately entered as Wild Beer. For purposes of competition, entries which could be appropriately entered in an existing classic or traditional category such as Belgian-Style Lambic, Gueuze, Fruit Lambic, etc. should be entered in that category and not entered as a Wild Beer.",
+        "createDate": "2015-04-07 17:21:44"
+      }
+    },
+    {
+      "id": "TkDbDx",
+      "name": "White Bark Witbier",
+      "nameDisplay": "White Bark Witbier",
+      "description": "This traditional Belgian-style wheat ale is brewed with the addition of freshly ground coriander and curacao orange peel. Hops are outshone by the wonderful floral aromas that dominate the nose of this dry and quaffable beer.",
+      "abv": "5",
+      "glasswareId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/TkDbDx/upload_CEHBtb-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/TkDbDx/upload_CEHBtb-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/TkDbDx/upload_CEHBtb-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/TkDbDx/upload_CEHBtb-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/TkDbDx/upload_CEHBtb-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/TkDbDx/upload_CEHBtb-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "•Duck, goose, pork.\r\n•Thai curry, Indian curry.\r\n•Sweet potatoes, carrots, ginger, bell peppers.",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2015-12-16 12:56:57",
+      "glass": {
+        "id": 1,
+        "name": "Flute",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Ne6Vc4",
+      "name": "White Bear",
+      "nameDisplay": "White Bear",
+      "abv": "4.8",
+      "glasswareId": 5,
+      "styleId": 73,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Ne6Vc4/upload_jztCmW-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Ne6Vc4/upload_jztCmW-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Ne6Vc4/upload_jztCmW-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Ne6Vc4/upload_jztCmW-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Ne6Vc4/upload_jztCmW-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Ne6Vc4/upload_jztCmW-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-03 16:33:58",
+      "updateDate": "2015-12-16 19:31:52",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 73,
+        "categoryId": 6,
+        "category": {
+          "id": 6,
+          "name": "International Ale Styles",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "International-Style Pale Ale",
+        "shortName": "International Pale",
+        "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:35:08"
+      }
+    },
+    {
+      "id": "OxRjfD",
+      "name": "White Bite",
+      "nameDisplay": "White Bite",
+      "abv": "4.5",
+      "styleId": 113,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/OxRjfD/upload_Q0nUba-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/OxRjfD/upload_Q0nUba-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/OxRjfD/upload_Q0nUba-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/OxRjfD/upload_Q0nUba-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/OxRjfD/upload_Q0nUba-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/OxRjfD/upload_Q0nUba-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-04-17 13:48:54",
+      "updateDate": "2015-12-17 01:04:25",
+      "style": {
+        "id": 113,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager without Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. A fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Appearance can be clear or with chill haze, golden to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:53"
+      }
+    },
+    {
+      "id": "HQqTlN",
+      "name": "White Blackbird",
+      "nameDisplay": "White Blackbird",
+      "abv": "6",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HQqTlN/upload_z0xqxA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HQqTlN/upload_z0xqxA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HQqTlN/upload_z0xqxA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HQqTlN/upload_z0xqxA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HQqTlN/upload_z0xqxA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HQqTlN/upload_z0xqxA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-10-30 17:30:28",
+      "updateDate": "2015-12-16 19:09:22",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "HSGYKt",
+      "name": "White Blaze",
+      "nameDisplay": "White Blaze",
+      "abv": "4.8",
+      "ibu": "17",
+      "glasswareId": 5,
+      "srmId": 5,
+      "availableId": 1,
+      "styleId": 109,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HSGYKt/upload_s5ySIZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HSGYKt/upload_s5ySIZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HSGYKt/upload_s5ySIZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HSGYKt/upload_s5ySIZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HSGYKt/upload_s5ySIZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HSGYKt/upload_s5ySIZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-03-17 09:51:31",
+      "updateDate": "2018-06-12 20:10:46",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 5,
+        "name": "5",
+        "hex": "FBB123"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 109,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Cream Ale or Lager",
+        "shortName": "Cream Ale",
+        "description": "Mild, pale, light-bodied ale, made using a warm fermentation (top or bottom) and cold lagering. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. Sometimes referred to as cream ales, these beers are crisp and refreshing. Pale malt character predominates. Caramelized malt character should be absent. A fruity or estery aroma may be perceived. Diacetyl and chill haze should not be perceived. Sulfur character and/or sweet corn-like dimethylsulfide (DMS) should be extremely low or absent from this style of beer.",
+        "ibuMin": "10",
+        "ibuMax": "22",
+        "abvMin": "4.2",
+        "abvMax": "5.6",
+        "srmMin": "2",
+        "srmMax": "5",
+        "ogMin": "1.044",
+        "fgMin": "1.004",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:30"
+      }
+    },
+    {
+      "id": "8bVbf5",
+      "name": "White Bronco",
+      "nameDisplay": "White Bronco",
+      "description": "Hopped with Vic Secret, Melba, citra and galaxy.",
+      "abv": "6.7",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8bVbf5/upload_NF8Zs3-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8bVbf5/upload_NF8Zs3-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8bVbf5/upload_NF8Zs3-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8bVbf5/upload_NF8Zs3-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8bVbf5/upload_NF8Zs3-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8bVbf5/upload_NF8Zs3-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-07-22 18:18:34",
+      "updateDate": "2019-07-23 05:01:07",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "z9Foah",
+      "name": "White by Mystic",
+      "nameDisplay": "White by Mystic",
+      "description": "WHITE by Mystic is the essence of a wheat beer. It is thirst quenching with and has a full and pleasant finish. Naturally cloudy.",
+      "abv": "5.1",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/z9Foah/upload_sSvf8n-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/z9Foah/upload_sSvf8n-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/z9Foah/upload_sSvf8n-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/z9Foah/upload_sSvf8n-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/z9Foah/upload_sSvf8n-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/z9Foah/upload_sSvf8n-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-02 14:41:25",
+      "updateDate": "2015-12-16 20:12:42",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "Nmgo70",
+      "name": "White Cap",
+      "nameDisplay": "White Cap",
+      "abv": "4.2",
+      "availableId": 1,
+      "styleId": 164,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Nmgo70/upload_w7Ib8y-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Nmgo70/upload_w7Ib8y-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Nmgo70/upload_w7Ib8y-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Nmgo70/upload_w7Ib8y-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Nmgo70/upload_w7Ib8y-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Nmgo70/upload_w7Ib8y-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-02-14 14:33:54",
+      "updateDate": "2016-01-04 19:18:51",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 164,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Session India Pale Ale",
+        "shortName": "Session IPA",
+        "description": "Session India Pale Ales are gold to copper. Chill haze is allowable at cold temperatures and hop haze is allowable at any temperature. Fruity-ester aroma is light to moderate. Hop aroma is medium to high with qualities from a wide variety of hops from all over the world. Low to medium maltiness is present. Hop flavor is strong, characterized by flavors from a wide variety of hops. Hop bitterness is medium to high. Fruity-ester flavors are low to moderate. Diacetyl is absent or at very low levels. Body is low to medium.",
+        "createDate": "2015-04-07 17:07:27"
+      }
+    },
+    {
+      "id": "t1RpV1",
+      "name": "White Cap",
+      "nameDisplay": "White Cap",
+      "abv": "5",
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/t1RpV1/upload_FN5MJh-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/t1RpV1/upload_FN5MJh-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/t1RpV1/upload_FN5MJh-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/t1RpV1/upload_FN5MJh-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/t1RpV1/upload_FN5MJh-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/t1RpV1/upload_FN5MJh-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-04-27 19:06:22",
+      "updateDate": "2015-12-18 00:09:43",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "mW4upe",
+      "name": "White Cap",
+      "nameDisplay": "White Cap",
+      "abv": "5.2",
+      "ibu": "15.7",
+      "availableId": 1,
+      "styleId": 109,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/mW4upe/upload_hRba8g-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/mW4upe/upload_hRba8g-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/mW4upe/upload_hRba8g-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/mW4upe/upload_hRba8g-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/mW4upe/upload_hRba8g-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/mW4upe/upload_hRba8g-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-08-11 18:16:57",
+      "updateDate": "2015-12-17 16:16:36",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 109,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Cream Ale or Lager",
+        "shortName": "Cream Ale",
+        "description": "Mild, pale, light-bodied ale, made using a warm fermentation (top or bottom) and cold lagering. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. Sometimes referred to as cream ales, these beers are crisp and refreshing. Pale malt character predominates. Caramelized malt character should be absent. A fruity or estery aroma may be perceived. Diacetyl and chill haze should not be perceived. Sulfur character and/or sweet corn-like dimethylsulfide (DMS) should be extremely low or absent from this style of beer.",
+        "ibuMin": "10",
+        "ibuMax": "22",
+        "abvMin": "4.2",
+        "abvMax": "5.6",
+        "srmMin": "2",
+        "srmMax": "5",
+        "ogMin": "1.044",
+        "fgMin": "1.004",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:30"
+      }
+    },
+    {
+      "id": "9CKsAp",
+      "name": "White Cap IPA",
+      "nameDisplay": "White Cap IPA",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/9CKsAp/upload_skicG8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/9CKsAp/upload_skicG8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/9CKsAp/upload_skicG8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/9CKsAp/upload_skicG8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/9CKsAp/upload_skicG8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/9CKsAp/upload_skicG8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-05-06 15:48:59",
+      "updateDate": "2018-06-04 18:27:31",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "szU76x",
+      "name": "White Cap Session Ale",
+      "nameDisplay": "White Cap Session Ale",
+      "description": "Brewed as an ‘all day beer’ this lower alcohol style is not lacking in flavor or aroma! Combining the right amount of hops and malt we have created a balanced, drinkable Ale. We used classic American Hops and Montana grown barley.   Malts: Aroma, Caramel, and Pilsner. Hops: Cascade, Willamette, and Simcoe®.",
+      "abv": "4.8",
+      "ibu": "20",
+      "glasswareId": 5,
+      "availableId": 6,
+      "styleId": 108,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/szU76x/upload_bKjFEX-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/szU76x/upload_bKjFEX-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/szU76x/upload_bKjFEX-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-06-27 17:04:20",
+      "updateDate": "2018-06-27 18:16:21",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 6,
+        "name": "Summer",
+        "description": "Available during the summer months."
+      },
+      "style": {
+        "id": 108,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Session Beer",
+        "shortName": "Session",
+        "description": "Any style of beer can be made lower in strength than described in the classic style guidelines. The goal should be to reach a balance between the style's character and the lower alcohol content. Drinkability is a character in the overall balance of these beers. Beers in this category must not exceed 4.1% alcohol by weight (5.1% alcohol by volume).",
+        "ibuMin": "10",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "5.1",
+        "srmMin": "2",
+        "srmMax": "2",
+        "ogMin": "1.034",
+        "fgMin": "1.004",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:20"
+      }
+    },
+    {
+      "id": "wbI5H3",
+      "name": "White Cap Wheat",
+      "nameDisplay": "White Cap Wheat",
+      "abv": "4.7",
+      "ibu": "12.6",
+      "srmId": 4,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/wbI5H3/upload_5QXTex-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/wbI5H3/upload_5QXTex-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/wbI5H3/upload_5QXTex-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/wbI5H3/upload_5QXTex-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/wbI5H3/upload_5QXTex-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/wbI5H3/upload_5QXTex-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-08-26 20:09:17",
+      "updateDate": "2015-12-18 03:12:22",
+      "srm": {
+        "id": 4,
+        "name": "4",
+        "hex": "FFBF42"
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "XsspkR",
+      "name": "White Chocolate",
+      "nameDisplay": "White Chocolate",
+      "description": "The primary component of our “White Oak” ale is a 100% barrel aged wheat wine that we affectionately refer to as “White Oak Sap.” Essentially a “summer” barley-wine style ale, but made with a wheat heavy grain base, White Oak Sap is aged in used bourbon barrels for nearly a year and comes out rich in flavors of coconut, honey, caramel and vanilla. To compliment the already rich flavors of the beer, we’ve added cacao nibs and vanilla beans to give this beer the delicate flavor of white chocolate…hence the name.",
+      "abv": "14",
+      "styleId": 34,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/XsspkR/upload_xUz9kb-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/XsspkR/upload_xUz9kb-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/XsspkR/upload_xUz9kb-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/XsspkR/upload_xUz9kb-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/XsspkR/upload_xUz9kb-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/XsspkR/upload_xUz9kb-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-03-25 15:50:48",
+      "updateDate": "2017-01-09 16:33:05",
+      "style": {
+        "id": 34,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Barley Wine Ale",
+        "shortName": "American Barleywine",
+        "description": "American style barley wines range from amber to deep copper-garnet in color and have a full body and high residual malty sweetness. Complexity of alcohols and fruity-ester characters are often high and counterbalanced by assertive bitterness and extraordinary alcohol content. Hop aroma and flavor are at medium to very high levels. American type hops are often used but not necessary for this style. Very low levels of diacetyl may be acceptable. A caramel and/or toffee aroma and flavor are often part of the character. Characters indicating oxidation, such as vinous (sometimes sherry-like) aromas and/or flavors, are not generally acceptable in American-style Barley Wine Ale, however if a low level of age-induced oxidation character harmonizes and enhances the overall experience this can be regarded favorably. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "60",
+        "ibuMax": "100",
+        "abvMin": "8.4",
+        "abvMax": "12",
+        "srmMin": "11",
+        "srmMax": "22",
+        "ogMin": "1.09",
+        "fgMin": "1.024",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:08"
+      }
+    },
+    {
+      "id": "adSpkW",
+      "name": "White Chocolate Ale",
+      "nameDisplay": "White Chocolate Ale",
+      "description": "Inspired by the beauty of the White Mountains; the Sonoran White Chocolate Ale is a light, refreshing and completely unique wheat beer. Like a fine chocolate, this brew has a delicate aroma and a subtle taste of white chocolate, which is truly astonishing! For the ultimate experience; pair it with coconut shrimp or lobster. Enjoy one with your meal and another for dessert.",
+      "abv": "4.7",
+      "styleId": 125,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/adSpkW/upload_jqvNv0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/adSpkW/upload_jqvNv0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/adSpkW/upload_jqvNv0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/adSpkW/upload_jqvNv0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/adSpkW/upload_jqvNv0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/adSpkW/upload_jqvNv0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:30",
+      "updateDate": "2016-04-04 18:50:56",
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "c5JDY9",
+      "name": "White Chocolate Blonde",
+      "nameDisplay": "White Chocolate Blonde",
+      "description": "A light, crisp, refreshing blonde ale with white chocolate added during fermentation. The creamy white chocolate adds a nice sweetness to an already delicious beer for an enjoyable marriage of flavors.",
+      "abv": "5",
+      "ibu": "15",
+      "styleId": 36,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/c5JDY9/upload_tCbxlH-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/c5JDY9/upload_tCbxlH-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/c5JDY9/upload_tCbxlH-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/c5JDY9/upload_tCbxlH-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/c5JDY9/upload_tCbxlH-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/c5JDY9/upload_tCbxlH-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-10-26 23:11:32",
+      "updateDate": "2018-06-28 15:32:16",
+      "style": {
+        "id": 36,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Golden or Blonde Ale",
+        "shortName": "Blonde",
+        "description": "Golden or Blonde ales are straw to golden blonde in color. They have a crisp, dry palate, light to medium body, and light malt sweetness. Low to medium hop aroma may be present but does not dominate. Bitterness is low to medium. Fruity esters may be perceived but do not predominate. Diacetyl should not be perceived. Chill haze should be absent.",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4",
+        "abvMax": "5",
+        "srmMin": "3",
+        "srmMax": "7",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:26"
+      }
+    },
+    {
+      "id": "CQFEn7",
+      "name": "White Chocolate Moo-Hoo",
+      "nameDisplay": "White Chocolate Moo-Hoo",
+      "abv": "6.1",
+      "availableId": 2,
+      "styleId": 122,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/CQFEn7/upload_YRsh76-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/CQFEn7/upload_YRsh76-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/CQFEn7/upload_YRsh76-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/CQFEn7/upload_YRsh76-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/CQFEn7/upload_YRsh76-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/CQFEn7/upload_YRsh76-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-12 02:37:35",
+      "updateDate": "2017-01-09 16:28:19",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 122,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Chocolate / Cocoa-Flavored Beer",
+        "shortName": "Chocolate Beer",
+        "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.",
+        "ibuMin": "15",
+        "ibuMax": "40",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "15",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:36"
+      }
+    },
+    {
+      "id": "l9oOt1",
+      "name": "White Chocolate with Cherries",
+      "nameDisplay": "White Chocolate with Cherries",
+      "description": "If you closed your eyes in our barrel house, you might think our brewers have become chocolatiers. They dipped cherries into this limited edition of our bourbon barrel-aged wheatwine-style ale. Already rich and creamy with white chocolate flavors thanks to fresh vanilla beans, cacao nibs and extensive oak-aging, this treat for the senses has been enhanced with the addition of tart, sweet, juicy cherries.",
+      "abv": "14.2",
+      "styleId": 132,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/l9oOt1/upload_NOuUAl-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/l9oOt1/upload_NOuUAl-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/l9oOt1/upload_NOuUAl-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/l9oOt1/upload_NOuUAl-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/l9oOt1/upload_NOuUAl-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/l9oOt1/upload_NOuUAl-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-09-27 17:51:25",
+      "updateDate": "2018-03-15 21:16:35",
+      "style": {
+        "id": 132,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wood- and Barrel-Aged Beer",
+        "shortName": "BBL Aged",
+        "description": "A wood- or barrel-aged beer is any lager, ale or hybrid beer, either a traditional style or a unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character, but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Beers in this style may or may not have Brettanomyces character. Brewers when entering this category should specify type of barrel and/or wood used and any other special treatment or ingredients used. Competition managers may create style subcategories to differentiate between high alcohol and low alcohol beers and very dark and lighter colored beer as well as for fruit beers and non-fruit beers. Competitions may develop guidelines requesting brewers to specify what kind of wood (new or used oak, other wood varieties) and/or barrel (whiskey, port, sherry, wine, etc.) was used in the process. The brewer may be asked to explain the special nature (wood used, base beer style(s) and achieved character) of the beer.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:46:27"
+      }
+    },
+    {
+      "id": "Y7vJt2",
+      "name": "White Christmas Spiced Winter Lager",
+      "nameDisplay": "White Christmas Spiced Winter Lager",
+      "description": "It's the most wonderful time of the year, with the kids Jingle-belling and everyone yelling \"brew us new beers!\" And so we did. In celebration of the season, Moylan's presents our White Christmas Spiced Winter Lager. Malty and smooth with a light tart and zesty finish, this year's Lager contains holiday spices, Curacao, Mace, Cinnamon, Coriander and White Pepper. This Holiday Lager will warm you and your sweetie inside and out. Share the love and make it a White Christmas. You'll get a kick out of it. Happy Holidays, and Slaint?",
+      "abv": "6",
+      "ibu": "28",
+      "glasswareId": 6,
+      "availableId": 4,
+      "styleId": 124,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Y7vJt2/upload_MKZfWc-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Y7vJt2/upload_MKZfWc-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Y7vJt2/upload_MKZfWc-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Y7vJt2/upload_MKZfWc-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Y7vJt2/upload_MKZfWc-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Y7vJt2/upload_MKZfWc-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.06",
+      "createDate": "2012-04-15 17:59:22",
+      "updateDate": "2015-12-16 15:54:35",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 124,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Herb and Spice Beer",
+        "shortName": "Spice Beer",
+        "description": "Herb beers use herbs or spices (derived from roots, seeds, fruits, vegetable, flowers, etc.) other than or in addition to hops to create a distinct (ranging from subtle to intense) character, though individual characters of herbs and/or spices used may not always be identifiable. Under hopping often, but not always, allows the spice or herb to contribute to the flavor profile. Positive evaluations are significantly based on perceived balance of flavors. Note: Chili-flavored beers that emphasize heat rather than chili flavor should be entered as a \"spiced\" beer.  A statement by the brewer explaining what herbs or spices are used is essential in order for fair assessment in competitions. Specifying a style upon which the beer is based may help evaluation. If this beer is a classic style with an herb or spice, the brewer should specify the classic style. If no Chocolate or Coffee category exists in a competition, then chocolate and coffee beers should be entered in this category.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:45"
+      }
+    },
+    {
+      "id": "pm8fzp",
+      "name": "White Death",
+      "nameDisplay": "White Death",
+      "abv": "6.5",
+      "ibu": "30",
+      "glasswareId": 6,
+      "availableId": 8,
+      "styleId": 134,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/pm8fzp/upload_A7Ijk6-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/pm8fzp/upload_A7Ijk6-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/pm8fzp/upload_A7Ijk6-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/pm8fzp/upload_A7Ijk6-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/pm8fzp/upload_A7Ijk6-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/pm8fzp/upload_A7Ijk6-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "createDate": "2013-08-12 22:12:37",
+      "updateDate": "2015-12-17 03:50:44",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 8,
+        "name": "Winter",
+        "description": "Available during the winter months."
+      },
+      "style": {
+        "id": 134,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wood- and Barrel-Aged Dark Beer",
+        "shortName": "BBL Aged Dark",
+        "description": "Any classic style or unique experimental style of dark beer can be wood or barrel-aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character but wood-aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Primary character of the beer style may or may not be apparent. Sour wood-aged beer of any color is outlined in other categories. Dark fruited or spiced beer would also be appropriately entered in this category. Beers in this style may or may not have Brettanomyces character.  The brewer should explain the special nature of the beer to allow for accurate judging. Comments could include: type of wood used (new or old, oak or other wood type), type of barrel used (new, port/ whiskey/ wine/ sherry/ other), base beer style or achieved character. Beer entries not accompanied by this information will be at a disadvantage during judging.",
+        "abvMin": "3.75",
+        "abvMax": "6.5",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:46:44"
+      }
+    },
+    {
+      "id": "7lpQCG",
+      "name": "White Devil Imperial Wit",
+      "nameDisplay": "White Devil Imperial Wit",
+      "description": "An Imperial White Ale, White Devil is a cloudy straw color, bursting with zesty citrus aroma, topped with a dense, rocky head of foam. Refreshingly crisp with a pleasantly spicy hop character, thanks to the Noble-like Styrian Goldings hops, as well as notes of fresh cut wheat and coriander. Slightly-sweet with a dry finish. While easy-drinking and thirst-quenching, this is definitely not your average Belgian White.",
+      "abv": "9",
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7lpQCG/upload_Sj9GhZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7lpQCG/upload_Sj9GhZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7lpQCG/upload_Sj9GhZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7lpQCG/upload_Sj9GhZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7lpQCG/upload_Sj9GhZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7lpQCG/upload_Sj9GhZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Shellfish, specifically mussels\r\nDill Havarti cheese\r\nOrange sherbet",
+      "createDate": "2014-09-10 15:29:16",
+      "updateDate": "2018-06-05 05:34:55",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "IbbPJa",
+      "name": "White Dog",
+      "nameDisplay": "White Dog",
+      "abv": "4.7",
+      "styleId": 113,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/IbbPJa/upload_kcL7ZK-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/IbbPJa/upload_kcL7ZK-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/IbbPJa/upload_kcL7ZK-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/IbbPJa/upload_kcL7ZK-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/IbbPJa/upload_kcL7ZK-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/IbbPJa/upload_kcL7ZK-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-12-05 11:45:35",
+      "updateDate": "2015-12-16 20:22:22",
+      "style": {
+        "id": 113,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager without Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. A fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Appearance can be clear or with chill haze, golden to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:53"
+      }
+    },
+    {
+      "id": "rmrtbk",
+      "name": "White Dog IPA",
+      "nameDisplay": "White Dog IPA",
+      "description": "Hop assertive yet refreshing, Belgian character brewed with a portion of wheat malt, coriander and Minneola tangelos.",
+      "abv": "5.4",
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rmrtbk/upload_xRNL6a-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rmrtbk/upload_xRNL6a-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rmrtbk/upload_xRNL6a-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rmrtbk/upload_xRNL6a-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rmrtbk/upload_xRNL6a-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rmrtbk/upload_xRNL6a-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-07-09 19:26:08",
+      "updateDate": "2015-12-18 02:16:09",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "LqDoDd",
+      "name": "White Dog IPA",
+      "nameDisplay": "White Dog IPA",
+      "description": "Named for Rob's dog, the White alludes to our use of 50% wheat instead of barley in this beer. Aside from that though, this beer has very little in common with what most people consider a \"wheat\" beer. The wheat in the malt bill gives the beer a lighter texture and mouthfeel, and helps to accentuate the bright citrus characters of the fruity West Coast and New Zealand hops we use. The result is an IPA that Hop Heads will love, but that is immediately approachable for most people.",
+      "abv": "6.7",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/LqDoDd/upload_sXxDhs-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/LqDoDd/upload_sXxDhs-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/LqDoDd/upload_sXxDhs-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/LqDoDd/upload_sXxDhs-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/LqDoDd/upload_sXxDhs-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/LqDoDd/upload_sXxDhs-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-02-03 14:31:34",
+      "updateDate": "2015-12-16 23:33:06",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "8k9lDr",
+      "name": "White Dunes",
+      "nameDisplay": "White Dunes",
+      "description": "This beer achieves its unique feel on the palate and beautiful hazy color from malted wheat.  The initial floral nuance slowly morphs to citrus with every sip.  The medium body, combined with high carbonation and signature tartness, produces a very complex experience.",
+      "abv": "5",
+      "ibu": "18",
+      "glasswareId": 9,
+      "srmId": 3,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8k9lDr/upload_xvUzVb-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8k9lDr/upload_xvUzVb-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8k9lDr/upload_xvUzVb-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8k9lDr/upload_xvUzVb-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8k9lDr/upload_xvUzVb-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8k9lDr/upload_xvUzVb-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "The signature tartness will match well with the acidity of salads, medium to light textured fish, and rich creamy desserts.",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2015-08-14 15:16:34",
+      "updateDate": "2015-12-18 05:02:20",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "lqmSkv",
+      "name": "White Elephant Thai Basil Saison",
+      "nameDisplay": "White Elephant Thai Basil Saison",
+      "description": "Farmhouse Saison meets thai basil in bright and floral pairing . This ale bridges the gap between Belgian ale and IPA with an herbal twist. All of our Saisons get a dose of honey sourced from the Conetoe Family Life Center (if you don’t know about them, look them up…it’s good stuff). Pairs well with everything from spicy food to BBQ. This is a foodie’s beer. Bon Appetite.",
+      "abv": "6",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/lqmSkv/upload_jxLinC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/lqmSkv/upload_jxLinC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/lqmSkv/upload_jxLinC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/lqmSkv/upload_jxLinC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/lqmSkv/upload_jxLinC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/lqmSkv/upload_jxLinC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Pairs well with everything from spicy food to BBQ. This is a foodie’s beer. Bon Appetite.",
+      "createDate": "2015-09-02 18:42:45",
+      "updateDate": "2015-12-18 04:50:33",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "pQPkgW",
+      "name": "White Falcon",
+      "nameDisplay": "White Falcon",
+      "description": "White Falcon is a Belgian White Ale hopped assertively like an American India Pale Ale. Its pale yellow color is lightened further by an appropriate haze from the use of malted white wheat. An intense, fruit-filled nose comprised of notable hop aromas, distinctive yeast esters, and pronounced lemon and orange zest is prominent. Flavors of soft grain and earthy hops mingle with an overall fruitiness, amplified by coriander and other lively spice qualities. An agreeable bitterness heightens in the finish before turning unmistakably dry.",
+      "abv": "5.5",
+      "ibu": "64",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/pQPkgW/upload_SV9MEO-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/pQPkgW/upload_SV9MEO-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/pQPkgW/upload_SV9MEO-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/pQPkgW/upload_SV9MEO-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/pQPkgW/upload_SV9MEO-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/pQPkgW/upload_SV9MEO-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-12-17 22:37:23",
+      "updateDate": "2015-12-17 20:25:39",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "ADEXRB",
+      "name": "White Flag",
+      "nameDisplay": "White Flag",
+      "description": "Named for “popular Californian Rock Band” (heh.. love you Pat Fear!) White Flag is our Apricot Wit. Yes it’s cloudy. Arent WIT’s supposed to be that way? daynum! EARLY SUMMER SEASONAL",
+      "abv": "8",
+      "ibu": "23",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ADEXRB/upload_ZQdIZJ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ADEXRB/upload_ZQdIZJ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ADEXRB/upload_ZQdIZJ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ADEXRB/upload_ZQdIZJ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ADEXRB/upload_ZQdIZJ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ADEXRB/upload_ZQdIZJ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-08-16 19:39:52",
+      "updateDate": "2018-08-16 19:40:16",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "fmMGcp",
+      "name": "White Fox Ale",
+      "nameDisplay": "White Fox Ale",
+      "description": "White Fox Ale is a medium body ale with a smooth and spicy hop flavor. Our classic version of India Pale Ale leaves your palate refreshed and liberated.",
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/fmMGcp/upload_kXuDKe-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/fmMGcp/upload_kXuDKe-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/fmMGcp/upload_kXuDKe-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/fmMGcp/upload_kXuDKe-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/fmMGcp/upload_kXuDKe-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/fmMGcp/upload_kXuDKe-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-04-22 18:25:26",
+      "updateDate": "2017-08-30 17:36:31",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "rd8LRZ",
+      "name": "White Friar",
+      "nameDisplay": "White Friar",
+      "description": "Probably the most popular seasonal ale we produce.",
+      "abv": "5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 3,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rd8LRZ/upload_aOAZFv-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rd8LRZ/upload_aOAZFv-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rd8LRZ/upload_aOAZFv-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rd8LRZ/upload_aOAZFv-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rd8LRZ/upload_aOAZFv-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rd8LRZ/upload_aOAZFv-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1",
+      "createDate": "2012-07-12 12:18:15",
+      "updateDate": "2017-08-30 17:03:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 3,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Ordinary Bitter",
+        "shortName": "Bitter",
+        "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+        "ibuMin": "20",
+        "ibuMax": "35",
+        "abvMin": "3",
+        "abvMax": "4.1",
+        "srmMin": "5",
+        "srmMax": "12",
+        "ogMin": "1.033",
+        "fgMin": "1.006",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:18:39"
+      }
+    },
+    {
+      "id": "mHgbuy",
+      "name": "White Ghost Berliner Weisse",
+      "nameDisplay": "White Ghost Berliner Weisse",
+      "description": "Our citrusy and refreshing Berliner Weisse is a modern take on a true Berlin classic. Brewed using the same traditional lactic acid cultures as the Berlin brewers of the 1920's, our Berliner Weisse is a bright and sparkling thirst-quencher. The beer embodies the liveliness of summer with the fruity tang of lemon and melon and the tartness of rhubarb and gooseberries. To ensure a properly Stone (and therefore iconoclastic) Berliner Weisse, we upped the ABV to a healthy 4.7% and hopped the beer with new German varieties, Huell Melon and Callista.",
+      "abv": "4.7",
+      "ibu": "12",
+      "styleId": 46,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/mHgbuy/upload_XIDRRU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/mHgbuy/upload_XIDRRU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/mHgbuy/upload_XIDRRU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/mHgbuy/upload_XIDRRU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/mHgbuy/upload_XIDRRU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/mHgbuy/upload_XIDRRU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-11-02 19:04:42",
+      "updateDate": "2018-11-02 19:04:50",
+      "style": {
+        "id": 46,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Berliner-Style Weisse (Wheat)",
+        "shortName": "Berlinerweisse",
+        "description": "This is very pale in color and the lightest of all the German wheat beers. The unique combination of yeast and lactic acid bacteria fermentation yields a beer that is acidic, highly attenuated, and very light bodied. The carbonation of a Berliner Weisse is high, and hop rates are very low. Clarity may be hazy or cloudy from yeast or chill haze. Hop character should not be perceived. Fruity esters will be evident. No diacetyl should be perceived.",
+        "ibuMin": "3",
+        "ibuMax": "6",
+        "abvMin": "2.8",
+        "abvMax": "3.4",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.028",
+        "fgMin": "1.004",
+        "fgMax": "1.006",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:14"
+      }
+    },
+    {
+      "id": "cjSPxd",
+      "name": "White Grape Berliner Weiss",
+      "nameDisplay": "White Grape Berliner Weiss",
+      "abv": "5",
+      "ibu": "0",
+      "glasswareId": 9,
+      "styleId": 46,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/cjSPxd/upload_h0iRNy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/cjSPxd/upload_h0iRNy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/cjSPxd/upload_h0iRNy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/cjSPxd/upload_h0iRNy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/cjSPxd/upload_h0iRNy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/cjSPxd/upload_h0iRNy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-02-19 11:50:37",
+      "updateDate": "2015-12-16 22:57:31",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 46,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Berliner-Style Weisse (Wheat)",
+        "shortName": "Berlinerweisse",
+        "description": "This is very pale in color and the lightest of all the German wheat beers. The unique combination of yeast and lactic acid bacteria fermentation yields a beer that is acidic, highly attenuated, and very light bodied. The carbonation of a Berliner Weisse is high, and hop rates are very low. Clarity may be hazy or cloudy from yeast or chill haze. Hop character should not be perceived. Fruity esters will be evident. No diacetyl should be perceived.",
+        "ibuMin": "3",
+        "ibuMax": "6",
+        "abvMin": "2.8",
+        "abvMax": "3.4",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.028",
+        "fgMin": "1.004",
+        "fgMax": "1.006",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:14"
+      }
+    },
+    {
+      "id": "gQiQsk",
+      "name": "White Hatter",
+      "nameDisplay": "White Hatter",
+      "description": "An innovative hybrid of styles landing between white ale and India Pale Ale. White Hatter brings spice, hops, and fermentation notes together flavorfully.",
+      "abv": "5.5",
+      "ibu": "52",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 62,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gQiQsk/upload_BF42Fk-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gQiQsk/upload_BF42Fk-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gQiQsk/upload_BF42Fk-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gQiQsk/upload_BF42Fk-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gQiQsk/upload_BF42Fk-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gQiQsk/upload_BF42Fk-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "seafood, fennel, mushrooms",
+      "originalGravity": "1.051",
+      "createDate": "2012-03-30 12:24:30",
+      "updateDate": "2015-12-16 16:38:22",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 62,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Ale",
+        "shortName": "Belgian Pale",
+        "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "6",
+        "srmMin": "6",
+        "srmMax": "12",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:06"
+      }
+    },
+    {
+      "id": "u9Ntao",
+      "name": "White Hawk Select IPA",
+      "nameDisplay": "White Hawk Select IPA",
+      "description": "White Hawk Select IPA is a traditional India Pale Ale. We’ve blended American West Coast Cascade Hops with a very generous dose of English Fuggle Hops. This combination makes for a very aromatic character, as well as a truly authentic English flavor which you must taste to believe. “Hopheads” will love this brew!",
+      "abv": "7",
+      "availableId": 1,
+      "styleId": 2,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/u9Ntao/upload_5NU4kT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/u9Ntao/upload_5NU4kT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/u9Ntao/upload_5NU4kT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/u9Ntao/upload_5NU4kT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/u9Ntao/upload_5NU4kT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/u9Ntao/upload_5NU4kT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-06-25 17:49:19",
+      "updateDate": "2016-09-12 19:32:50",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 2,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "English-Style India Pale Ale",
+        "shortName": "English IPA",
+        "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+        "ibuMin": "35",
+        "ibuMax": "63",
+        "abvMin": "5",
+        "abvMax": "7",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:18:33"
+      }
+    },
+    {
+      "id": "4v2lmB",
+      "name": "White Heron Wheat Beer",
+      "nameDisplay": "White Heron Wheat Beer",
+      "abv": "4.8",
+      "availableId": 4,
+      "styleId": 112,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4v2lmB/upload_C3oS9N-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4v2lmB/upload_C3oS9N-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4v2lmB/upload_C3oS9N-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4v2lmB/upload_C3oS9N-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4v2lmB/upload_C3oS9N-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4v2lmB/upload_C3oS9N-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-05-27 15:27:31",
+      "updateDate": "2015-12-18 02:15:53",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "LpyGzy",
+      "name": "White Hoplosion",
+      "nameDisplay": "White Hoplosion",
+      "abv": "5.3",
+      "ibu": "54",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/LpyGzy/upload_HHfxoU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/LpyGzy/upload_HHfxoU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/LpyGzy/upload_HHfxoU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/LpyGzy/upload_HHfxoU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/LpyGzy/upload_HHfxoU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/LpyGzy/upload_HHfxoU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-07-17 20:40:07",
+      "updateDate": "2015-12-17 16:04:13",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "gaDjVs",
+      "name": "White Horse Wheat",
+      "nameDisplay": "White Horse Wheat",
+      "description": "This beer will be strong and a little sweet with a clean finish. Made with German wheat and Vienna malts and Noble Hallertauer hops. This is a great easy drinking beer.",
+      "abv": "5",
+      "ibu": "23",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gaDjVs/upload_R0HhIe-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gaDjVs/upload_R0HhIe-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gaDjVs/upload_R0HhIe-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gaDjVs/upload_R0HhIe-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gaDjVs/upload_R0HhIe-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gaDjVs/upload_R0HhIe-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-04 14:39:50",
+      "updateDate": "2015-12-17 22:26:18",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,2399 @@
+{
+  "currentPage": 457,
+  "numberOfPages": 603,
+  "totalResults": 30128,
+  "data": [
+    {
+      "id": "JbqtM1",
+      "name": "Rye da Tiger",
+      "nameDisplay": "Rye da Tiger",
+      "description": "A double rye IPA dedicated to a man that made the world a better place. In magic, Three Floyds.",
+      "abv": "9",
+      "ibu": "120",
+      "availableId": 2,
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JbqtM1/upload_Ipi17N-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JbqtM1/upload_Ipi17N-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JbqtM1/upload_Ipi17N-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JbqtM1/upload_Ipi17N-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JbqtM1/upload_Ipi17N-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JbqtM1/upload_Ipi17N-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-06-08 13:51:34",
+      "updateDate": "2015-12-17 15:03:22",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "63eImV",
+      "name": "Rye Dopplebock",
+      "nameDisplay": "Rye Dopplebock",
+      "description": "In the spirit of our 2002 World Beer Cup Gold Medal for German Style Bock, we have taken the original Oderbolz Bock recipe and added Rye for added crispness to the malt profile. This beer starts with a nice sweet malty flavor balanced with noble hops with clean finish.",
+      "abv": "9.2",
+      "ibu": "25",
+      "glasswareId": 6,
+      "srmId": 30,
+      "availableId": 2,
+      "styleId": 90,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/63eImV/upload_ByFkVV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/63eImV/upload_ByFkVV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/63eImV/upload_ByFkVV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/63eImV/upload_ByFkVV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/63eImV/upload_ByFkVV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/63eImV/upload_ByFkVV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "originalGravity": "1.092",
+      "createDate": "2015-08-04 19:05:46",
+      "updateDate": "2015-12-18 04:37:07",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 30,
+        "name": "30",
+        "hex": "600903"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 90,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Doppelbock",
+        "shortName": "Doppelbock",
+        "description": "Malty sweetness is dominant but should not be cloying. Malt character is more reminiscent of fresh and lightly toasted Munich- style malt, more so than caramel or toffee malt character. Some elements of caramel and toffee can be evident and contribute to complexity, but the predominant malt character is an expression of toasted barley malt. Doppelbocks are full bodied and deep amber to dark brown in color. Astringency from roast malts is absent. Alcoholic strength is high, and hop rates increase with gravity. Hop bitterness and flavor should be low and hop aroma absent. Fruity esters are commonly perceived but at low to moderate levels. Diacetyl should be absent",
+        "ibuMin": "17",
+        "ibuMax": "27",
+        "abvMin": "6.5",
+        "abvMax": "8",
+        "srmMin": "12",
+        "srmMax": "30",
+        "ogMin": "1.074",
+        "fgMin": "1.014",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:39:08"
+      }
+    },
+    {
+      "id": "9gNH4n",
+      "name": "Rye Extra Black",
+      "nameDisplay": "Rye Extra Black",
+      "description": "Pilsner, Two Row and Carafa III malts make for a dark colored black pale ale with a noticeable hop bitterness that brings a dry finish. The use of Rye malt adds a subtle spicy character. The Carafa malt gives the beer its black color while adding a very mellow dark malt balance making it a perfect intro beer for those afraid of the dark!",
+      "abv": "5.6",
+      "ibu": "30",
+      "availableId": 4,
+      "styleId": 41,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/9gNH4n/upload_FLB94m-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/9gNH4n/upload_FLB94m-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/9gNH4n/upload_FLB94m-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/9gNH4n/upload_FLB94m-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/9gNH4n/upload_FLB94m-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/9gNH4n/upload_FLB94m-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-25 20:09:40",
+      "updateDate": "2016-11-29 19:43:09",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 41,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Black Ale",
+        "shortName": "Black Ale",
+        "description": "American-style Black Ales are very dark to black and perceived to have medium high to high hop bitterness, flavor and aroma with medium-high alcohol content, balanced with a medium body. Fruity, floral and herbal character from hops of all origins may contribute character. The style is further characterized by a balanced and moderate degree of caramel malt and dark roasted malt flavor and aroma. High astringency and high degree of burnt roast malt character should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6",
+        "abvMax": "7.5",
+        "srmMin": "35",
+        "srmMax": "35",
+        "ogMin": "1.056",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:36"
+      }
+    },
+    {
+      "id": "AkuGWO",
+      "name": "Rye Felicia",
+      "nameDisplay": "Rye Felicia",
+      "description": "From the brewery: \"Rye Felicia is brewed with a 40 percent blend of rye. Giving the spicy and roasty flavors. A mixture of English and New Zealand makes this unique fall on the IPA side of things while it retains its brown rye awesomeness.\"",
+      "abv": "5.6",
+      "styleId": 164,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/AkuGWO/upload_aHQC7s-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/AkuGWO/upload_aHQC7s-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/AkuGWO/upload_aHQC7s-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/AkuGWO/upload_aHQC7s-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/AkuGWO/upload_aHQC7s-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/AkuGWO/upload_aHQC7s-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-06-26 23:24:55",
+      "updateDate": "2016-06-27 19:05:21",
+      "style": {
+        "id": 164,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Session India Pale Ale",
+        "shortName": "Session IPA",
+        "description": "Session India Pale Ales are gold to copper. Chill haze is allowable at cold temperatures and hop haze is allowable at any temperature. Fruity-ester aroma is light to moderate. Hop aroma is medium to high with qualities from a wide variety of hops from all over the world. Low to medium maltiness is present. Hop flavor is strong, characterized by flavors from a wide variety of hops. Hop bitterness is medium to high. Fruity-ester flavors are low to moderate. Diacetyl is absent or at very low levels. Body is low to medium.",
+        "createDate": "2015-04-07 17:07:27"
+      }
+    },
+    {
+      "id": "p8K9YS",
+      "name": "Rye Four",
+      "nameDisplay": "Rye Four",
+      "description": "Brewed with copious amounts of rye malt and fermented with our house yeast. This beer is refreshingly sour with a smooth malty body.",
+      "abv": "11",
+      "availableId": 3,
+      "styleId": 57,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/p8K9YS/upload_QFix1n-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/p8K9YS/upload_QFix1n-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/p8K9YS/upload_QFix1n-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/p8K9YS/upload_QFix1n-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/p8K9YS/upload_QFix1n-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/p8K9YS/upload_QFix1n-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2018-11-02 02:13:07",
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 57,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+        "shortName": "Flanders Red",
+        "description": "This light- to medium-bodied deep copper to brown ale is characterized by a slight to strong lactic sourness, and with \"Reds\" sometimes a balanced degree of acetic acid. Brettanomyces produced flavors and aromas are not part of character. A fruity-estery character which is often cherry-like is apparent with no hop flavor or aroma. Flanders brown ales have low to medium bitterness and a cocoa-like character from roast malt. Roasted malt character in aroma and flavor is acceptable at low levels. A very low degree of malt sweetness may be present and in balance with the acidity produced by Lactobacillus activity. Oak-like or woody characters may be pleasantly integrated into overall palate. Chill haze is acceptable at low serving temperatures. Some versions may be more highly carbonated and, when bottle conditioned, may appear cloudy (yeast) when served. These final beers are often blended old with new before packaging in order to create the brewer's intended balance of characters.",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4.8",
+        "abvMax": "6.5",
+        "srmMin": "12",
+        "srmMax": "20",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:39"
+      }
+    },
+    {
+      "id": "kLEtiD",
+      "name": "Rye Hammer",
+      "nameDisplay": "Rye Hammer",
+      "description": "Jack Hammer has been single handedly ripping it up for quite some time. Now this IPA, has spawned four hammer head off-springs. Rye Hammer is the fourth of our super-charged hyped up hybrids.\r\n\r\nA grapefruit harvest of citrus melts away to sticky roasted caramel and rye warmth, all resting on a malted biscuit backbone. Then ‘The Hammerhead’s trademark bitter finish reasserts its authority.\r\nIngredients: water, barley, hops, yeast.\r\nFor allergens, including ingredients containing gluten, see ingredients list in bold.",
+      "abv": "7.2",
+      "ibu": "250",
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/kLEtiD/upload_OBvyBs-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/kLEtiD/upload_OBvyBs-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/kLEtiD/upload_OBvyBs-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/kLEtiD/upload_OBvyBs-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/kLEtiD/upload_OBvyBs-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/kLEtiD/upload_OBvyBs-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-09-26 20:35:46",
+      "updateDate": "2017-09-26 20:37:03",
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "zTJ86p",
+      "name": "Rye Hatter",
+      "nameDisplay": "Rye Hatter",
+      "description": "This beer showcases it’s grain-bill, made up of rye and barley malt. The rye adds a slight spiciness to the caramel-malt base, while also creating a creamy texture. Dry-hopping contributes a fresh citrus finish.",
+      "abv": "6.12",
+      "ibu": "60",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zTJ86p/upload_M8tSkd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zTJ86p/upload_M8tSkd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zTJ86p/upload_M8tSkd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/zTJ86p/upload_M8tSkd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/zTJ86p/upload_M8tSkd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/zTJ86p/upload_M8tSkd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "blue cheese, blackened seafood, herb-roasted poultry",
+      "originalGravity": "1.059",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2015-12-16 09:23:24",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "myfxTU",
+      "name": "Rye India Pale Ale",
+      "nameDisplay": "Rye India Pale Ale",
+      "abv": "6.02",
+      "availableId": 4,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/myfxTU/upload_wO25c1-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/myfxTU/upload_wO25c1-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/myfxTU/upload_wO25c1-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/myfxTU/upload_wO25c1-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/myfxTU/upload_wO25c1-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/myfxTU/upload_wO25c1-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-09-03 19:15:32",
+      "updateDate": "2015-12-18 04:21:58",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "rrrRIf",
+      "name": "Rye India Pale Ale",
+      "nameDisplay": "Rye India Pale Ale",
+      "description": "Containing large quantities of one of our favorite ingredients, this IPA is pleased to showcase RYE! With its delicious spice and contribution to mouth feel, we feel Rye enhances all of our favorite characteristics of a North West IPA.",
+      "abv": "6",
+      "ibu": "60",
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rrrRIf/upload_PtDo0d-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rrrRIf/upload_PtDo0d-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rrrRIf/upload_PtDo0d-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rrrRIf/upload_PtDo0d-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rrrRIf/upload_PtDo0d-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rrrRIf/upload_PtDo0d-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-08-16 13:41:04",
+      "updateDate": "2016-08-16 13:42:12",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "kuOYQm",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "description": "A golden/amber beer that showcases bold American hops with the extra flavor dimension of the use of rye malt as 20% of the malt bill. This is a shockingly balanced IPA, in the sense that we include just enough malt character to counter the otherwise intense bitterness typically found in an American IPA, making for an immensely pleasant experience for your palate.",
+      "abv": "7.5",
+      "ibu": "35",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/kuOYQm/upload_daVrSI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/kuOYQm/upload_daVrSI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/kuOYQm/upload_daVrSI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/kuOYQm/upload_daVrSI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/kuOYQm/upload_daVrSI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/kuOYQm/upload_daVrSI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2017-01-11 03:36:05",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "JikINA",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "description": "Freshly squeezed apricot on the nose contradicts the full-flavored, hop-forward palate with bright carbonation followed by a lingering, spicy bitterness on the finish.\r\n\r\nSandi’s signature: Nugget and Chinook hops for bittering, Equinox for dry hopping. Roasted barley and pilsner malts and lots of spicy rye.",
+      "abv": "6.8",
+      "ibu": "52",
+      "availableId": 3,
+      "styleId": 164,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JikINA/upload_11FVtL-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JikINA/upload_11FVtL-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JikINA/upload_11FVtL-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JikINA/upload_11FVtL-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JikINA/upload_11FVtL-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JikINA/upload_11FVtL-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-06-11 20:22:20",
+      "updateDate": "2018-11-02 02:13:07",
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 164,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Session India Pale Ale",
+        "shortName": "Session IPA",
+        "description": "Session India Pale Ales are gold to copper. Chill haze is allowable at cold temperatures and hop haze is allowable at any temperature. Fruity-ester aroma is light to moderate. Hop aroma is medium to high with qualities from a wide variety of hops from all over the world. Low to medium maltiness is present. Hop flavor is strong, characterized by flavors from a wide variety of hops. Hop bitterness is medium to high. Fruity-ester flavors are low to moderate. Diacetyl is absent or at very low levels. Body is low to medium.",
+        "createDate": "2015-04-07 17:07:27"
+      }
+    },
+    {
+      "id": "dVAUIn",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "abv": "6.6",
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dVAUIn/upload_DZvgOu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dVAUIn/upload_DZvgOu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dVAUIn/upload_DZvgOu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dVAUIn/upload_DZvgOu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dVAUIn/upload_DZvgOu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dVAUIn/upload_DZvgOu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.063",
+      "createDate": "2013-01-20 15:32:50",
+      "updateDate": "2015-12-16 23:57:53",
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "63RKw4",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "abv": "6.2",
+      "ibu": "62",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/63RKw4/upload_y2SuoA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/63RKw4/upload_y2SuoA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/63RKw4/upload_y2SuoA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/63RKw4/upload_y2SuoA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/63RKw4/upload_y2SuoA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/63RKw4/upload_y2SuoA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-05-13 11:43:19",
+      "updateDate": "2015-12-17 13:25:36",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "qTXxFD",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "description": "Collaboration beer with Bigelo’s Bistro. Served on draft and cask only.",
+      "abv": "6.7",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qTXxFD/upload_V5jWTb-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qTXxFD/upload_V5jWTb-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qTXxFD/upload_V5jWTb-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qTXxFD/upload_V5jWTb-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qTXxFD/upload_V5jWTb-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qTXxFD/upload_V5jWTb-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-08-06 03:01:12",
+      "updateDate": "2015-12-17 16:14:08",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "aqYtBf",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/aqYtBf/upload_eImMiW-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/aqYtBf/upload_eImMiW-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/aqYtBf/upload_eImMiW-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/aqYtBf/upload_eImMiW-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/aqYtBf/upload_eImMiW-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/aqYtBf/upload_eImMiW-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-25 12:39:30",
+      "updateDate": "2015-12-17 07:44:09",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "Y6VFJW",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "description": "An aggressively hopped American Style Pale Ale brewed with Simcoe and Amarillo hops. The use of 20% rye gives this ale a unique dry and spicy character.",
+      "abv": "6.8",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Y6VFJW/upload_2UZqUA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Y6VFJW/upload_2UZqUA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Y6VFJW/upload_2UZqUA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Y6VFJW/upload_2UZqUA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Y6VFJW/upload_2UZqUA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Y6VFJW/upload_2UZqUA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2016-08-10 15:20:11",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "KbpYUB",
+      "name": "Rye IPA",
+      "nameDisplay": "Rye IPA",
+      "description": "Rye IPA showcases what a different grain can do to change up a classic. We put together a blend of classic American hops with both resiny and citrus aromas, and added them to a grain bill loaded with local rye.",
+      "abv": "8.5",
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/KbpYUB/upload_0gNsBf-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/KbpYUB/upload_0gNsBf-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/KbpYUB/upload_0gNsBf-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/KbpYUB/upload_0gNsBf-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/KbpYUB/upload_0gNsBf-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/KbpYUB/upload_0gNsBf-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-09-25 03:46:29",
+      "updateDate": "2016-11-08 20:55:02",
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "gWQ0rQ",
+      "name": "Rye Kwan Do",
+      "nameDisplay": "Rye Kwan Do",
+      "abv": "5",
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gWQ0rQ/upload_hkoRJc-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gWQ0rQ/upload_hkoRJc-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gWQ0rQ/upload_hkoRJc-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gWQ0rQ/upload_hkoRJc-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gWQ0rQ/upload_hkoRJc-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gWQ0rQ/upload_hkoRJc-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-06-25 12:14:38",
+      "updateDate": "2015-12-17 14:50:24",
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "wF9EGs",
+      "name": "Rye Not?",
+      "nameDisplay": "Rye Not?",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/wF9EGs/upload_FjrXwp-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/wF9EGs/upload_FjrXwp-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/wF9EGs/upload_FjrXwp-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/wF9EGs/upload_FjrXwp-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/wF9EGs/upload_FjrXwp-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/wF9EGs/upload_FjrXwp-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-12-04 12:47:17",
+      "updateDate": "2015-12-16 22:23:31",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "yLdsvJ",
+      "name": "Rye of the Tiger",
+      "nameDisplay": "Rye of the Tiger",
+      "description": "Sticking and moving like a ring-savvy southpaw, our Rye IPA delivers a fierce three-hop combo with a spicy rye uppercut. We politely suggest you put up your dukes.",
+      "abv": "7.5",
+      "ibu": "92",
+      "glasswareId": 5,
+      "srmId": 9,
+      "availableId": 5,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/yLdsvJ/upload_VGDUNq-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/yLdsvJ/upload_VGDUNq-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/yLdsvJ/upload_VGDUNq-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/yLdsvJ/upload_VGDUNq-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/yLdsvJ/upload_VGDUNq-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/yLdsvJ/upload_VGDUNq-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Fried chicken, spiced desserts, and catlike reflexes.",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-07-18 14:48:20",
+      "updateDate": "2016-11-29 14:42:38",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 9,
+        "name": "9",
+        "hex": "E58500"
+      },
+      "available": {
+        "id": 5,
+        "name": "Spring",
+        "description": "Available during the spring months."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "4lXT93",
+      "name": "Rye P.A.",
+      "nameDisplay": "Rye P.A.",
+      "description": "This style of beer is classified as an American Pale Ale or APA. The focus is obviously on the hops and grain used during the brewing process. Our version uses a considerable amount of rye grain (30%) and a considerable amount of hops. The color is rich and the taste is flavorful with very firm bitterness.",
+      "abv": "6.7",
+      "ibu": "56",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4lXT93/upload_5m0KYM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4lXT93/upload_5m0KYM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4lXT93/upload_5m0KYM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4lXT93/upload_5m0KYM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4lXT93/upload_5m0KYM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4lXT93/upload_5m0KYM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-09-24 18:42:48",
+      "updateDate": "2015-12-16 18:11:14",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "YoN1d0",
+      "name": "Rye Pale Ale",
+      "nameDisplay": "Rye Pale Ale",
+      "description": "Rye Pale Ale, single hopped Summit.\r\n25% Malt Rye. 8% Crystal Rye",
+      "abv": "5.3",
+      "ibu": "35",
+      "glasswareId": 5,
+      "srmId": 17,
+      "availableId": 1,
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YoN1d0/upload_2rGmAx-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YoN1d0/upload_2rGmAx-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YoN1d0/upload_2rGmAx-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YoN1d0/upload_2rGmAx-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YoN1d0/upload_2rGmAx-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YoN1d0/upload_2rGmAx-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "very_cold",
+      "servingTemperatureDisplay": "Very Cold - (0-4C/32-39F)",
+      "createDate": "2013-08-13 22:36:06",
+      "updateDate": "2015-12-17 05:06:01",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 17,
+        "name": "17",
+        "hex": "B04500"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "1vjfv0",
+      "name": "Rye Pale Ale",
+      "nameDisplay": "Rye Pale Ale",
+      "glasswareId": 5,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/1vjfv0/upload_xNfmIN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/1vjfv0/upload_xNfmIN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/1vjfv0/upload_xNfmIN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/1vjfv0/upload_xNfmIN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/1vjfv0/upload_xNfmIN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/1vjfv0/upload_xNfmIN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-02-16 11:00:44",
+      "updateDate": "2015-12-16 15:51:15",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "QXkarn",
+      "name": "Rye Pale Ale",
+      "nameDisplay": "Rye Pale Ale",
+      "description": "By using an exact amount of rye, a grain seldom found in other micro brewed beers, the Rye Pale Ale acquires its signature taste. Made with five varieties of hops and a generous amount of specialty malts, it offers a complex flavor and aroma that is both aggressive and well balanced – a rare find among beers.\r\n\r\nThe Terrapin Rye Pale Ale was released in Athens, GA in April of 2002 at the Classic City Brew Fest. Six months later this beer which was sold only in Athens was awarded the American Pale Ale Gold Medal at the 2002 Great American Beer Festival, the most prestigious competition in North America. We hope you will agree with our peers in the brewing industry that this is truly one of the best pale ales in the country.",
+      "abv": "5.5",
+      "ibu": "35",
+      "glasswareId": 5,
+      "srmId": 9,
+      "availableId": 1,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/QXkarn/upload_8ObSsh-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/QXkarn/upload_8ObSsh-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/QXkarn/upload_8ObSsh-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/QXkarn/upload_8ObSsh-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/QXkarn/upload_8ObSsh-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/QXkarn/upload_8ObSsh-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "This beer cries out for spicy foods to match it’s hoppy flavors…jerk chicken to shrimp and grits.",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "originalGravity": "1.054",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2015-12-16 05:10:08",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 9,
+        "name": "9",
+        "hex": "E58500"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "8atzoO",
+      "name": "Rye Pils(ner)",
+      "nameDisplay": "Rye Pils(ner)",
+      "description": "Sometimes things just click, like they did in modern day Czech Republic in 1842. Pilsner was born of a singular moment of perfection, bottled lightning. After years of bastardization and watering down, mostly perpetrated by earlier American brewers, the style has been taken back to its former glory by craft brewers world wide. We've decided to take it further and reinvent American-style Pilsner. Unfiltered, dry hopped, mashed with rye malt and brewed with American hops of noble Germanic descent, or the way it should have been done the first time.",
+      "abv": "4.6",
+      "glasswareId": 4,
+      "availableId": 1,
+      "styleId": 98,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8atzoO/upload_khRC0e-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8atzoO/upload_khRC0e-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8atzoO/upload_khRC0e-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8atzoO/upload_khRC0e-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8atzoO/upload_khRC0e-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8atzoO/upload_khRC0e-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-06-27 14:31:23",
+      "updateDate": "2015-12-16 16:45:25",
+      "glass": {
+        "id": 4,
+        "name": "Pilsner",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 98,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Pilsener",
+        "shortName": "American Pilsener",
+        "description": "This classic and unique pre-Prohibition American-style Pilsener is straw to deep gold in color. Hop bitterness, flavor and aroma are medium to high, and use of noble-type hops for flavor and aroma is preferred. Up to 25 percent corn and/or rice in the grist should be used. Malt flavor and aroma are medium. This is a light-medium to medium-bodied beer. Sweet corn-like dimethylsulfide (DMS), fruity esters and American hop-derived citrus flavors or aromas should not be perceived. Diacetyl is not acceptable. There should be no chill haze. Competition organizers may wish to subcategorize this style into rice and corn subcategories.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "6",
+        "ogMin": "1.045",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:08"
+      }
+    },
+    {
+      "id": "Shz76q",
+      "name": "Rye Porter",
+      "nameDisplay": "Rye Porter",
+      "description": "A classic robust porter with rich and earthy aromas as well as a strong chocolate character finished with a hint of coffee. The addition of rye malt adds a new American flair to this traditional English porter.",
+      "abv": "5.5",
+      "ibu": "33",
+      "availableId": 4,
+      "styleId": 19,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Shz76q/upload_PspmSV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Shz76q/upload_PspmSV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Shz76q/upload_PspmSV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Shz76q/upload_PspmSV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Shz76q/upload_PspmSV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Shz76q/upload_PspmSV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-05-04 16:25:05",
+      "updateDate": "2016-05-04 17:55:46",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 19,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Robust Porter",
+        "shortName": "Robust Porter",
+        "description": "Robust porters are black in color and have a roast malt flavor, often reminiscent of cocoa, but no roast barley flavor. These porters have a sharp bitterness of black malt without a highly burnt/charcoal flavor. Caramel and other malt sweetness should be present and in harmony with other distinguishing porter characters. Robust porters range from medium to full in body and have a malty sweetness. Hop bitterness is medium to high, with hop aroma and flavor ranging from negligible to medium. Diacetyl is acceptable at very low levels. Fruity esters should be evident, balanced with roast malt and hop bitterness.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "6.5",
+        "srmMin": "30",
+        "srmMax": "30",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:45"
+      }
+    },
+    {
+      "id": "FpbKjz",
+      "name": "Rye Porter",
+      "nameDisplay": "Rye Porter",
+      "styleId": 18,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/FpbKjz/upload_Ds3DND-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/FpbKjz/upload_Ds3DND-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/FpbKjz/upload_Ds3DND-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/FpbKjz/upload_Ds3DND-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/FpbKjz/upload_Ds3DND-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/FpbKjz/upload_Ds3DND-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-09-01 14:12:20",
+      "updateDate": "2015-12-17 05:27:34",
+      "style": {
+        "id": 18,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Brown Porter",
+        "shortName": "Brown Porter",
+        "description": "Brown porters are mid to dark brown (may have red tint) in color. No roast barley or strong burnt/black malt character should be perceived. Low to medium malt sweetness, caramel and chocolate is acceptable along with medium hop bitterness. This is a lightto medium-bodied beer. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "35",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:43"
+      }
+    },
+    {
+      "id": "V3KZk3",
+      "name": "Rye Porter",
+      "nameDisplay": "Rye Porter",
+      "description": "High quality pale, caramel, chocolate and Munich malts get a boost with roasted and chocolate rye. Dark and Light Belgian Candy Sugar is added to the kettle during the boil for smoothness and flavor. Belgian yeast gives off some fruity esters and the brew is delicately hopped so as to not overpower the malt flavors.",
+      "abv": "6",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 18,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/V3KZk3/upload_dMvk7n-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/V3KZk3/upload_dMvk7n-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/V3KZk3/upload_dMvk7n-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/V3KZk3/upload_dMvk7n-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/V3KZk3/upload_dMvk7n-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/V3KZk3/upload_dMvk7n-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2015-12-16 06:36:24",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 18,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Brown Porter",
+        "shortName": "Brown Porter",
+        "description": "Brown porters are mid to dark brown (may have red tint) in color. No roast barley or strong burnt/black malt character should be perceived. Low to medium malt sweetness, caramel and chocolate is acceptable along with medium hop bitterness. This is a lightto medium-bodied beer. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "35",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:43"
+      }
+    },
+    {
+      "id": "1f1ZzE",
+      "name": "Rye Rebellion",
+      "nameDisplay": "Rye Rebellion",
+      "description": "Western PA has a rebellious past regarding whiskey, especially rye whiskey. In honor of the brave men who stood up to the tax collector we have created Rye Rebellion, an imperial stout brewed with four types of rye and aged in rye whiskey barrels.",
+      "abv": "11",
+      "ibu": "5.5",
+      "availableId": 4,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/1f1ZzE/upload_X36roy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/1f1ZzE/upload_X36roy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/1f1ZzE/upload_X36roy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/1f1ZzE/upload_X36roy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/1f1ZzE/upload_X36roy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/1f1ZzE/upload_X36roy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-03-11 16:48:08",
+      "updateDate": "2015-12-17 01:10:26",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "YGvY4q",
+      "name": "Rye Saison",
+      "nameDisplay": "Rye Saison",
+      "abv": "6.5",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YGvY4q/upload_JSp6Uy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YGvY4q/upload_JSp6Uy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YGvY4q/upload_JSp6Uy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YGvY4q/upload_JSp6Uy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YGvY4q/upload_JSp6Uy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YGvY4q/upload_JSp6Uy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-06-01 01:43:20",
+      "updateDate": "2016-06-01 01:44:20",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "BKyvN9",
+      "name": "RYE Saison",
+      "nameDisplay": "RYE Saison",
+      "description": "A unique fall version with lots of flavors",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/BKyvN9/upload_QmEb0d-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/BKyvN9/upload_QmEb0d-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/BKyvN9/upload_QmEb0d-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/BKyvN9/upload_QmEb0d-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/BKyvN9/upload_QmEb0d-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/BKyvN9/upload_QmEb0d-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-01 10:54:51",
+      "updateDate": "2015-12-18 17:16:22",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "O0j9Mx",
+      "name": "Rye Smile",
+      "nameDisplay": "Rye Smile",
+      "description": "A light, refreshing beer with a surprising rye bite.",
+      "abv": "4.7",
+      "ibu": "19",
+      "styleId": 117,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/O0j9Mx/upload_ASoHk8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/O0j9Mx/upload_ASoHk8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/O0j9Mx/upload_ASoHk8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/O0j9Mx/upload_ASoHk8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/O0j9Mx/upload_ASoHk8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/O0j9Mx/upload_ASoHk8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-07-12 17:14:22",
+      "updateDate": "2015-12-18 03:44:23",
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "g8pnb7",
+      "name": "Rye Squared",
+      "nameDisplay": "Rye Squared",
+      "description": "Double the malt, double the hops, and double the flavor of the original Rye Pale Ale recipe. (Hence the name Rye Squared.) With its mammoth hop aroma, bitterness and flavor, this beer is not for the faint at heart. The Rye Squared clocks in at a hefty 9.5% ABV so double your pleasure and double your fun because Terrapin went a little crazy with this one!\r\n\r\nAnnual Release: February\r\n\r\nThe high content alcohol of these beers make them perfect for cellaring…hide them away and pull one out for a special event 2-3 years later.",
+      "abv": "8.5",
+      "ibu": "80",
+      "glasswareId": 5,
+      "availableId": 3,
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/g8pnb7/upload_fDJ3sx-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/g8pnb7/upload_fDJ3sx-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/g8pnb7/upload_fDJ3sx-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/g8pnb7/upload_fDJ3sx-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/g8pnb7/upload_fDJ3sx-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/g8pnb7/upload_fDJ3sx-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "2HgqlM",
+      "name": "Rye Stout",
+      "nameDisplay": "Rye Stout",
+      "description": "Rye Stout presents the earthy flavor of rye in a stout package. Roasted malts are definitely present, but the dark chocolate aspect is favored over coffee notes. Although lighter in body than several members of the Bell's stout portfolio, the significant portion of malted rye in the grain bill still gives Rye Stout a distinctive mouthfeel.",
+      "abv": "6.5",
+      "glasswareId": 5,
+      "availableId": 2,
+      "styleId": 24,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2HgqlM/upload_s1w0gY-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2HgqlM/upload_s1w0gY-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2HgqlM/upload_s1w0gY-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2HgqlM/upload_s1w0gY-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2HgqlM/upload_s1w0gY-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2HgqlM/upload_s1w0gY-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2015-12-16 06:09:44",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 24,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Foreign (Export)-Style Stout",
+        "shortName": "Export Stout",
+        "description": "As with classic dry stouts, foreign-style stouts have an initial malt sweetness and caramel flavor with a distinctive dry-roasted bitterness in the finish. Coffee-like roasted barley and roasted malt aromas are prominent. Some slight acidity is permissible and a medium- to full-bodied mouthfeel is appropriate. Bitterness may be high but the perception is often compromised by malt sweetness. Hop aroma and flavor should not be perceived. The perception of fruity esters is low. Diacetyl (butterscotch) should be negligible or not perceived. Head retention is excellent.",
+        "ibuMin": "30",
+        "ibuMax": "60",
+        "abvMin": "5.7",
+        "abvMax": "9.3",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.052",
+        "fgMin": "1.008",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:58"
+      }
+    },
+    {
+      "id": "0uh0qM",
+      "name": "Rye Stout",
+      "nameDisplay": "Rye Stout",
+      "description": "As a Pacific Northwest Rye Stout, you can get an idea of what we brewed here. It’s dark, its roasty and has a hint of chocolate followed by hop bitterness and the spiciness of rye! It puts a smile on our face at Doan’s, so please enjoy!",
+      "abv": "6.2",
+      "ibu": "53",
+      "availableId": 1,
+      "styleId": 42,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0uh0qM/upload_7hnkyQ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0uh0qM/upload_7hnkyQ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0uh0qM/upload_7hnkyQ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0uh0qM/upload_7hnkyQ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0uh0qM/upload_7hnkyQ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0uh0qM/upload_7hnkyQ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-08-16 13:39:47",
+      "updateDate": "2016-08-16 13:40:19",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 42,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Stout",
+        "shortName": "American Stout",
+        "description": "Initial low to medium malt sweetness with a degree of caramel, chocolate and/or roasted coffee flavor with a distinctive dryroasted bitterness in the finish. Coffee-like roasted barley and roasted malt aromas are prominent. Some slight roasted malt acidity is permissible and a medium- to full-bodied mouthfeel is appropriate. Hop bitterness may be moderate to high. Hop aroma and flavor is moderate to high, often with American citrus-type and/or resiny hop character. The perception of fruity esters is low. Roasted malt/barley astringency may be low but not excessive. Diacetyl (butterscotch) should be negligible or not perceived. Head retention is excellent.",
+        "ibuMin": "35",
+        "ibuMax": "60",
+        "abvMin": "5.7",
+        "abvMax": "8.8",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.05",
+        "fgMin": "1.01",
+        "fgMax": "1.022",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:43"
+      }
+    },
+    {
+      "id": "lo7zli",
+      "name": "Rye The Hell Knot",
+      "nameDisplay": "Rye The Hell Knot",
+      "abv": "8.5",
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/lo7zli/upload_USkMYw-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/lo7zli/upload_USkMYw-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/lo7zli/upload_USkMYw-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/lo7zli/upload_USkMYw-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/lo7zli/upload_USkMYw-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/lo7zli/upload_USkMYw-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-09-15 18:32:34",
+      "updateDate": "2018-07-13 20:49:10",
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "N5t8iJ",
+      "name": "Rye Vanilla Medianoche",
+      "nameDisplay": "Rye Vanilla Medianoche",
+      "description": "The blend for this batch was selected from freshly emptied 10-year American oak rye whiskey barrels used to age Medianoche for 18 months. These rye whiskey barrels are some of the most complex and interesting casks we have gotten our hands on, which were used to age whiskey made from 100% unmalted rye for over 10 years, imparting notes of butterscotch, vanilla, black cherries, and allspice. After 18 months of aging in the rye whiskey barrels, we conditioned this batch of Medianoche on copious amounts of Madagascar and Ugandan vanilla beans for over 3 months, contributing notes of sweet tobacco, milk chocolate, and brownie batter.",
+      "abv": "13.9",
+      "styleId": 135,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/N5t8iJ/upload_fl0azX-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/N5t8iJ/upload_fl0azX-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/N5t8iJ/upload_fl0azX-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/N5t8iJ/upload_fl0azX-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/N5t8iJ/upload_fl0azX-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/N5t8iJ/upload_fl0azX-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-08-28 21:16:31",
+      "updateDate": "2019-08-29 14:21:18",
+      "style": {
+        "id": 135,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wood- and Barrel-Aged Strong Beer",
+        "shortName": "BBL Aged Strong",
+        "description": "Any strong classic style or unique, experimental style of beer can be wood or barrel-aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and unique wood character but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Primary character of the beer style may or may not be apparent. Sour wood-aged beer of any color is outlined in other categories. Beers in this style may or may not have Brettanomyces character. The brewer must explain the special nature of the beer to allow for accurate judging. Comments could include: type of wood used (new or old, oak or other wood type), type of barrel used (new, port/ whiskey/ wine/ sherry/ other), base beer style or achieved character. Beer entries not accompanied by this information will be at a disadvantage during judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:46:50"
+      }
+    },
+    {
+      "id": "VdK5qM",
+      "name": "Rye Way 117",
+      "nameDisplay": "Rye Way 117",
+      "abv": "7.4",
+      "styleId": 126,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/VdK5qM/upload_wV73gc-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/VdK5qM/upload_wV73gc-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/VdK5qM/upload_wV73gc-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/VdK5qM/upload_wV73gc-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/VdK5qM/upload_wV73gc-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/VdK5qM/upload_wV73gc-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-17 11:31:11",
+      "updateDate": "2015-12-17 12:16:21",
+      "style": {
+        "id": 126,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Honey Lager or Ale",
+        "shortName": "Honey Beer",
+        "description": "These beers are brewed using honey in addition to malted barley. Beers may be brewed to a traditional style or may be experimental. Character of honey should be evident in flavor and aroma and balanced with the other components without overpowering them. A statement by the brewer explaining the classic or other style of the beer, and the type of honey used is essential in order for fair assessment in competitions.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:45:03"
+      }
+    },
+    {
+      "id": "zEkQiw",
+      "name": "Rye Wit",
+      "nameDisplay": "Rye Wit",
+      "description": "Untraditional Belgian-inspired beer brewed with raw wheat and 15% malted rye; seasoned with coriander and orange peel.  Tongue-in-cheek take on an ancient classic of the beer world.  Delicately spicy, but assertive enough to take on the richest of flavors.",
+      "abv": "5",
+      "ibu": "15",
+      "glasswareId": 5,
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zEkQiw/upload_PxTTTl-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zEkQiw/upload_PxTTTl-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zEkQiw/upload_PxTTTl-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/zEkQiw/upload_PxTTTl-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/zEkQiw/upload_PxTTTl-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/zEkQiw/upload_PxTTTl-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.048",
+      "createDate": "2012-06-26 21:03:35",
+      "updateDate": "2015-12-16 16:36:25",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "CqxhnL",
+      "name": "Rye You Lil' Punk",
+      "nameDisplay": "Rye You Lil' Punk",
+      "abv": "7",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/CqxhnL/upload_5JpfkR-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/CqxhnL/upload_5JpfkR-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/CqxhnL/upload_5JpfkR-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/CqxhnL/upload_5JpfkR-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/CqxhnL/upload_5JpfkR-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/CqxhnL/upload_5JpfkR-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-19 15:44:23",
+      "updateDate": "2015-12-17 07:18:51",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "Rq6xiu",
+      "name": "Rye'd da Lighting",
+      "nameDisplay": "Rye'd da Lighting",
+      "description": "A special rye beer brewed in collaboration with our friends at Reckless Records. Brewed with American 2-row barley and rye, medium-bodied ale has a sweet caramel biscuit body and a deep golden color. A special blend of hops gives this rye ale an aroma of resiny tangerines and blood fruit.",
+      "availableId": 2,
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Rq6xiu/upload_ijlF4l-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Rq6xiu/upload_ijlF4l-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Rq6xiu/upload_ijlF4l-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Rq6xiu/upload_ijlF4l-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Rq6xiu/upload_ijlF4l-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Rq6xiu/upload_ijlF4l-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-06-08 12:41:19",
+      "updateDate": "2015-12-17 13:19:02",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "0sr0Zy",
+      "name": "Rye'd Piper",
+      "nameDisplay": "Rye'd Piper",
+      "abv": "5.8",
+      "styleId": 125,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0sr0Zy/upload_0jS3wM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0sr0Zy/upload_0jS3wM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0sr0Zy/upload_0jS3wM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0sr0Zy/upload_0jS3wM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0sr0Zy/upload_0jS3wM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0sr0Zy/upload_0jS3wM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2018-11-02 16:22:26",
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "H9dJOH",
+      "name": "Rye'd the Line IPA",
+      "nameDisplay": "Rye'd the Line IPA",
+      "description": "Gold Medal winner at the 2015 Best Florida Beer Championships, this IPA showcases the dry and spicy characteristics of the rye and balances that with slightly sweet caramel malts and tropical and piney notes from the use of Mosaic hops. The aromas and flavors of each ingredient come together to create a balanced and satisfying medium bodied IPA.",
+      "abv": "7.5",
+      "ibu": "70",
+      "glasswareId": 8,
+      "availableId": 2,
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/H9dJOH/upload_kgfWIV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/H9dJOH/upload_kgfWIV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/H9dJOH/upload_kgfWIV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/H9dJOH/upload_kgfWIV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/H9dJOH/upload_kgfWIV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/H9dJOH/upload_kgfWIV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-06-08 14:22:19",
+      "updateDate": "2017-09-13 00:07:31",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "MRfyGg",
+      "name": "Rye'M or Treason",
+      "nameDisplay": "Rye'M or Treason",
+      "abv": "10.3",
+      "ibu": "55",
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/MRfyGg/upload_iVNIau-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/MRfyGg/upload_iVNIau-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/MRfyGg/upload_iVNIau-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/MRfyGg/upload_iVNIau-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/MRfyGg/upload_iVNIau-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/MRfyGg/upload_iVNIau-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-12 12:38:23",
+      "updateDate": "2015-12-16 19:54:55",
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "Ux1Usz",
+      "name": "Rye's This So Good?!",
+      "nameDisplay": "Rye's This So Good?!",
+      "abv": "6.5",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Ux1Usz/upload_H4ODNu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Ux1Usz/upload_H4ODNu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Ux1Usz/upload_H4ODNu-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-06-19 02:22:08",
+      "updateDate": "2018-06-19 13:51:17",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "3Hgna8",
+      "name": "Rye't On",
+      "nameDisplay": "Rye't On",
+      "description": "Smooth. That’s the overriding characteristic of this rye pale ale. Rye is clearly present in aroma and flavor, but not overly abundant. The hop flavor and aroma is balanced by the rye’s spiciness, which remains through the finish. Its color is a beautiful bright copper beneath a nice rocky white head. Rye is the special guest, but the backbone of Rye’t On is the traditional pale ale behind it.",
+      "abv": "6",
+      "ibu": "26",
+      "availableId": 2,
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/3Hgna8/upload_feXayG-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/3Hgna8/upload_feXayG-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/3Hgna8/upload_feXayG-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/3Hgna8/upload_feXayG-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/3Hgna8/upload_feXayG-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/3Hgna8/upload_feXayG-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-08-10 20:14:37",
+      "updateDate": "2015-12-17 03:49:47",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "IAswJM",
+      "name": "Rye'z Guys",
+      "nameDisplay": "Rye'z Guys",
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/IAswJM/upload_eNR5ST-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/IAswJM/upload_eNR5ST-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/IAswJM/upload_eNR5ST-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/IAswJM/upload_eNR5ST-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/IAswJM/upload_eNR5ST-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/IAswJM/upload_eNR5ST-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-11 15:52:26",
+      "updateDate": "2015-12-16 20:39:14",
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    },
+    {
+      "id": "dMKeaC",
+      "name": "Rye-Dye",
+      "nameDisplay": "Rye-Dye",
+      "abv": "6.5",
+      "ibu": "65",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dMKeaC/upload_uIG1qo-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dMKeaC/upload_uIG1qo-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dMKeaC/upload_uIG1qo-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dMKeaC/upload_uIG1qo-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dMKeaC/upload_uIG1qo-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dMKeaC/upload_uIG1qo-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-17 12:03:02",
+      "updateDate": "2015-12-17 12:21:21",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "T83Ot9",
+      "name": "Rye-on-Rye",
+      "nameDisplay": "Rye-on-Rye",
+      "description": "Why Rye? This assertively flavorful grain is more often associated with whiskey than with ales. Even in that arena, it has largely been eclipsed by corn and barley, the sources of bourbon and scotch. But when we procured some seasoned barrels from our friends at Templeton Rye, we asked ourselves, “Why not?” Why not brew a rich, tawny rye ale, then mellow it in the warmth of charred oak rye whiskey casks? Two kinds of malted rye provide spicy sweetness, giving way to notes of caramelized wood and the citrusy tang of Perle, Magnum, and Saphir hops before easing into a dry, lingering finish.",
+      "abv": "11",
+      "ibu": "47",
+      "glasswareId": 5,
+      "availableId": 2,
+      "styleId": 125,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/T83Ot9/upload_iMtbQO-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/T83Ot9/upload_iMtbQO-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/T83Ot9/upload_iMtbQO-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/T83Ot9/upload_iMtbQO-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/T83Ot9/upload_iMtbQO-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/T83Ot9/upload_iMtbQO-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:07",
+      "updateDate": "2018-05-01 12:14:04",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "frKWd8",
+      "name": "Rye-On-Rye X - Sazerac",
+      "nameDisplay": "Rye-On-Rye X - Sazerac",
+      "description": "Inspired by the success (and selfishly, fun) of our \"X\" series of special Imperial Stout releases, we've embarked on a journey to the outer reaches of our popular Rye-on-Rye. For the first Rye-on-Rye X release, Rye-on-Rye-on-Rye, we transferred our huge tawny rye ale from its first set of aging barrels into freshly emptied Templeton Rye barrels effectively creating a double barrel aged ale that showcased giant rye whiskey and barrel character.",
+      "abv": "11.8",
+      "ibu": "29",
+      "availableId": 2,
+      "styleId": 117,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/frKWd8/upload_ANdzjv-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/frKWd8/upload_ANdzjv-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/frKWd8/upload_ANdzjv-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/frKWd8/upload_ANdzjv-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/frKWd8/upload_ANdzjv-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/frKWd8/upload_ANdzjv-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-09-05 17:29:11",
+      "updateDate": "2017-09-05 17:30:14",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 117,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Rye Ale or Lager with or without Yeast",
+        "shortName": "Rye Ale",
+        "description": "Rye beers can be made using either ale or lager yeast. It should be brewed with at least 20 percent rye malt, and low to medium perception of hop bitterness. Hop aroma and flavor can be low to medium-high. These are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. A spicy, fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is straw to amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. A low level of tannin derived astringency may be perceived. If this style is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived. Competition directors may create specific styles of rye beer, such as Rye Pale Ale or Rye Brown Ale. A statement by the brewer indicating if the beer is based on a classic style is essential for accurate judging.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:12"
+      }
+    }
+  ],
+  "status": "success"
+}

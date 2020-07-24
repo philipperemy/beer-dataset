@@ -1,0 +1,2759 @@
+{
+  "currentPage": 380,
+  "numberOfPages": 603,
+  "totalResults": 30128,
+  "data": [
+    {
+      "id": "TeDueO",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "Malty & smooth, this traditional Märzen reflects the German heritage of the Southern Illinois region and is the perfect beer for a crisp Autumn day.",
+      "abv": "5.5",
+      "ibu": "20",
+      "glasswareId": 3,
+      "srmId": 12,
+      "availableId": 7,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/TeDueO/upload_3iu5oz-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/TeDueO/upload_3iu5oz-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/TeDueO/upload_3iu5oz-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/TeDueO/upload_3iu5oz-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/TeDueO/upload_3iu5oz-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/TeDueO/upload_3iu5oz-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-09-30 14:31:27",
+      "updateDate": "2015-12-17 18:41:04",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 12,
+        "name": "12",
+        "hex": "CF6900"
+      },
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "p9zlLd",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "Prost! Our take on this classic German style is a celebration of maltiness— packed with rustic, autumnal flavors to put a little more oomph into your oom-pah-pah.",
+      "abv": "6.5",
+      "ibu": "20",
+      "glasswareId": 3,
+      "srmId": 17,
+      "availableId": 7,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/p9zlLd/upload_PXnDcY-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/p9zlLd/upload_PXnDcY-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/p9zlLd/upload_PXnDcY-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/p9zlLd/upload_PXnDcY-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/p9zlLd/upload_PXnDcY-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/p9zlLd/upload_PXnDcY-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Roast pork loin, potato pancakes, and wiener dog races.",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:43:49",
+      "updateDate": "2015-12-16 05:40:58",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 17,
+        "name": "17",
+        "hex": "B04500"
+      },
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "TYPuEe",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "This traditional German style lager beer is amber in color, has fragrant notes of deep-toasted malt, and is exceptionally smooth due to the “cold” fermentation process. Moderate additions of noble hops during the boil and whirlpool make the beer spicy and herbal yet sweet and grainy. This medium bodied, traditional lager is the perfect beer for celebrating the changing of the seasons as we move from summer into fall.",
+      "abv": "4.2",
+      "ibu": "25",
+      "availableId": 4,
+      "styleId": 80,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/TYPuEe/upload_J3138I-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/TYPuEe/upload_J3138I-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/TYPuEe/upload_J3138I-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/TYPuEe/upload_J3138I-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/TYPuEe/upload_J3138I-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/TYPuEe/upload_J3138I-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.048",
+      "createDate": "2019-06-21 12:00:03",
+      "updateDate": "2019-06-25 20:57:40",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 80,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Vienna-Style Lager",
+        "shortName": "Vienna Lager",
+        "description": "Beers in this category are reddish brown or copper colored. They are medium in body. The beer is characterized by malty aroma and slight malt sweetness. The malt aroma and flavor should have a notable degree of toasted and/or slightly roasted malt character. Hop bitterness is clean and crisp. Noble-type hop aromas and flavors should be low or mild. Diacetyl, chill haze and ale-like fruity esters should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "28",
+        "abvMin": "4.8",
+        "abvMax": "5.4",
+        "srmMin": "12",
+        "srmMax": "16",
+        "ogMin": "1.046",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:42"
+      }
+    },
+    {
+      "id": "rYqq2P",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "This traditional marzen beer shows off a gorgeous, fiery amber color. The flavor emphasizes a rich, almost \"toasted\" flavor from the malt. A classic style beer.",
+      "abv": "5.5",
+      "ibu": "24",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rYqq2P/upload_zrncHx-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rYqq2P/upload_zrncHx-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rYqq2P/upload_zrncHx-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rYqq2P/upload_zrncHx-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rYqq2P/upload_zrncHx-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rYqq2P/upload_zrncHx-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:49",
+      "updateDate": "2018-06-11 14:36:44",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "4bRxK9",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "Nothing pairs better with the great fall season than our traditional German Style Märzen Lager. With its roots stemming from traditional Bavarian culture, our Oktoberfest is brewed with tons of Vienna style malts that bring about BIG malty flavor. That big malty flavor then fades away to a clean hop bitterness provided by the Perle hops for a full-flavored and balanced experience.",
+      "abv": "5.7",
+      "ibu": "18",
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4bRxK9/upload_mDBNi1-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4bRxK9/upload_mDBNi1-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4bRxK9/upload_mDBNi1-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4bRxK9/upload_mDBNi1-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4bRxK9/upload_mDBNi1-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4bRxK9/upload_mDBNi1-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-07-13 17:56:58",
+      "updateDate": "2017-08-30 19:09:30",
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "L7pfmD",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "abv": "7",
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/L7pfmD/upload_ETVEjn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/L7pfmD/upload_ETVEjn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/L7pfmD/upload_ETVEjn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/L7pfmD/upload_ETVEjn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/L7pfmD/upload_ETVEjn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/L7pfmD/upload_ETVEjn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-23 04:11:40",
+      "updateDate": "2018-09-12 17:26:22",
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "PKJudl",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "abv": "4.5",
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/PKJudl/upload_EyvGUb-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/PKJudl/upload_EyvGUb-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/PKJudl/upload_EyvGUb-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/PKJudl/upload_EyvGUb-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/PKJudl/upload_EyvGUb-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/PKJudl/upload_EyvGUb-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-25 15:26:59",
+      "updateDate": "2017-08-30 17:35:20",
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "sLFeyi",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/sLFeyi/upload_bJPTB1-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/sLFeyi/upload_bJPTB1-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/sLFeyi/upload_bJPTB1-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/sLFeyi/upload_bJPTB1-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/sLFeyi/upload_bJPTB1-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/sLFeyi/upload_bJPTB1-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-08-22 11:27:57",
+      "updateDate": "2015-12-17 05:49:17",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "2dAEr0",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2dAEr0/upload_4Emg7F-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2dAEr0/upload_4Emg7F-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2dAEr0/upload_4Emg7F-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2dAEr0/upload_4Emg7F-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2dAEr0/upload_4Emg7F-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2dAEr0/upload_4Emg7F-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2017-12-05 19:29:11",
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "6P6PBX",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "This limited release beer is a European style Oktoberfest that has a light straw color with an easy malt backbone which results in a smooth and refreshing flavor. This is a great brew for the season or any celebration. Prost!",
+      "abv": "6.3",
+      "ibu": "50",
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/6P6PBX/upload_Q69FNw-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/6P6PBX/upload_Q69FNw-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/6P6PBX/upload_Q69FNw-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/6P6PBX/upload_Q69FNw-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/6P6PBX/upload_Q69FNw-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/6P6PBX/upload_Q69FNw-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-10-09 12:38:12",
+      "updateDate": "2016-10-09 12:39:11",
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "dBNzgw",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "This traditional seasonal lager has a malty, toasty character with a mild hop bitterness in the finish. Amber in color, medium-bodied and very smooth from a long lagering process.",
+      "abv": "5.6",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dBNzgw/upload_8zlMV6-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dBNzgw/upload_8zlMV6-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dBNzgw/upload_8zlMV6-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dBNzgw/upload_8zlMV6-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dBNzgw/upload_8zlMV6-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dBNzgw/upload_8zlMV6-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 08:42:31",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "9NYLyM",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "We start with the classic Vienna and Munich malts, but use a few other types as well, for greater complexity as well as an easy drinkability.",
+      "abv": "5.6",
+      "ibu": "22",
+      "glasswareId": 3,
+      "srmId": 12,
+      "availableId": 7,
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/9NYLyM/upload_k9yKO5-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/9NYLyM/upload_k9yKO5-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/9NYLyM/upload_k9yKO5-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/9NYLyM/upload_k9yKO5-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/9NYLyM/upload_k9yKO5-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/9NYLyM/upload_k9yKO5-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Roast Chicken or Pork, Spicy Dishes, Pizza, Pasta, Rich Seafood",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2013-08-09 15:25:47",
+      "updateDate": "2015-12-17 04:16:10",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 12,
+        "name": "12",
+        "hex": "CF6900"
+      },
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "gmfbj6",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "Our Oktoberfest is designed to emulate the traditional Vienna style lager using American ingredients. We use the finest American two row and Briess Ashburne and Bolander Munich malt, Tattnanger hops and Bohemian lager yeast. Oktoberfest is malty and crisp, but not sweet, with a smooth, balanced finish and understated hops.\r\n\r\nWe first crafted this beer to celebrate Oktoberfest at the Delaware Saengerbund. This annual German festival brings the spirit of Munich to Delaware with Bavarian bands, German food and folk dancing. Twin Lakes Oktoberfest blends the traditions of German brewing with the innovative American spirit.",
+      "abv": "6",
+      "ibu": "30",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gmfbj6/upload_6Qq4kT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gmfbj6/upload_6Qq4kT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gmfbj6/upload_6Qq4kT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gmfbj6/upload_6Qq4kT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gmfbj6/upload_6Qq4kT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gmfbj6/upload_6Qq4kT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 06:46:08",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "yUxVOc",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "description": "Oktoberfest is our version of the perennial favorite Bavarian Autumn beer. Oktoberfest's deep golden hue helps bring to mind the old country and its time honored traditions. Brewed with Hallertau and Tettnang hops to balance its clean, malty sweetness, it's the perfect brew for a crisp Autumn day. Available from August to November.",
+      "abv": "4.5",
+      "ibu": "32",
+      "glasswareId": 5,
+      "availableId": 3,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/yUxVOc/upload_5IO8Jy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/yUxVOc/upload_5IO8Jy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/yUxVOc/upload_5IO8Jy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/yUxVOc/upload_5IO8Jy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/yUxVOc/upload_5IO8Jy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/yUxVOc/upload_5IO8Jy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "23aeRZ",
+      "name": "Oktoberfest",
+      "nameDisplay": "Oktoberfest",
+      "abv": "5.8",
+      "availableId": 4,
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/23aeRZ/upload_mPnKW9-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/23aeRZ/upload_mPnKW9-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/23aeRZ/upload_mPnKW9-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/23aeRZ/upload_mPnKW9-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/23aeRZ/upload_mPnKW9-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/23aeRZ/upload_mPnKW9-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-12 19:02:43",
+      "updateDate": "2015-12-17 07:17:56",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "0saBfh",
+      "name": "Oktoberfest (LTD 07)",
+      "nameDisplay": "Oktoberfest (LTD 07)",
+      "description": "Full Sail’s Oktoberfest is a smooth, malty lager brewed in the true Bavarian style, using Two-row Pale, Vienna, Caramel and imported roasted Munich malts, and then moderately hopped with imported Czech Saaz and Yakima Sterling hops. With flavors reminiscent of honey, nougat and roasted nuts, it’s complex and beautifully balanced. Prosit! ABV 5.7% IBU 26",
+      "abv": "5.7",
+      "ibu": "26",
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0saBfh/upload_yDoDBT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0saBfh/upload_yDoDBT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0saBfh/upload_yDoDBT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0saBfh/upload_yDoDBT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0saBfh/upload_yDoDBT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0saBfh/upload_yDoDBT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-09-28 12:34:47",
+      "updateDate": "2015-12-17 18:43:13",
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "je7j3i",
+      "name": "Oktoberfest - Thirty Beers Thirty Years",
+      "nameDisplay": "Oktoberfest - Thirty Beers Thirty Years",
+      "abv": "5.3",
+      "availableId": 2,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/je7j3i/upload_fYeVGQ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/je7j3i/upload_fYeVGQ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/je7j3i/upload_fYeVGQ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/je7j3i/upload_fYeVGQ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/je7j3i/upload_fYeVGQ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/je7j3i/upload_fYeVGQ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-09 10:15:47",
+      "updateDate": "2015-12-17 12:03:34",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "0gRhjy",
+      "name": "Oktoberfest 1810",
+      "nameDisplay": "Oktoberfest 1810",
+      "abv": "5.9",
+      "glasswareId": 3,
+      "availableId": 2,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0gRhjy/upload_IUQSVK-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0gRhjy/upload_IUQSVK-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0gRhjy/upload_IUQSVK-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0gRhjy/upload_IUQSVK-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0gRhjy/upload_IUQSVK-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0gRhjy/upload_IUQSVK-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-23 13:15:50",
+      "updateDate": "2017-09-11 12:47:58",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "NssAqO",
+      "name": "Oktoberfest Ale",
+      "nameDisplay": "Oktoberfest Ale",
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NssAqO/upload_NLPm8p-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NssAqO/upload_NLPm8p-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NssAqO/upload_NLPm8p-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/NssAqO/upload_NLPm8p-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/NssAqO/upload_NLPm8p-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/NssAqO/upload_NLPm8p-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-11-04 16:28:21",
+      "updateDate": "2015-12-17 18:19:18",
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "POfH6l",
+      "name": "Oktoberfest Bier",
+      "nameDisplay": "Oktoberfest Bier",
+      "description": "A rich, gold-colored Munich-style fest beer. This medium-bodied lager uses a combination of caramel and roasted malts to produce a well-balancd beer that finishes very clean.",
+      "abv": "5.5",
+      "ibu": "25",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/POfH6l/upload_OFflWZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/POfH6l/upload_OFflWZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/POfH6l/upload_OFflWZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/POfH6l/upload_OFflWZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/POfH6l/upload_OFflWZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/POfH6l/upload_OFflWZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.052",
+      "createDate": "2012-01-03 02:43:56",
+      "updateDate": "2015-12-16 02:58:27",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "9HKPrk",
+      "name": "Oktoberfest Bier",
+      "nameDisplay": "Oktoberfest Bier",
+      "description": "Our Fall seasonal is our take on an Oktoberfest style beer.  Brewed with continental malts, a generous amount of noble hops, and a unique twist on the fermenting yeast, Oktoberfest is one of our favorite beers.  It's malty, full body, and well balanced hop character make it a perfect fall beer to enjoy with your friends.",
+      "abv": "7.5",
+      "availableId": 7,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/9HKPrk/upload_fC8qqI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/9HKPrk/upload_fC8qqI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/9HKPrk/upload_fC8qqI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/9HKPrk/upload_fC8qqI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/9HKPrk/upload_fC8qqI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/9HKPrk/upload_fC8qqI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-11 17:19:42",
+      "updateDate": "2015-12-17 23:29:52",
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "KzWCBY",
+      "name": "Oktoberfest Bier",
+      "nameDisplay": "Oktoberfest Bier",
+      "glasswareId": 5,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/KzWCBY/upload_Pyh7mM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/KzWCBY/upload_Pyh7mM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/KzWCBY/upload_Pyh7mM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/KzWCBY/upload_Pyh7mM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/KzWCBY/upload_Pyh7mM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/KzWCBY/upload_Pyh7mM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 10:14:39",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "2KViDm",
+      "name": "Oktoberfest Bier",
+      "nameDisplay": "Oktoberfest Bier",
+      "description": "Please welcome our first lager brewed specifically for Oktoberfest!\r\n\r\nIt's not a secret that the festival is already officially over but October is still going so why don't we have a mass or two of tasty beer? Of course, lagers is not our strongest skill, but we decided to take some risk and to spit nails a bit. First of all, it was decided to have the colour of this beer more close to the original beers of this style - it's much more darker than usual modern interpretations of the style as seen by Munich brewers. Second, we have dry hopped our beer! Of course we have selected the perfect aroma German variety - Hallertau Mittelfruh - which added to the brewing kettle during boiling as well as to the fermentation tank later for dry hopping. This hop gives a beautiful flower flavours to our beer. Finally, this beer is a bit more stronger that usual one in this style. We suppose that it would be a plus only for the late Russian autumn. We think that experiment could be considered as successful, the beer is very drinkable with nice malty body and German hops in aroma and taste.",
+      "abv": "7",
+      "ibu": "25",
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2KViDm/upload_9ww6Gu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2KViDm/upload_9ww6Gu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2KViDm/upload_9ww6Gu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2KViDm/upload_9ww6Gu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2KViDm/upload_9ww6Gu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2KViDm/upload_9ww6Gu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Grilled chicken, Bavarian sausages, and baked pretzels.",
+      "originalGravity": "1.061",
+      "createDate": "2015-01-28 19:14:32",
+      "updateDate": "2015-12-17 21:55:53",
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "GtC2Mm",
+      "name": "Oktoberfest Bier",
+      "nameDisplay": "Oktoberfest Bier",
+      "description": "A beautiful reddish-orange lager with a nice foamy white head. Perfectly balanced with a complex and spicy hop character that is delicately offset by sweet malts, so that both flavors shine through but neither dominates the other.\r\n\r\nThis Märzen-style lager is the traditional beer of Munich’s Oktoberfest. Literally translated it means “March Beer” and the name stems from the time before refrigeration when the last batch of the spring was brewed in March and then stored (or lagered) in Alpine cellars throughout the warm Bavarian summer. It was then brought back out and served during Oktoberfest and the rest of the fall harvest celebrations.",
+      "abv": "5.5",
+      "ibu": "12",
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/GtC2Mm/upload_mfPvkk-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/GtC2Mm/upload_mfPvkk-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/GtC2Mm/upload_mfPvkk-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/GtC2Mm/upload_mfPvkk-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/GtC2Mm/upload_mfPvkk-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/GtC2Mm/upload_mfPvkk-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Think classic beerhall fare – roast chicken, salty pretzels with pungent mustard, potato salad or au gratin, smoked or glazed ham. The caramel malts will also pair wonderfully with crème brulee.",
+      "originalGravity": "1.056",
+      "createDate": "2014-09-08 16:41:22",
+      "updateDate": "2015-12-17 16:38:04",
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "AdLOai",
+      "name": "Oktoberfest Brau",
+      "nameDisplay": "Oktoberfest Brau",
+      "description": "Germany’s most popular fall beer, this “Oktoberfest Brau” is brewed in the traditional maerzen style. Pleasant toffee-like flavours, medium body and low hopping make this a seasonal lager worthy of celebration.\r\n\r\nThe perfect accompaniment with most pork dishes, particularly traditional German foods such as sausages, schnitzels and ham. Also terrific with battered fish and crab cakes.",
+      "abv": "4.9",
+      "ibu": "16",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/AdLOai/upload_iJSIbT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/AdLOai/upload_iJSIbT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/AdLOai/upload_iJSIbT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/AdLOai/upload_iJSIbT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/AdLOai/upload_iJSIbT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/AdLOai/upload_iJSIbT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 06:32:20",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "hAxrHA",
+      "name": "Oktoberfest Celebration Lager",
+      "nameDisplay": "Oktoberfest Celebration Lager",
+      "description": "A malty, German-style Lager with low to moderate hop bitterness featuring a medium body and brilliant orange-ish amber color. Due to its popularity, Oktoberfest is consistently Rochester Mills best-selling seasonal beer. Rich, yet easy drinking, and incredibly delicious. Order early to get this limited Seasonal Release made popular by the annual Fall Festival that originated in Munich, Germany and is celebrated world-wide, including popular local celebrations.",
+      "abv": "6.2",
+      "ibu": "21",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/hAxrHA/upload_qZkPOY-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/hAxrHA/upload_qZkPOY-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/hAxrHA/upload_qZkPOY-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/hAxrHA/upload_qZkPOY-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/hAxrHA/upload_qZkPOY-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/hAxrHA/upload_qZkPOY-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Emmental, Gruyère, Jalapeno Jack; Mexican and other hearty dishes, spicy chicken, sausage and pork dishes (brats & sauerkraut).",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2014-10-23 04:11:16",
+      "updateDate": "2018-08-28 15:17:15",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "pmdkR9",
+      "name": "Oktoberfest Fall Fest",
+      "nameDisplay": "Oktoberfest Fall Fest",
+      "description": "Released in celebration of autumn’s arrival, Oktoberfest is a medium-bodied bier crafted in the Leavenworth tradition. This richly amber seasonal owes its smooth, malty flavor to a large percentage of Munich malt. In the classic German tradition, we add both noble Tettnanger and imported Tradition hops for an authentic Oktoberfest hop aroma.",
+      "abv": "5.5",
+      "ibu": "25",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/pmdkR9/upload_oqEsDm-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/pmdkR9/upload_oqEsDm-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/pmdkR9/upload_oqEsDm-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/pmdkR9/upload_oqEsDm-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/pmdkR9/upload_oqEsDm-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/pmdkR9/upload_oqEsDm-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 06:11:19",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "qTWfYb",
+      "name": "Oktoberfest Høstbryg",
+      "nameDisplay": "Oktoberfest Høstbryg",
+      "abv": "5.2",
+      "availableId": 4,
+      "styleId": 93,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qTWfYb/upload_Xzb8yR-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qTWfYb/upload_Xzb8yR-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qTWfYb/upload_Xzb8yR-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qTWfYb/upload_Xzb8yR-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qTWfYb/upload_Xzb8yR-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qTWfYb/upload_Xzb8yR-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-05-24 17:25:34",
+      "updateDate": "2015-12-18 02:11:17",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 93,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Lager",
+        "shortName": "American Lager",
+        "description": "Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.",
+        "ibuMin": "5",
+        "ibuMax": "13",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:39:26"
+      }
+    },
+    {
+      "id": "SHn0EY",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "Oktoberfest is brewed several months in advance using Munich and Vienna malts and imported noble hops. Months of cold conditioning result in an exceptionally smooth amber beer that is medium bodied and well balanced. Oktoberfest is a great session beer to be enjoyed all day.",
+      "abv": "4.9",
+      "styleId": 80,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/SHn0EY/upload_o5IWp5-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/SHn0EY/upload_o5IWp5-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/SHn0EY/upload_o5IWp5-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/SHn0EY/upload_o5IWp5-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/SHn0EY/upload_o5IWp5-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/SHn0EY/upload_o5IWp5-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-08-10 14:01:02",
+      "updateDate": "2015-12-17 05:00:55",
+      "style": {
+        "id": 80,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Vienna-Style Lager",
+        "shortName": "Vienna Lager",
+        "description": "Beers in this category are reddish brown or copper colored. They are medium in body. The beer is characterized by malty aroma and slight malt sweetness. The malt aroma and flavor should have a notable degree of toasted and/or slightly roasted malt character. Hop bitterness is clean and crisp. Noble-type hop aromas and flavors should be low or mild. Diacetyl, chill haze and ale-like fruity esters should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "28",
+        "abvMin": "4.8",
+        "abvMax": "5.4",
+        "srmMin": "12",
+        "srmMax": "16",
+        "ogMin": "1.046",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:42"
+      }
+    },
+    {
+      "id": "vIikZV",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "No season is as synonymous with beer as autumn, when the most storied beer festival of them all, Oktoberfest, takes place in Munich, Germany. Since 1810, this celebration of good food, good company, and, most importantly, good beer, has most prominently featured Marzen-style lager–so much so that many refer to the beer simply as Oktoberfest.\r\n\r\nOur Oktoberfest is a traditional Bavarian lager featuring all-German malts and rare German hops. This dedication to authenticity produces a beer that would be as at home in Munich as it is here in the Midwest United States. The aroma is authentic, the taste sweet and malty, and the finish crisp and hoppy; perfect for a beautiful fall day!",
+      "abv": "6.5",
+      "ibu": "16.5",
+      "glasswareId": 3,
+      "srmId": 7,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/vIikZV/upload_GUpa5s-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/vIikZV/upload_GUpa5s-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/vIikZV/upload_GUpa5s-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/vIikZV/upload_GUpa5s-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/vIikZV/upload_GUpa5s-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/vIikZV/upload_GUpa5s-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 07:17:04",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 7,
+        "name": "7",
+        "hex": "F39C00"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "emNbUf",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "Anaheim Oktoberfest Lager is brewed according to a 100-year-old recipe in traditional Bavarian style, copper-colored and strong.  It’s caramel maltiness is balanced with a touch of German hops, and a smooth, slightly toasty finish.",
+      "abv": "6.6",
+      "ibu": "22",
+      "glasswareId": 3,
+      "srmId": 10,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/emNbUf/upload_jQZHq8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/emNbUf/upload_jQZHq8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/emNbUf/upload_jQZHq8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/emNbUf/upload_jQZHq8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/emNbUf/upload_jQZHq8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/emNbUf/upload_jQZHq8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2017-10-06 16:29:47",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 10,
+        "name": "10",
+        "hex": "DE7C00"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "BiKt6P",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/BiKt6P/upload_wVapMg-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/BiKt6P/upload_wVapMg-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/BiKt6P/upload_wVapMg-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/BiKt6P/upload_wVapMg-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/BiKt6P/upload_wVapMg-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/BiKt6P/upload_wVapMg-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-01-05 12:36:43",
+      "updateDate": "2015-12-17 20:55:10",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "0WfaCZ",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "abv": "5.27",
+      "ibu": "27",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0WfaCZ/upload_6OkSaC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0WfaCZ/upload_6OkSaC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0WfaCZ/upload_6OkSaC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0WfaCZ/upload_6OkSaC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0WfaCZ/upload_6OkSaC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0WfaCZ/upload_6OkSaC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 10:10:03",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "OyroEj",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "Zicke, zacke, zicke, zacke, hoi, hoi, hoi. Imported German malts give this Fest Bier a chestnut red color. Nice aromas of toasted grains with a crisp, crackery malt flavor which is balanced by imported German noble hops. Smooth and highly drinkable. Der Gemütlichkeit.",
+      "abv": "5.7",
+      "ibu": "25",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/OyroEj/upload_y8TfiU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/OyroEj/upload_y8TfiU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/OyroEj/upload_y8TfiU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/OyroEj/upload_y8TfiU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/OyroEj/upload_y8TfiU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/OyroEj/upload_y8TfiU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Spicy food, Mexican.",
+      "originalGravity": "1.057",
+      "createDate": "2014-07-17 15:04:19",
+      "updateDate": "2015-12-17 15:56:42",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "3r0qlu",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "In Florida the changing of seasons is decidedly\r\nmore subtle than in most other places. Palm\r\nfronds rarely turn brilliant red and orange the way\r\nleaves do in the rest of the country, and for\r\nFloridians sweaters exist only as rumor. We at\r\nCigar City rely heavily on our seasonal beers to\r\nmark the passing of each month and few beers are\r\nbetter at heralding the arrival of autumn than our\r\nOktoberfest Lager. Our Festbier nods firmly\r\ntoward the style's history with it's amber color,\r\nbready malt complexity and restrained hop flavor\r\nand bitterness. At the heart of this beer is a malt\r\nbill of six different German malt varieties,\r\nincluding a generous helping of Munich malt.\r\nAfter adding Hallertauer Mittlefruh hops we\r\nferment the beer with an authentic Bavarian lager\r\nyeast, resulting in a clean, dry and complex lager\r\nthat's at once intriguing and drinkable. As the\r\ntemperature drops to the frosty mid-80's and the\r\nsnowbirds return to their cool-weather roosts, we\r\ncan't think of a better beer than Cigar City\r\nOktoberfest to compliment the onset of autumn.\r\nPour yourself a liter stein and let out a hearty\r\nprost!",
+      "abv": "5.8",
+      "ibu": "25",
+      "glasswareId": 3,
+      "srmId": 14,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/3r0qlu/upload_WKezOb-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/3r0qlu/upload_WKezOb-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/3r0qlu/upload_WKezOb-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/3r0qlu/upload_WKezOb-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/3r0qlu/upload_WKezOb-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/3r0qlu/upload_WKezOb-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.055",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2018-08-13 14:58:03",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 14,
+        "name": "14",
+        "hex": "C35900"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "gBrcty",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "A true full-bodied Oktoberfest lager. Dark in color with a fine caramel finish.",
+      "abv": "5.6",
+      "ibu": "35",
+      "availableId": 7,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gBrcty/upload_hsOgfa-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gBrcty/upload_hsOgfa-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gBrcty/upload_hsOgfa-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gBrcty/upload_hsOgfa-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gBrcty/upload_hsOgfa-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gBrcty/upload_hsOgfa-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-05-26 14:14:25",
+      "updateDate": "2016-05-27 10:01:54",
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "MYbwf3",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "Break out the lederhosen and get ready for some good old Bavarian Gemütlichkeit...Oklahoma Style. Marshall Brewing Company’s Oktoberfest is a beautiful deep cooper-colored lager highlighted by a complex malt flavor, elegantly balanced by the bittering of noble German hops. This beer is extremely smooth and highly drinkable. Checking in at 6.0% ABV, Oktoberfest is truly a fest bier worth celebrating! (Limited Release Beer)",
+      "abv": "6",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/MYbwf3/upload_BsF6Zq-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/MYbwf3/upload_BsF6Zq-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/MYbwf3/upload_BsF6Zq-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/MYbwf3/upload_BsF6Zq-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/MYbwf3/upload_BsF6Zq-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/MYbwf3/upload_BsF6Zq-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 06:35:09",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "JDJ6aI",
+      "name": "Oktoberfest Lager",
+      "nameDisplay": "Oktoberfest Lager",
+      "description": "\"This is a traditional German-style Marzen. A rich malty lager beer delicately balanced and brewed with imported noble hops.\r\n\r\nCrafted for enjoyment during the fall season!\r\n\r\nCheers!\"",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JDJ6aI/upload_QDpWc1-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JDJ6aI/upload_QDpWc1-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JDJ6aI/upload_QDpWc1-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JDJ6aI/upload_QDpWc1-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JDJ6aI/upload_QDpWc1-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JDJ6aI/upload_QDpWc1-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2017-08-30 21:40:17",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "CWCLzS",
+      "name": "Oktoberfest Marzen",
+      "nameDisplay": "Oktoberfest Marzen",
+      "description": "This classic German-style lager is brewed once annually for service in mid-September. It has big malt flavor from imported German Vienna and Munich malts with just enough German Hallertauer hops to balance the sweet character of the beer. This is a rich, full-bodied lager is a great treat for any Oktoberfest celebration.",
+      "abv": "5.2",
+      "ibu": "23",
+      "availableId": 7,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/CWCLzS/upload_5nzurx-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/CWCLzS/upload_5nzurx-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/CWCLzS/upload_5nzurx-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/CWCLzS/upload_5nzurx-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/CWCLzS/upload_5nzurx-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/CWCLzS/upload_5nzurx-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.058",
+      "createDate": "2014-09-16 15:35:42",
+      "updateDate": "2015-12-17 18:07:12",
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "VgtYxl",
+      "name": "Oktoberfest Märzen",
+      "nameDisplay": "Oktoberfest Märzen",
+      "description": "Oktoberfest Märzen – Characterized by a medium body, a malty flavor and a clean dry finish, this is our version of the traditional Oktoberfest beer originating in 16th century Bavaria. 23 IBU’s and 5% ABV",
+      "abv": "5",
+      "ibu": "23",
+      "glasswareId": 3,
+      "srmId": 25,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/VgtYxl/upload_Z9i9O3-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/VgtYxl/upload_Z9i9O3-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/VgtYxl/upload_Z9i9O3-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/VgtYxl/upload_Z9i9O3-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/VgtYxl/upload_Z9i9O3-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/VgtYxl/upload_Z9i9O3-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "German food",
+      "servingTemperature": "very_cold",
+      "servingTemperatureDisplay": "Very Cold - (0-4C/32-39F)",
+      "createDate": "2014-09-10 22:13:28",
+      "updateDate": "2015-12-17 17:52:27",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 25,
+        "name": "25",
+        "hex": "7B1A00"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "YUVOGh",
+      "name": "Oktoberfest Marzen Lager",
+      "nameDisplay": "Oktoberfest Marzen Lager",
+      "description": "German malts and hops along with a long lagering give this beer impeccable drinkability. The superb malt flavor is balanced by just a hint of hop bitterness. PROST!",
+      "abv": "5.4",
+      "ibu": "26",
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YUVOGh/upload_qeIh37-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YUVOGh/upload_qeIh37-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YUVOGh/upload_qeIh37-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YUVOGh/upload_qeIh37-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YUVOGh/upload_qeIh37-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YUVOGh/upload_qeIh37-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.059",
+      "createDate": "2017-09-15 13:26:34",
+      "updateDate": "2018-09-22 11:45:11",
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "Xr0G6p",
+      "name": "Oktoberfest Weizen",
+      "nameDisplay": "Oktoberfest Weizen",
+      "description": "Sight: Opaque honey body with millions of tiny carbonation bubbles resting at the bottom of the glass. Frothy white head with huge cavernous bubbles.\r\n\r\nSmell: There are heavy lemon and copper aromas in here. Once these subside, it smells like generic bready malts.\r\n\r\nFlavor: It’s surprisingly sweet and tastes like pancakes. There is also a prevalent alcohol note, which is rather inappropriate as its ABV is not actually that high.\r\n\r\nFeel: Medium body with a prickly carbonation.\r\n\r\nConcluding Remark:  Overall, Erdinger’s Oktoberfest is pretty lackluster. While not unpleasant, it’s nothing to celebrate while wearing a dirndl. I should mention, though, that Erdinger’s fest beer is actually a Hefeweizen, not a Märzen. I have found that some breweries stick an Oktoberfest-themed label on their flagship products in order to spruce them up for the holiday season. In Erdinger’s case, the brewery added a little flair to their Weissbier, and from the taste of it, added a small dose of Munich malts. It has a little more flavor and color than the Weiss. However, don’t make the mistake I did and purchase this thinking you were going to further your understanding of Oktoberfestbiers.",
+      "abv": "5.7",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Xr0G6p/upload_KO8PXZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Xr0G6p/upload_KO8PXZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Xr0G6p/upload_KO8PXZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Xr0G6p/upload_KO8PXZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Xr0G6p/upload_KO8PXZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Xr0G6p/upload_KO8PXZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-15 20:42:06",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "OYrNWG",
+      "name": "Oktoberfest: Gemutlichkeit",
+      "nameDisplay": "Oktoberfest: Gemutlichkeit",
+      "description": "A big malt bomb.  Munich and Vienna malts dominate this luscious beverage.  Frothy, amber, and glowing with rich body, this Marzen will transport you to a sunny beer garden!  Ein Prosit!",
+      "abv": "6",
+      "ibu": "22",
+      "availableId": 7,
+      "styleId": 102,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/OYrNWG/upload_qGetOR-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/OYrNWG/upload_qGetOR-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/OYrNWG/upload_qGetOR-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/OYrNWG/upload_qGetOR-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/OYrNWG/upload_qGetOR-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/OYrNWG/upload_qGetOR-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Wurst, Bretzen, and Saurkraut",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2014-09-26 20:17:48",
+      "updateDate": "2015-12-17 17:35:48",
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 102,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Märzen / Oktoberfest",
+        "shortName": "American Oktoberfest",
+        "description": "The American style of these classic German beers is distinguished by a comparatively greater degree of hop character. In general the style is characterized by a medium body and broad range of color from golden to reddish brown. Sweet maltiness should dominate over clean hop bitterness. The bitterness should not be aggressive or harsh. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be notable but at low to medium levels. Fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:38"
+      }
+    },
+    {
+      "id": "aY9tm6",
+      "name": "Oktoberfest: Wet Sunbeam Hops",
+      "nameDisplay": "Oktoberfest: Wet Sunbeam Hops",
+      "description": "Vienna Style Lager wet hopped with locally grown Sunbeam hops.  This is a refreshing yet malt-forward beer that was finished in the cask with an earthy, herbacious hop. It was hand-crafted to be easy on the palate and goes down extremely smooth.",
+      "abv": "6.5",
+      "ibu": "23",
+      "glasswareId": 3,
+      "srmId": 15,
+      "availableId": 7,
+      "styleId": 80,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/aY9tm6/upload_bz1SkU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/aY9tm6/upload_bz1SkU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/aY9tm6/upload_bz1SkU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/aY9tm6/upload_bz1SkU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/aY9tm6/upload_bz1SkU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/aY9tm6/upload_bz1SkU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "originalGravity": "1.059",
+      "createDate": "2015-08-27 20:38:05",
+      "updateDate": "2015-12-18 05:40:37",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 15,
+        "name": "15",
+        "hex": "BB5100"
+      },
+      "available": {
+        "id": 7,
+        "name": "Fall",
+        "description": "Available during the fall months."
+      },
+      "style": {
+        "id": 80,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Vienna-Style Lager",
+        "shortName": "Vienna Lager",
+        "description": "Beers in this category are reddish brown or copper colored. They are medium in body. The beer is characterized by malty aroma and slight malt sweetness. The malt aroma and flavor should have a notable degree of toasted and/or slightly roasted malt character. Hop bitterness is clean and crisp. Noble-type hop aromas and flavors should be low or mild. Diacetyl, chill haze and ale-like fruity esters should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "28",
+        "abvMin": "4.8",
+        "abvMax": "5.4",
+        "srmMin": "12",
+        "srmMax": "16",
+        "ogMin": "1.046",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:42"
+      }
+    },
+    {
+      "id": "9BPs2d",
+      "name": "Oktoberfestbier",
+      "nameDisplay": "Oktoberfestbier",
+      "description": "Bavarian barley slow roasted, caramelized to a rich, red amber color combined with the purest spring waters from the Alps, exclusive yeast and the finest Hallertau hops.",
+      "abv": "6",
+      "ibu": "28",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/9BPs2d/upload_Qwt3s4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/9BPs2d/upload_Qwt3s4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/9BPs2d/upload_Qwt3s4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/9BPs2d/upload_Qwt3s4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/9BPs2d/upload_Qwt3s4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/9BPs2d/upload_Qwt3s4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2012-01-03 02:43:19",
+      "updateDate": "2016-08-16 19:59:17",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "HnDaIb",
+      "name": "Oktoberfestbier",
+      "nameDisplay": "Oktoberfestbier",
+      "description": "This singular speciality of the Augustiner brewery is dispensed exclusively at Munich's Oktoberfest.",
+      "abv": "6",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 82,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HnDaIb/upload_n98Ez8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HnDaIb/upload_n98Ez8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HnDaIb/upload_n98Ez8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HnDaIb/upload_n98Ez8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HnDaIb/upload_n98Ez8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HnDaIb/upload_n98Ez8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2016-04-21 18:35:06",
+      "updateDate": "2016-04-21 20:41:51",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 82,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Oktoberfest / Wiesen (Meadow)",
+        "shortName": "Oktoberfest",
+        "description": "Today's Oktoberfest beers are characterized by a medium body and light, golden color. Sweet maltiness is mild with an equalizing balance of clean, hop bitterness. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived. Similar or equal to Dortmunder/European-Style Export",
+        "ibuMin": "23",
+        "ibuMax": "29",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "5",
+        "ogMin": "1.048",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:59"
+      }
+    },
+    {
+      "id": "zOXpwx",
+      "name": "Oktoberfestbier",
+      "nameDisplay": "Oktoberfestbier",
+      "description": "A full rich bodied, hoppy, seasonal lager. Especially brewed for the Festbier season. This beer truly represents the Bavarian way of celebrating. Deep gold color, great mouthfeel and lots of flavor. Prost!",
+      "abv": "5.8",
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zOXpwx/upload_wUUIx8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zOXpwx/upload_wUUIx8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zOXpwx/upload_wUUIx8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/zOXpwx/upload_wUUIx8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/zOXpwx/upload_wUUIx8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/zOXpwx/upload_wUUIx8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:12",
+      "updateDate": "2015-12-15 22:14:45",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "PhzGeW",
+      "name": "OktoberFish",
+      "nameDisplay": "OktoberFish",
+      "description": "First released in 2002, and sold out in two weeks. A tribute to the classic Fest styles of Germany the O'Fish uses European malts hops and yeast. A beautiful reddish color, a savory malt profile and nice hop flavor, make this Fest beer quite drinkable. OktoberFish is great with food and especially great with Lederhosen.",
+      "abv": "5.5",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/PhzGeW/upload_tM6X7I-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/PhzGeW/upload_tM6X7I-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/PhzGeW/upload_tM6X7I-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/PhzGeW/upload_tM6X7I-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/PhzGeW/upload_tM6X7I-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/PhzGeW/upload_tM6X7I-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 03:15:22",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "iieorl",
+      "name": "OktoBrau",
+      "nameDisplay": "OktoBrau",
+      "abv": "5.8",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/iieorl/upload_di574Q-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/iieorl/upload_di574Q-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/iieorl/upload_di574Q-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/iieorl/upload_di574Q-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/iieorl/upload_di574Q-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/iieorl/upload_di574Q-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 12:15:40",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "IN3zcJ",
+      "name": "Oktofest",
+      "nameDisplay": "Oktofest",
+      "description": "Amber hued with a rich malty character from a blend of German malts with just a touch of German Tettnang hops for added complexity.",
+      "abv": "6",
+      "ibu": "23",
+      "glasswareId": 3,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/IN3zcJ/upload_TRmnWC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/IN3zcJ/upload_TRmnWC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/IN3zcJ/upload_TRmnWC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/IN3zcJ/upload_TRmnWC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/IN3zcJ/upload_TRmnWC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/IN3zcJ/upload_TRmnWC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:50",
+      "updateDate": "2015-12-16 13:54:06",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    }
+  ],
+  "status": "success"
+}

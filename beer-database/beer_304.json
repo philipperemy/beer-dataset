@@ -1,0 +1,2552 @@
+{
+  "currentPage": 304,
+  "numberOfPages": 603,
+  "totalResults": 30121,
+  "data": [
+    {
+      "id": "sy7tbH",
+      "name": "La Cerveza",
+      "nameDisplay": "La Cerveza",
+      "description": "A Mexican-Bohemian style ale brewed with malted barley and flaked maize. Its crisp, dry character is complemented by its light body and noble hop aroma.",
+      "abv": "4",
+      "ibu": "14",
+      "srmId": 3,
+      "styleId": 36,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/sy7tbH/upload_ENHd2n-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/sy7tbH/upload_ENHd2n-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/sy7tbH/upload_ENHd2n-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/sy7tbH/upload_ENHd2n-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/sy7tbH/upload_ENHd2n-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/sy7tbH/upload_ENHd2n-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-09-03 19:38:51",
+      "updateDate": "2019-05-22 18:50:53",
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "style": {
+        "id": 36,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Golden or Blonde Ale",
+        "shortName": "Blonde",
+        "description": "Golden or Blonde ales are straw to golden blonde in color. They have a crisp, dry palate, light to medium body, and light malt sweetness. Low to medium hop aroma may be present but does not dominate. Bitterness is low to medium. Fruity esters may be perceived but do not predominate. Diacetyl should not be perceived. Chill haze should be absent.",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4",
+        "abvMax": "5",
+        "srmMin": "3",
+        "srmMax": "7",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:26"
+      }
+    },
+    {
+      "id": "WiknjX",
+      "name": "La Chancla Mexican Amber Lager",
+      "nameDisplay": "La Chancla Mexican Amber Lager",
+      "description": "Cerveza brillante con un tono rojo y sabor de malta.  This brilliant lager has a red hue and a malty flavor.  It starts with a semi-sweet caramel flavor and finishes crisp like a cracker.  The name comes from a traditional technique for raising well behaved children.",
+      "abv": "5.9",
+      "ibu": "25",
+      "srmId": 15,
+      "availableId": 2,
+      "styleId": 80,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/WiknjX/upload_HzI1lk-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/WiknjX/upload_HzI1lk-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/WiknjX/upload_HzI1lk-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Steak, Fish Tacos, Ceviche",
+      "originalGravity": "1.057",
+      "createDate": "2018-07-25 22:04:25",
+      "updateDate": "2018-07-27 19:34:20",
+      "srm": {
+        "id": 15,
+        "name": "15",
+        "hex": "BB5100"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 80,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Vienna-Style Lager",
+        "shortName": "Vienna Lager",
+        "description": "Beers in this category are reddish brown or copper colored. They are medium in body. The beer is characterized by malty aroma and slight malt sweetness. The malt aroma and flavor should have a notable degree of toasted and/or slightly roasted malt character. Hop bitterness is clean and crisp. Noble-type hop aromas and flavors should be low or mild. Diacetyl, chill haze and ale-like fruity esters should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "28",
+        "abvMin": "4.8",
+        "abvMax": "5.4",
+        "srmMin": "12",
+        "srmMax": "16",
+        "ogMin": "1.046",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:42"
+      }
+    },
+    {
+      "id": "xmjlQP",
+      "name": "La Chinette",
+      "nameDisplay": "La Chinette",
+      "abv": "6",
+      "availableId": 1,
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/xmjlQP/upload_yyW10x-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/xmjlQP/upload_yyW10x-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/xmjlQP/upload_yyW10x-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/xmjlQP/upload_yyW10x-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/xmjlQP/upload_yyW10x-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/xmjlQP/upload_yyW10x-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2017-08-18 13:43:52",
+      "updateDate": "2017-08-30 19:50:10",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "LTLdF5",
+      "name": "La Chouffe",
+      "nameDisplay": "La Chouffe",
+      "description": "La Chouffe is an unfiltered blonde beer, which is re-fermented in the bottle as well as in the keg.  It is pleasantly fruity, spiced with coriander, and with a light hop taste.",
+      "abv": "8",
+      "glasswareId": 5,
+      "srmId": 9,
+      "availableId": 1,
+      "styleId": 63,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/LTLdF5/upload_kreIEw-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/LTLdF5/upload_kreIEw-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/LTLdF5/upload_kreIEw-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/LTLdF5/upload_kreIEw-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/LTLdF5/upload_kreIEw-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/LTLdF5/upload_kreIEw-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "originalGravity": "1.065",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2016-05-31 18:35:54",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 9,
+        "name": "9",
+        "hex": "E58500"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 63,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Strong Ale",
+        "shortName": "Belgian Pale Strong",
+        "description": "Belgian pale strong ales are pale to golden in color with relatively light body for a beer of its alcoholic strength. Often brewed with light colored Belgian \"candy\" sugar, these beers are well attenuated. The perception of hop bitterness is medium-low to medium -high, with hop flavor and aroma also in this range. These beers are highly attenuated and have a perceptively deceiving high alcoholic character-being light to medium bodied rather than full bodied. The intensity of malt character should be low to medium, often surviving along with a complex fruitiness. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "50",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.064",
+        "fgMin": "1.012",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:16"
+      }
+    },
+    {
+      "id": "SyDQHu",
+      "name": "La Colada Coffee Porter",
+      "nameDisplay": "La Colada Coffee Porter",
+      "description": "PORTER, DRINK OF THE 1700S PROLETARIAT, WAS ARGUABLY THE SOCIAL LUBRICANT THAT FORTIFIED THE UK’S INDUSTRIAL REVOLUTION. AFTER MAKING THEIR MARK ON LONDON’S WORKING CLASS, THESE BREWS KNOWN FOR KEEPING SPIRITS HIGH, WERE EXPORTED TO THE AMERICAN COLONIES. THE PORTER STYLE DOMINATED BREWING FOR OVER A CENTURY, BUT AS TECHNOLOGY ADVANCED AND CONSUMERS WANTED CLEARER BEER, THESE DARKER AND HEAVIER-BODIED BREW’S HOLD DIMINISHED AS THE POPULARITY OF PALE ALES AND LAGERS IN THE 1800S AND 1900S ROSE. PORTERS ARE ALSO THE ANCESTORS OF STOUTS AND BEFORE THE BIRTH OF THE WORLD FAMOUS GUINNESS STOUT, SIR ARTHUR GUINNESS’ BUSINESS MODEL WAS MASS-PRODUCTION OF PORTER. IT’S A CLASSIC TO US AND WE HOMAGE ITS ONE-TIME LOFTY PLACE AND CONSIDERABLE BLIP IN BREWING HISTORY BY BRINGING YOU OUR LA COLADA PORTER. IT’S BREWED IN A HOP-FORWARD STYLE FEATURING CUBAN COFFEE, A DEPTH OF TRADITIONAL MALT COMPLEXITY AND ROASTED NOTES THAT’S MUCH MORE THAN JUST NOSTALGIA.",
+      "abv": "6",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 19,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/SyDQHu/upload_oE7dM4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/SyDQHu/upload_oE7dM4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/SyDQHu/upload_oE7dM4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/SyDQHu/upload_oE7dM4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/SyDQHu/upload_oE7dM4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/SyDQHu/upload_oE7dM4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2015-08-14 16:32:38",
+      "updateDate": "2015-12-18 02:49:20",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 19,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Robust Porter",
+        "shortName": "Robust Porter",
+        "description": "Robust porters are black in color and have a roast malt flavor, often reminiscent of cocoa, but no roast barley flavor. These porters have a sharp bitterness of black malt without a highly burnt/charcoal flavor. Caramel and other malt sweetness should be present and in harmony with other distinguishing porter characters. Robust porters range from medium to full in body and have a malty sweetness. Hop bitterness is medium to high, with hop aroma and flavor ranging from negligible to medium. Diacetyl is acceptable at very low levels. Fruity esters should be evident, balanced with roast malt and hop bitterness.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "6.5",
+        "srmMin": "30",
+        "srmMax": "30",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:45"
+      }
+    },
+    {
+      "id": "2TzjAI",
+      "name": "La Corne du Bois des Pendus",
+      "nameDisplay": "La Corne du Bois des Pendus",
+      "abv": "5.9",
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2TzjAI/upload_P10p4Z-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2TzjAI/upload_P10p4Z-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2TzjAI/upload_P10p4Z-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2TzjAI/upload_P10p4Z-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2TzjAI/upload_P10p4Z-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2TzjAI/upload_P10p4Z-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-05-02 19:14:04",
+      "updateDate": "2018-05-02 19:15:05",
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "XhLxfP",
+      "name": "La Corne du Bois des Pendus Black",
+      "nameDisplay": "La Corne du Bois des Pendus Black",
+      "description": "The third Corne du Bois des Pendus can be called \"Wonderful Horn\". Adorned with an ultra powerful black dress and a fleeting beige foam, creamy and warm, the Black Horn is an easy beer to savor. The nose and mouth reveal soft aromas of remarkable intensity. The flavor is sweet in the first place prior to ramp up on chocolate notes, cafes \"old\" and butterscotch. Notes of plum, blackberry and dried red fruits appear slowly and sublime tasting. The bitterness is low to discover all the fruity aromas and individuals that can give special malts. A Black Horn attractive, rich, fine and elegant. A Great Belgian beer, a Big Horn!",
+      "abv": "8",
+      "styleId": 64,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/XhLxfP/upload_lH8Vhn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/XhLxfP/upload_lH8Vhn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/XhLxfP/upload_lH8Vhn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/XhLxfP/upload_lH8Vhn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/XhLxfP/upload_lH8Vhn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/XhLxfP/upload_lH8Vhn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-05-08 18:26:40",
+      "updateDate": "2018-05-08 18:27:04",
+      "style": {
+        "id": 64,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Dark Strong Ale",
+        "shortName": "Belgian Dark Strong",
+        "description": "Belgian dark strong ales are amber to dark brown in color. Often, though not always, brewed with dark Belgian \"candy\" sugar, these beers can be well attenuated, ranging from medium to full-bodied. The perception of hop bitterness is low to medium, with hop flavor and aroma also in this range. Fruity complexity along with the soft flavors of roasted malts add distinct character. The alcohol strength of these beers can often be deceiving to the senses. The intensity of malt character can be rich, creamy, and sweet with intensities ranging from medium to high. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "50",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "9",
+        "srmMax": "35",
+        "ogMin": "1.064",
+        "fgMin": "1.012",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:23"
+      }
+    },
+    {
+      "id": "K7I58t",
+      "name": "La Corne du Bois des Pendus La Triple 10º",
+      "nameDisplay": "La Corne du Bois des Pendus La Triple 10º",
+      "abv": "10",
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/K7I58t/upload_raiSC0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/K7I58t/upload_raiSC0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/K7I58t/upload_raiSC0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/K7I58t/upload_raiSC0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/K7I58t/upload_raiSC0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/K7I58t/upload_raiSC0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-03-09 21:28:09",
+      "updateDate": "2017-08-30 20:07:11",
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "oWrzVP",
+      "name": "La Cruda",
+      "nameDisplay": "La Cruda",
+      "abv": "6.7",
+      "glasswareId": 5,
+      "styleId": 19,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/oWrzVP/upload_jIBAGm-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/oWrzVP/upload_jIBAGm-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/oWrzVP/upload_jIBAGm-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/oWrzVP/upload_jIBAGm-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/oWrzVP/upload_jIBAGm-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/oWrzVP/upload_jIBAGm-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-16 10:01:24",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 19,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Robust Porter",
+        "shortName": "Robust Porter",
+        "description": "Robust porters are black in color and have a roast malt flavor, often reminiscent of cocoa, but no roast barley flavor. These porters have a sharp bitterness of black malt without a highly burnt/charcoal flavor. Caramel and other malt sweetness should be present and in harmony with other distinguishing porter characters. Robust porters range from medium to full in body and have a malty sweetness. Hop bitterness is medium to high, with hop aroma and flavor ranging from negligible to medium. Diacetyl is acceptable at very low levels. Fruity esters should be evident, balanced with roast malt and hop bitterness.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "6.5",
+        "srmMin": "30",
+        "srmMax": "30",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:45"
+      }
+    },
+    {
+      "id": "UDwbqQ",
+      "name": "La Cura",
+      "nameDisplay": "La Cura",
+      "description": "La Cura (the cure), our March 2018 release, is a sour beer based on the old Aztec drink referred to as pulque. Pulque was created in Central Mexico and relied on the fermented sap of the maguey plant to create a tart, viscous, alcoholic beverage. Our interpretation contains agave nectar, with the addition of guava puree, which makes for a slightly sweet sour beer that is both flavorful and ultimately refreshing.",
+      "abv": "6.7",
+      "styleId": 40,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/UDwbqQ/upload_ZqXx4G-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/UDwbqQ/upload_ZqXx4G-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/UDwbqQ/upload_ZqXx4G-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/UDwbqQ/upload_ZqXx4G-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/UDwbqQ/upload_ZqXx4G-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/UDwbqQ/upload_ZqXx4G-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-04-27 18:40:22",
+      "updateDate": "2018-04-27 18:41:04",
+      "style": {
+        "id": 40,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Sour Ale",
+        "shortName": "Sour",
+        "description": "American sour ales can be very light to black or take on the color of added fruits or other ingredients. There is no Brettanomyces character in this style of beer. Wood- and barrel-aged sour ales are classified elsewhere. If acidity is present it is usually in the form of lactic, acetic and other organic acids naturally developed with acidified malt in the mash or in fermentation by the use of various microorganisms including certain bacteria and yeasts. Acidic character can be a complex balance of several types of acid and characteristics of age. The evolution of natural acidity develops balanced complexity. Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American sour may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Sour Ales will exhibit fruit flavors in harmonious balance with other characters.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:32"
+      }
+    },
+    {
+      "id": "Jg9gRn",
+      "name": "La Dame Du Lac",
+      "nameDisplay": "La Dame Du Lac",
+      "description": "The second release in our Legendary Series, La Dame du Lac is our interpretation of a traditional biere de garde, or \"kept beer.\" Malty sweetness, rustic farmhouse notes and a dry finish make this a fitting beer to enjoy now, or let age for further complexity. Commonly seen throughout northern France were the ghostly \"dame blanche,\" or \"white ladies,\" roaming the country side. This beer is a tribute to our very own \"dame blanche,\" and one of the most well-known spooky urban legends around east Dallas – the \"Lady of White Rock Lake.\"\r\n\r\nIn her honor we toast this ghost, and hope she one day finds her way back home. But hurry, because like her many sightings, this beer is also known to suddenly disappear.",
+      "abv": "7.5",
+      "ibu": "24",
+      "glasswareId": 8,
+      "srmId": 8,
+      "availableId": 3,
+      "styleId": 71,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Jg9gRn/upload_2ZhCkp-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Jg9gRn/upload_2ZhCkp-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Jg9gRn/upload_2ZhCkp-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Jg9gRn/upload_2ZhCkp-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Jg9gRn/upload_2ZhCkp-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Jg9gRn/upload_2ZhCkp-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Soft, pungent cheese, herb-roasted Cornish game hen, mushroom quiche, cold-smoked salmon, strawberry gelée",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "originalGravity": "1.074",
+      "createDate": "2013-04-19 09:40:42",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 8,
+        "name": "8",
+        "hex": "EA8F00"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 71,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French-Style Bière de Garde",
+        "shortName": "Bière de Garde",
+        "description": "Beers in this category are golden to deep copper or light brown in color. They are light to medium in body. This style of beer is characterized by a toasted malt aroma, slight malt sweetness in flavor, and low to medium hop bitterness. Noble-type hop aromas and flavors should be low to medium. Fruity esters can be light to medium in intensity. Flavor of alcohol is evident. Earthy, cellarlike, musty aromas are okay. Diacetyl should not be perceived but chill haze is okay. Often bottle conditioned with some yeast character. French-Style Biére de Garde may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "8",
+        "srmMin": "8",
+        "srmMax": "16",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:08"
+      }
+    },
+    {
+      "id": "hwRg5H",
+      "name": "La Divine",
+      "nameDisplay": "La Divine",
+      "description": "La Divine de St Landelin is a high density top fermentation beer with specially selected yeasts. After a prolonged storage period the beer is packaged in a traditional swing-top cap. It has fruity, woody and caramel aromas as well as a certain bitterness persistent upon the palate.\r\nSoft and generous, La Divine is a “grand cru” of St Landelin and has an abv of 8.5%. \r\nIngredients: Malt, wheat, rice, hops, spices. \r\nNote: Labelled as 8% abv in the USA.\r\n\r\nBronze Medal at Concours Général Agricole 2008",
+      "abv": "8.5",
+      "glasswareId": 2,
+      "availableId": 1,
+      "styleId": 71,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/hwRg5H/upload_A1pPyS-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/hwRg5H/upload_A1pPyS-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/hwRg5H/upload_A1pPyS-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/hwRg5H/upload_A1pPyS-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/hwRg5H/upload_A1pPyS-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/hwRg5H/upload_A1pPyS-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2014-04-23 17:55:13",
+      "updateDate": "2015-12-17 13:33:42",
+      "glass": {
+        "id": 2,
+        "name": "Goblet",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 71,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French-Style Bière de Garde",
+        "shortName": "Bière de Garde",
+        "description": "Beers in this category are golden to deep copper or light brown in color. They are light to medium in body. This style of beer is characterized by a toasted malt aroma, slight malt sweetness in flavor, and low to medium hop bitterness. Noble-type hop aromas and flavors should be low to medium. Fruity esters can be light to medium in intensity. Flavor of alcohol is evident. Earthy, cellarlike, musty aromas are okay. Diacetyl should not be perceived but chill haze is okay. Often bottle conditioned with some yeast character. French-Style Biére de Garde may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "8",
+        "srmMin": "8",
+        "srmMax": "16",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:08"
+      }
+    },
+    {
+      "id": "a3gHUe",
+      "name": "La Divine Blond Ale",
+      "nameDisplay": "La Divine Blond Ale",
+      "abv": "7.5",
+      "glasswareId": 5,
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/a3gHUe/upload_z81jJP-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/a3gHUe/upload_z81jJP-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/a3gHUe/upload_z81jJP-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/a3gHUe/upload_z81jJP-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/a3gHUe/upload_z81jJP-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/a3gHUe/upload_z81jJP-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-16 12:34:21",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "gtppeW",
+      "name": "La Divine Tripel Ale",
+      "nameDisplay": "La Divine Tripel Ale",
+      "abv": "9",
+      "glasswareId": 8,
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gtppeW/upload_HINokG-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gtppeW/upload_HINokG-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gtppeW/upload_HINokG-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gtppeW/upload_HINokG-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gtppeW/upload_HINokG-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gtppeW/upload_HINokG-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-15 20:39:15",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "gEXNZn",
+      "name": "La Femme Urbaine",
+      "nameDisplay": "La Femme Urbaine",
+      "abv": "7.8",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gEXNZn/upload_G15yms-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gEXNZn/upload_G15yms-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gEXNZn/upload_G15yms-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gEXNZn/upload_G15yms-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gEXNZn/upload_G15yms-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gEXNZn/upload_G15yms-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-04-15 01:02:07",
+      "updateDate": "2015-12-17 03:27:45",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "i7gRZQ",
+      "name": "La Ferme' de Demons",
+      "nameDisplay": "La Ferme' de Demons",
+      "abv": "6.9",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/i7gRZQ/upload_C3zTBI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/i7gRZQ/upload_C3zTBI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/i7gRZQ/upload_C3zTBI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/i7gRZQ/upload_C3zTBI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/i7gRZQ/upload_C3zTBI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/i7gRZQ/upload_C3zTBI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:12",
+      "updateDate": "2015-12-16 09:59:30",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "FGndg9",
+      "name": "La Fin Du Monde",
+      "nameDisplay": "La Fin Du Monde",
+      "description": "La Fin du Monde has a brilliant golden color with vigorously effervescent foam. It is midly yeasty with a complex palate of malt, fruit and spice notes followed by a smooth, dry finish.\r\n\r\nLa Fin du Monde was developed through 18 months of research on a unique strain of yeast originating from Europe. It is brewed in honor of the intrepid European explorers who believed they had reached the “end of the world” when they discovered North America ‘the new world’. This triple-style golden ale recreates the style of beer originally developed in the Middle Ages by trappist monks for special occasions and as such it was the first of its kind to be brewed in North America.",
+      "abv": "9",
+      "ibu": "19",
+      "glasswareId": 8,
+      "srmId": 6,
+      "availableId": 1,
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/FGndg9/upload_FdUSVL-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/FGndg9/upload_FdUSVL-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/FGndg9/upload_FdUSVL-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/FGndg9/upload_FdUSVL-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/FGndg9/upload_FdUSVL-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/FGndg9/upload_FdUSVL-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2018-09-04 15:23:13",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 6,
+        "name": "6",
+        "hex": "F8A600"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "qhKlHV",
+      "name": "La Folie",
+      "nameDisplay": "La Folie",
+      "description": "La Folie, French for \"the folly,\" is a beer steeped in New Belgium brewing tradition. This wood-aged, sour brown spends one to three years in big oak barrels known as foeders. And when the beer finally hits the glass, La Folie is sharp and sour, full of green apple, cherry, and plum-skin notes. Pouring a deep mahogany, the mouthfeel will get you puckering while the smooth finish will get you smiling. Not a beer for the timid, La Folie is a sour delight that will turn your tongue on its head.",
+      "abv": "7",
+      "ibu": "18",
+      "glasswareId": 6,
+      "availableId": 2,
+      "styleId": 136,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qhKlHV/upload_sOu5Wz-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qhKlHV/upload_sOu5Wz-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qhKlHV/upload_sOu5Wz-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qhKlHV/upload_sOu5Wz-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qhKlHV/upload_sOu5Wz-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qhKlHV/upload_sOu5Wz-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2017-04-04 14:18:04",
+      "updateDate": "2019-08-19 13:05:50",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 136,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wood- and Barrel-Aged Sour Beer",
+        "shortName": "BBL Aged Sour",
+        "description": "A wood- or barrel-aged sour beer is any lager, ale or hybrid beer, either a traditional style or a unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood and has developed a bacterial induced natural acidity. This beer is aged in wood with the intention of introducing the micro flora present in the wood. Sometimes wood aging is intended to impart the particularly unique character of the wood, but wood-aged is not necessarily synonymous with imparting wood-flavors. Wood character can be characterized as a complex blend of vanillin and unique wood character. Wood-derived character can also be characterized by flavors of the product that was in the barrel during prior use. These wood-derived flavors, if present in this style, can be very low in character and barely perceived or evident or assertive as wood-derived flavors. Any degree of woodderived flavors should be in balance with other beer character. Fruit and herb/spiced versions may take on the hue, flavors and aromas of added ingredients.  Usually bacteria and \"wild\" yeasts fermentation contributes complex esters and results in a dry to very dry beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of acidity, complex esters, and new beer with wood and/or barrel flavors. Beers in this style may or may not have Brettanomyces character.  Brewers when entering this category should specify type of barrel used and any other special treatment or ingredients used. Competition managers may create style subcategories to differentiate between high alcohol and low alcohol beers and very dark and lighter colored beer as well as for fruit beers and non-fruit beers. Competitions may develop guidelines requesting brewers to specify what kind of wood (new or used oak, other wood varieties). The brewer may be asked to explain the special nature (wood used, base beer style(s) and achieved character) of the beer.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:46:56"
+      }
+    },
+    {
+      "id": "JeH6oB",
+      "name": "La Folie - Lips of Faith",
+      "nameDisplay": "La Folie - Lips of Faith",
+      "description": "La Folie Wood-Aged Biere, is our original wood-conditioned beer, resting in French Oak barrels between one and three years before being bottled. Peter Bouckaert, came to us from Rodenbach home of the fabled sour red. Our La Folie emulates the spontaneous fermentation beers of Peter's beloved Flanders with sour apple notes, a dry effervescence, and earthy undertones.",
+      "abv": "6",
+      "ibu": "18",
+      "srmId": 25,
+      "availableId": 2,
+      "styleId": 57,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JeH6oB/upload_0XmUU4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JeH6oB/upload_0XmUU4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JeH6oB/upload_0XmUU4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JeH6oB/upload_0XmUU4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JeH6oB/upload_0XmUU4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JeH6oB/upload_0XmUU4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2019-08-04 13:11:11",
+      "srm": {
+        "id": 25,
+        "name": "25",
+        "hex": "7B1A00"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 57,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+        "shortName": "Flanders Red",
+        "description": "This light- to medium-bodied deep copper to brown ale is characterized by a slight to strong lactic sourness, and with \"Reds\" sometimes a balanced degree of acetic acid. Brettanomyces produced flavors and aromas are not part of character. A fruity-estery character which is often cherry-like is apparent with no hop flavor or aroma. Flanders brown ales have low to medium bitterness and a cocoa-like character from roast malt. Roasted malt character in aroma and flavor is acceptable at low levels. A very low degree of malt sweetness may be present and in balance with the acidity produced by Lactobacillus activity. Oak-like or woody characters may be pleasantly integrated into overall palate. Chill haze is acceptable at low serving temperatures. Some versions may be more highly carbonated and, when bottle conditioned, may appear cloudy (yeast) when served. These final beers are often blended old with new before packaging in order to create the brewer's intended balance of characters.",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4.8",
+        "abvMax": "6.5",
+        "srmMin": "12",
+        "srmMax": "20",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:39"
+      }
+    },
+    {
+      "id": "NyXBRq",
+      "name": "La Fosse",
+      "nameDisplay": "La Fosse",
+      "description": "La Fosse is our Missouri Wild Ale that was fermented and aged in Missouri Oak Chardonnay barrels for 18 months before being racked on to Oregon Apricots and being aged an additional 6 months before being naturally conditioned in the bottle for several months.",
+      "abv": "7",
+      "styleId": 170,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NyXBRq/upload_Fm9pUi-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NyXBRq/upload_Fm9pUi-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NyXBRq/upload_Fm9pUi-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-05-10 21:36:45",
+      "updateDate": "2018-06-21 19:22:08",
+      "style": {
+        "id": 170,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wild Beer",
+        "shortName": "Wild Beer",
+        "description": "Wild Beers are any range of color. These beers may be clear or hazy due to yeast, chill haze or hop haze. Aromas may vary tremendously due to fermentation characters contributed by various known and unknown microorganisms. The overall balance should be complex and balanced. Hop aroma very low to high. Usually because of a high degree of attenuation in these beers, malt character is very low to low. If there are exceptions that are malty, the overall balance of complexity of other characters should be in harmony. Hop flavor very low to high. Hop bitterness is perceived at varying levels depending on the overall balance, but usually perceived as very low to low. Wild beers are \"spontaneously\" fermented with microorganisms that the brewer has introduced from the ambient air/environment in the vicinity of the brewery in which the beer is brewed. Wild beers may not be fermented with any cultured strains of yeast or bacteria. Wild beer may or may not be perceived as acidic. It may include a wildly variable spectrum of flavors and aromas derived from the wild microorganisms with which it was fermented. The overall balance of flavors, aromas, appearance and body is an important factor in assessing these beers. Body is very low to medium. Spontaneously fermented beers with fruit, spice or other ingredients would be appropriately entered as Wild Beer. For purposes of competition, entries which could be appropriately entered in an existing classic or traditional category such as Belgian-Style Lambic, Gueuze, Fruit Lambic, etc. should be entered in that category and not entered as a Wild Beer.",
+        "createDate": "2015-04-07 17:21:44"
+      }
+    },
+    {
+      "id": "Afj2fe",
+      "name": "La Frontera",
+      "nameDisplay": "La Frontera",
+      "styleId": 93,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Afj2fe/upload_PiRmOn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Afj2fe/upload_PiRmOn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Afj2fe/upload_PiRmOn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Afj2fe/upload_PiRmOn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Afj2fe/upload_PiRmOn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Afj2fe/upload_PiRmOn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-16 13:02:24",
+      "style": {
+        "id": 93,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Lager",
+        "shortName": "American Lager",
+        "description": "Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.",
+        "ibuMin": "5",
+        "ibuMax": "13",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:39:26"
+      }
+    },
+    {
+      "id": "4DemDP",
+      "name": "La Frontera IPA",
+      "nameDisplay": "La Frontera IPA",
+      "description": "India Pale Ale originated in early 19th century England when India was under the control of Great Britain and colonists yearned for the beer from home. Due to the time it took to reach the shores of India, and the heat along the way, that beer often spoiled. The brewers knew that hops are a preservative against infection, as is alcohol, and by increasing the amount of both, they could make a beer that could survive the long voyage. Thus was the birth of India Pale Ales, a very hoppy and bitter ale with a higher alcohol content. The American versions of this style use American hops which impart a floral, citrusy aroma and a powerful hop bitterness. Brewed with 2-row pale ale, caramel malts and American grown hops from the Northwest.",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4DemDP/upload_veq98U-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4DemDP/upload_veq98U-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4DemDP/upload_veq98U-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4DemDP/upload_veq98U-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4DemDP/upload_veq98U-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4DemDP/upload_veq98U-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-08-14 01:00:21",
+      "updateDate": "2017-08-30 21:07:18",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "RtSBJG",
+      "name": "La Gitane",
+      "nameDisplay": "La Gitane",
+      "description": "Amber craft beer brewed with smoked malts and spices. It develops aromas with a soft peaty amplitude mouth.  Unfiltered, unpasteurized pure malt",
+      "abv": "5",
+      "availableId": 1,
+      "styleId": 57,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/RtSBJG/upload_hkWnLJ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/RtSBJG/upload_hkWnLJ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/RtSBJG/upload_hkWnLJ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/RtSBJG/upload_hkWnLJ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/RtSBJG/upload_hkWnLJ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/RtSBJG/upload_hkWnLJ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Cheese, Fromage",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "createDate": "2014-02-22 16:54:11",
+      "updateDate": "2015-12-17 09:51:32",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 57,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+        "shortName": "Flanders Red",
+        "description": "This light- to medium-bodied deep copper to brown ale is characterized by a slight to strong lactic sourness, and with \"Reds\" sometimes a balanced degree of acetic acid. Brettanomyces produced flavors and aromas are not part of character. A fruity-estery character which is often cherry-like is apparent with no hop flavor or aroma. Flanders brown ales have low to medium bitterness and a cocoa-like character from roast malt. Roasted malt character in aroma and flavor is acceptable at low levels. A very low degree of malt sweetness may be present and in balance with the acidity produced by Lactobacillus activity. Oak-like or woody characters may be pleasantly integrated into overall palate. Chill haze is acceptable at low serving temperatures. Some versions may be more highly carbonated and, when bottle conditioned, may appear cloudy (yeast) when served. These final beers are often blended old with new before packaging in order to create the brewer's intended balance of characters.",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4.8",
+        "abvMax": "6.5",
+        "srmMin": "12",
+        "srmMax": "20",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:39"
+      }
+    },
+    {
+      "id": "5cirvq",
+      "name": "La Goudale",
+      "nameDisplay": "La Goudale",
+      "description": "In the XIV century, the good beers were called Goudale, Goudalle or Good Ale. There were sold for 2 deniers a pot at a merchant called Goudalier.",
+      "abv": "7.2",
+      "glasswareId": 2,
+      "availableId": 1,
+      "styleId": 71,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/5cirvq/upload_0yJ2e8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/5cirvq/upload_0yJ2e8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/5cirvq/upload_0yJ2e8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/5cirvq/upload_0yJ2e8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/5cirvq/upload_0yJ2e8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/5cirvq/upload_0yJ2e8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2014-04-23 17:50:29",
+      "updateDate": "2017-04-24 19:32:23",
+      "glass": {
+        "id": 2,
+        "name": "Goblet",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 71,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French-Style Bière de Garde",
+        "shortName": "Bière de Garde",
+        "description": "Beers in this category are golden to deep copper or light brown in color. They are light to medium in body. This style of beer is characterized by a toasted malt aroma, slight malt sweetness in flavor, and low to medium hop bitterness. Noble-type hop aromas and flavors should be low to medium. Fruity esters can be light to medium in intensity. Flavor of alcohol is evident. Earthy, cellarlike, musty aromas are okay. Diacetyl should not be perceived but chill haze is okay. Often bottle conditioned with some yeast character. French-Style Biére de Garde may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "8",
+        "srmMin": "8",
+        "srmMax": "16",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:08"
+      }
+    },
+    {
+      "id": "67UaoB",
+      "name": "La Grand Blanche",
+      "nameDisplay": "La Grand Blanche",
+      "abv": "7.5",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/67UaoB/upload_fGqGQB-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/67UaoB/upload_fGqGQB-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/67UaoB/upload_fGqGQB-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/67UaoB/upload_fGqGQB-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/67UaoB/upload_fGqGQB-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/67UaoB/upload_fGqGQB-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-07-31 15:01:34",
+      "updateDate": "2015-12-17 15:36:38",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "VBusEz",
+      "name": "Lã Grange",
+      "nameDisplay": "Lã Grange",
+      "glasswareId": 5,
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/VBusEz/upload_wiM5IW-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/VBusEz/upload_wiM5IW-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/VBusEz/upload_wiM5IW-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/VBusEz/upload_wiM5IW-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/VBusEz/upload_wiM5IW-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/VBusEz/upload_wiM5IW-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-16 08:08:11",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "JuU8Id",
+      "name": "La Grisette",
+      "nameDisplay": "La Grisette",
+      "description": "La Grisette, meaning \"little grey\" in French, is a nearly extinct style of a Belgian farmhouse wheat ale. It is pale-coloured, low alcohol, refreshing and light, and brewed with acidulated barley that adds a crisp tartness to the finish. The term was also applied to the independent, unconventional young women who left their country lives to work in bohemian Paris at the turn of the 19th century. The word 'grisette' refers to a simple dress of gray fabric as well as the free-spirited women who wore them.",
+      "abv": "5.8",
+      "glasswareId": 8,
+      "srmId": 3,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JuU8Id/upload_X7vnk4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JuU8Id/upload_X7vnk4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JuU8Id/upload_X7vnk4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JuU8Id/upload_X7vnk4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JuU8Id/upload_X7vnk4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JuU8Id/upload_X7vnk4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2017-06-27 14:04:59",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "8rqLHD",
+      "name": "La Grognarde",
+      "nameDisplay": "La Grognarde",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "styleId": 4,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8rqLHD/upload_hUsTEP-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8rqLHD/upload_hUsTEP-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8rqLHD/upload_hUsTEP-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8rqLHD/upload_hUsTEP-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8rqLHD/upload_hUsTEP-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8rqLHD/upload_hUsTEP-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-16 13:44:11",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 4,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Special Bitter or Best Bitter",
+        "shortName": "Special Bitter",
+        "description": "Special bitter is more robust than ordinary bitter. It has medium body and medium residual malt sweetness. It is deep gold to copper colored. Hop bitterness should be medium and absent of harshness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+        "ibuMin": "28",
+        "ibuMax": "40",
+        "abvMin": "4.1",
+        "abvMax": "4.8",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.038",
+        "fgMin": "1.006",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:15"
+      }
+    },
+    {
+      "id": "5MVqRO",
+      "name": "La Guillotine",
+      "nameDisplay": "La Guillotine",
+      "description": "Golden blond, multigrain beer with a very persistent, lacing head. \r\nHas a complex smell, with a citrus aroma, followed by hop aromas such as Saaz, Brewers Gold and Amarillo.\r\nThe taste is initially rather sweet, because of the alcohol. The intense taste and roundness mask the presence of high bitterness.",
+      "abv": "8.5",
+      "availableId": 1,
+      "styleId": 63,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/5MVqRO/upload_LExxwZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/5MVqRO/upload_LExxwZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/5MVqRO/upload_LExxwZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/5MVqRO/upload_LExxwZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/5MVqRO/upload_LExxwZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/5MVqRO/upload_LExxwZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-06 12:40:14",
+      "updateDate": "2015-12-16 19:29:21",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 63,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Strong Ale",
+        "shortName": "Belgian Pale Strong",
+        "description": "Belgian pale strong ales are pale to golden in color with relatively light body for a beer of its alcoholic strength. Often brewed with light colored Belgian \"candy\" sugar, these beers are well attenuated. The perception of hop bitterness is medium-low to medium -high, with hop flavor and aroma also in this range. These beers are highly attenuated and have a perceptively deceiving high alcoholic character-being light to medium bodied rather than full bodied. The intensity of malt character should be low to medium, often surviving along with a complex fruitiness. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "50",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.064",
+        "fgMin": "1.012",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:16"
+      }
+    },
+    {
+      "id": "Nq21hM",
+      "name": "LA IPA",
+      "nameDisplay": "LA IPA",
+      "abv": "7",
+      "glasswareId": 5,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Nq21hM/upload_zKsJ2X-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Nq21hM/upload_zKsJ2X-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Nq21hM/upload_zKsJ2X-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Nq21hM/upload_zKsJ2X-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Nq21hM/upload_zKsJ2X-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Nq21hM/upload_zKsJ2X-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-01 10:47:29",
+      "updateDate": "2015-12-16 19:13:39",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "8FcHsZ",
+      "name": "La Joufflue",
+      "nameDisplay": "La Joufflue",
+      "description": "La Joufflue is a very thirst-quenching wheat beer brewed in the  Belgian tradition. Unfiltered, its haze blended with its straw  color is very inviting. The well-rounded taste of the raw grains  is balanced by its subtle bitterness. \r\nLight beer\r\nLa Joufflue is served with yeast\r\nCitrus and coriander flavors",
+      "abv": "4.2",
+      "glasswareId": 1,
+      "srmId": 5,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8FcHsZ/upload_tOyQVv-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8FcHsZ/upload_tOyQVv-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8FcHsZ/upload_tOyQVv-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8FcHsZ/upload_tOyQVv-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8FcHsZ/upload_tOyQVv-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8FcHsZ/upload_tOyQVv-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Serves well with fresh vegetables, fresh cheeses and fruity starters.",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2015-12-13 01:33:28",
+      "updateDate": "2017-08-30 17:55:06",
+      "glass": {
+        "id": 1,
+        "name": "Flute",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 5,
+        "name": "5",
+        "hex": "FBB123"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "bChkBq",
+      "name": "La Kékette",
+      "nameDisplay": "La Kékette",
+      "description": "Brewed for PR Distribution (France). La Kékette est une bière artisanale de grande qualité médaillée d’Or au dernier Mondial de la Bière de Mulhouse 2013, brassée en France avec le plus grand sérieux qu’exige l’art brassicole.",
+      "abv": "6.2",
+      "availableId": 1,
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/bChkBq/upload_4qmNSa-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/bChkBq/upload_4qmNSa-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/bChkBq/upload_4qmNSa-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/bChkBq/upload_4qmNSa-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/bChkBq/upload_4qmNSa-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/bChkBq/upload_4qmNSa-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-04-19 23:29:12",
+      "updateDate": "2016-04-20 21:01:58",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "kxQNjd",
+      "name": "La La Land",
+      "nameDisplay": "La La Land",
+      "abv": "7",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/kxQNjd/upload_9oI8eu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/kxQNjd/upload_9oI8eu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/kxQNjd/upload_9oI8eu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/kxQNjd/upload_9oI8eu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/kxQNjd/upload_9oI8eu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/kxQNjd/upload_9oI8eu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-08-16 14:32:11",
+      "updateDate": "2017-08-30 17:53:35",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "gWtnc8",
+      "name": "La Lucite",
+      "nameDisplay": "La Lucite",
+      "description": "Craft beer brewed with four malts blond and aromatic plants. It develops aromas of citrus and fruity on the palate. \r\n\r\nTraditionally brewed beer - available in 33 and 75 cl Unfiltered, unpasteurized pure malt \r\n ",
+      "abv": "4.2",
+      "availableId": 1,
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gWtnc8/upload_oVUJBs-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gWtnc8/upload_oVUJBs-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gWtnc8/upload_oVUJBs-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gWtnc8/upload_oVUJBs-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gWtnc8/upload_oVUJBs-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gWtnc8/upload_oVUJBs-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "seafood, chicken, pork",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "createDate": "2014-02-22 16:59:18",
+      "updateDate": "2015-12-17 11:06:53",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "BG7CmD",
+      "name": "La Luna Oat Stout",
+      "nameDisplay": "La Luna Oat Stout",
+      "description": "This so-easy-to-drink, silky-smooth stout embodies everything we love in a great stout. The generous additions of oats create a velvety texture and the dark malts evoke notes of roasted coffee and bitter chocolate. This irresistible dark beauty is served on a nitrogen tap to highlight it’s soft & luscious, creamy head. \"The moon is always a trusted companion\"",
+      "abv": "5.4",
+      "ibu": "31",
+      "styleId": 21,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/BG7CmD/upload_W9C8Bh-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/BG7CmD/upload_W9C8Bh-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/BG7CmD/upload_W9C8Bh-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/BG7CmD/upload_W9C8Bh-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/BG7CmD/upload_W9C8Bh-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/BG7CmD/upload_W9C8Bh-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-12-20 16:06:06",
+      "updateDate": "2018-12-20 16:11:27",
+      "style": {
+        "id": 21,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Oatmeal Stout",
+        "shortName": "Oatmeal Stout",
+        "description": "Oatmeal stouts include oatmeal in their grist, resulting in a pleasant, full flavor and a smooth profile that is rich without being grainy. A roasted malt character which is caramel-like and chocolate-like should be evident - smooth and not bitter. Coffee-like roasted barley and roasted malt aromas (chocolate and nut-like) are prominent. Color is dark brown to black. Bitterness is moderate, not high. Hop flavor and aroma are optional but should not overpower the overall balance if present. This is a medium- to full- bodied beer, with minimal fruity esters. Diacetyl should be absent or at extremely low levels. Original gravity range and alcohol levels are indicative of English tradition of oatmeal stout.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "3.8",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "20",
+        "ogMin": "1.038",
+        "fgMin": "1.008",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:22:53"
+      }
+    },
+    {
+      "id": "WDZ9AK",
+      "name": "La Luna Rossa",
+      "nameDisplay": "La Luna Rossa",
+      "description": "A blend of different beers, some of which are barrel aged up to 2 years with morel and amarena cherries. Intense amber with ruby highlights, the nose is extraordinarily complex with fruity aromas of morel and amarena cherry perfectly blending with subtle ethereal notes, acetic and lactic flavors and hints of oxidized malts. It has a sapid, full mouthed lasting palate with a magnificently elevating sour finish.\r\n A beer for strong emotions, it is an homage to all lovers beyond time and space.\r\n\r\nABV. 8,0% 18°P\r\n\r\nThe moment I blend La Luna Rossa represents a mile stone in my history as a brewer when I feel truly proud and satisfied with my work. This beer has the longest maturation and its brewing resembles wine making in that regard. It is always very emotional when Myself and Luca (a solid presence at the Brewery) find ourselves between sour splashes and leftover pieces of fruit that remind me the “visciole”(morello cherry) my grandfather used to eat while playing cards.\r\n The start is a sour base which has undergone at least 2 years of mixed fermentation with acetic and lactic bacteria as well as Brettanomyces strains. Amarena and morel cherries are then added for additional flavor for at least 6 months. The beer is then blended with part L’Ultima Luna and part young beer and poured into numbered bottles indicating the year of the curvee. 12 more months of maturation in bottle are required before entering the market.\r\n\r\nLa Luna Rossa resembles a Flemish red based kriek beer and is extraordinarily complex and elegant. Lovers of this blend find it hard to forget.",
+      "abv": "8",
+      "availableId": 2,
+      "styleId": 132,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/WDZ9AK/upload_mUQbIV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/WDZ9AK/upload_mUQbIV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/WDZ9AK/upload_mUQbIV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/WDZ9AK/upload_mUQbIV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/WDZ9AK/upload_mUQbIV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/WDZ9AK/upload_mUQbIV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.074",
+      "createDate": "2015-03-04 16:15:37",
+      "updateDate": "2015-12-17 22:41:18",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 132,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wood- and Barrel-Aged Beer",
+        "shortName": "BBL Aged",
+        "description": "A wood- or barrel-aged beer is any lager, ale or hybrid beer, either a traditional style or a unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character, but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Beers in this style may or may not have Brettanomyces character. Brewers when entering this category should specify type of barrel and/or wood used and any other special treatment or ingredients used. Competition managers may create style subcategories to differentiate between high alcohol and low alcohol beers and very dark and lighter colored beer as well as for fruit beers and non-fruit beers. Competitions may develop guidelines requesting brewers to specify what kind of wood (new or used oak, other wood varieties) and/or barrel (whiskey, port, sherry, wine, etc.) was used in the process. The brewer may be asked to explain the special nature (wood used, base beer style(s) and achieved character) of the beer.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:46:27"
+      }
+    },
+    {
+      "id": "Ghj1La",
+      "name": "La Lune Special Ale",
+      "nameDisplay": "La Lune Special Ale",
+      "description": "A Belgian style special ale brewed with spices and a hint of wheat malt. The usual coriander and orange peel with some secret spices in there as well. Ode to the loon and the moon. Beautiful for sipping with fish or poultry.",
+      "abv": "7",
+      "availableId": 1,
+      "styleId": 70,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Ghj1La/upload_yrJa0B-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Ghj1La/upload_yrJa0B-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Ghj1La/upload_yrJa0B-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Ghj1La/upload_yrJa0B-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Ghj1La/upload_yrJa0B-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Ghj1La/upload_yrJa0B-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-04-27 18:56:56",
+      "updateDate": "2015-12-18 01:24:17",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 70,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Other Belgian-Style Ales",
+        "shortName": "Belgian Ale",
+        "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:33:05"
+      }
+    },
+    {
+      "id": "9kg4AZ",
+      "name": "La Lupulosa",
+      "nameDisplay": "La Lupulosa",
+      "description": "It's name says it all, translating as \"The Hoppy One.\" This IPA uses five different types of hops in different stages of the brew as well as two separate dry hop additions. La Lupulosa offers a great deal of hoppiness without being overly bitter, all while finding a pleasant balance with malt.",
+      "abv": "7.3",
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/9kg4AZ/upload_aKXVDP-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/9kg4AZ/upload_aKXVDP-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/9kg4AZ/upload_aKXVDP-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/9kg4AZ/upload_aKXVDP-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/9kg4AZ/upload_aKXVDP-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/9kg4AZ/upload_aKXVDP-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-30 20:11:56",
+      "updateDate": "2017-08-31 05:52:51",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "T3i2Q9",
+      "name": "La Maline",
+      "nameDisplay": "La Maline",
+      "description": "Cette bière a été mise au point à l'occasion de la bière de Noël 2004. Sa couleur noire a surpris, son goût grillé et boisé, sans être ni amer ni sucré, a enchanté.\r\n Début 2005, grâce à un séjour à Charleville Mézières, son nom définitif lui été donné.\r\nC'est un malt torréfié, comme un grain de café, qui donne cette robe si particulière.\r\n Convient particulièrement pour la cuisine à la bière, notamment pour la carbonnade flamande.",
+      "abv": "5.8",
+      "styleId": 124,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/T3i2Q9/upload_kDZmVS-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/T3i2Q9/upload_kDZmVS-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/T3i2Q9/upload_kDZmVS-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/T3i2Q9/upload_kDZmVS-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/T3i2Q9/upload_kDZmVS-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/T3i2Q9/upload_kDZmVS-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-05-12 20:58:03",
+      "updateDate": "2015-12-18 00:23:25",
+      "style": {
+        "id": 124,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Herb and Spice Beer",
+        "shortName": "Spice Beer",
+        "description": "Herb beers use herbs or spices (derived from roots, seeds, fruits, vegetable, flowers, etc.) other than or in addition to hops to create a distinct (ranging from subtle to intense) character, though individual characters of herbs and/or spices used may not always be identifiable. Under hopping often, but not always, allows the spice or herb to contribute to the flavor profile. Positive evaluations are significantly based on perceived balance of flavors. Note: Chili-flavored beers that emphasize heat rather than chili flavor should be entered as a \"spiced\" beer.  A statement by the brewer explaining what herbs or spices are used is essential in order for fair assessment in competitions. Specifying a style upon which the beer is based may help evaluation. If this beer is a classic style with an herb or spice, the brewer should specify the classic style. If no Chocolate or Coffee category exists in a competition, then chocolate and coffee beers should be entered in this category.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:45"
+      }
+    },
+    {
+      "id": "lBZ9Qe",
+      "name": "La Mistinguett",
+      "nameDisplay": "La Mistinguett",
+      "abv": "6.5",
+      "glasswareId": 5,
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/lBZ9Qe/upload_X39gVE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/lBZ9Qe/upload_X39gVE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/lBZ9Qe/upload_X39gVE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/lBZ9Qe/upload_X39gVE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/lBZ9Qe/upload_X39gVE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/lBZ9Qe/upload_X39gVE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-16 13:24:25",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "8Xa3ue",
+      "name": "La Moneuse",
+      "nameDisplay": "La Moneuse",
+      "abv": "8",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8Xa3ue/upload_eW1reN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8Xa3ue/upload_eW1reN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8Xa3ue/upload_eW1reN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8Xa3ue/upload_eW1reN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8Xa3ue/upload_eW1reN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8Xa3ue/upload_eW1reN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:34",
+      "updateDate": "2015-12-15 20:19:01",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "QK4KEs",
+      "name": "La Morena",
+      "nameDisplay": "La Morena",
+      "description": "La Morena is a Mexican style dark lager.  It has a reddish-bronze color and boasts a rich, malty aroma with a smooth, toasted malt flavor.",
+      "abv": "5.6",
+      "ibu": "25",
+      "glasswareId": 5,
+      "srmId": 15,
+      "availableId": 1,
+      "styleId": 80,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/QK4KEs/upload_3oyiVU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/QK4KEs/upload_3oyiVU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/QK4KEs/upload_3oyiVU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/QK4KEs/upload_3oyiVU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/QK4KEs/upload_3oyiVU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/QK4KEs/upload_3oyiVU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-06-07 00:05:09",
+      "updateDate": "2017-10-13 12:25:27",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 15,
+        "name": "15",
+        "hex": "BB5100"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 80,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Vienna-Style Lager",
+        "shortName": "Vienna Lager",
+        "description": "Beers in this category are reddish brown or copper colored. They are medium in body. The beer is characterized by malty aroma and slight malt sweetness. The malt aroma and flavor should have a notable degree of toasted and/or slightly roasted malt character. Hop bitterness is clean and crisp. Noble-type hop aromas and flavors should be low or mild. Diacetyl, chill haze and ale-like fruity esters should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "28",
+        "abvMin": "4.8",
+        "abvMax": "5.4",
+        "srmMin": "12",
+        "srmMax": "16",
+        "ogMin": "1.046",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:42"
+      }
+    },
+    {
+      "id": "k63In1",
+      "name": "La Muerta",
+      "nameDisplay": "La Muerta",
+      "description": "La Muerta is brewed each year for Día de los Muertos in honor of our departed friends and family.  A big, lush Imperial Stout, La Muerta is full of roast, smoke and chocolate flavors from an array of specialty malts that go into this garnet-black beer.",
+      "abv": "10.2",
+      "ibu": "50",
+      "glasswareId": 5,
+      "styleId": 125,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/k63In1/upload_BbaDTm-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/k63In1/upload_BbaDTm-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/k63In1/upload_BbaDTm-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/k63In1/upload_BbaDTm-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/k63In1/upload_BbaDTm-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/k63In1/upload_BbaDTm-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.1",
+      "createDate": "2012-06-27 11:35:47",
+      "updateDate": "2018-11-02 20:04:51",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "EE5MoK",
+      "name": "La Nena Hoppy Wheat",
+      "nameDisplay": "La Nena Hoppy Wheat",
+      "description": "La Nena Hoppy Wheat combina el clásico estilo de cerveza trigo con la adición al lúpulo de Barbarian. Esta nena se caracteriza por aromas a plátano y clavo de olor que se fusionan con los aromas cítricos y refrescantes del lúpulo. Protegidos por una densa e infaltable espuma blanca. Esta cerveza sin filtrar es súper refréscate, ideal para esos días en los que sólo quieres una cerveza fría.",
+      "abv": "6.1",
+      "ibu": "21",
+      "srmId": 5,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/EE5MoK/upload_baKQ1e-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/EE5MoK/upload_baKQ1e-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/EE5MoK/upload_baKQ1e-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/EE5MoK/upload_baKQ1e-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/EE5MoK/upload_baKQ1e-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/EE5MoK/upload_baKQ1e-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-12-03 03:18:31",
+      "updateDate": "2017-08-30 20:03:46",
+      "srm": {
+        "id": 5,
+        "name": "5",
+        "hex": "FBB123"
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "IuP2jP",
+      "name": "La Noche Se Mueve",
+      "nameDisplay": "La Noche Se Mueve",
+      "description": "This Coffee IPA is the perfect choice if you find yourself awoken by the sound of thunder…especially while sitting around, wondering how far off said thunder is from your current location.",
+      "abv": "7",
+      "ibu": "94",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/IuP2jP/upload_04twlD-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/IuP2jP/upload_04twlD-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/IuP2jP/upload_04twlD-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/IuP2jP/upload_04twlD-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/IuP2jP/upload_04twlD-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/IuP2jP/upload_04twlD-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-10-27 13:23:55",
+      "updateDate": "2016-05-19 13:33:12",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "vMwOup",
+      "name": "La Perouse White Witbier",
+      "nameDisplay": "La Perouse White Witbier",
+      "description": "Belgian inspired ale brewed with coriander and local citrus",
+      "abv": "5.2",
+      "ibu": "12",
+      "glasswareId": 9,
+      "availableId": 2,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/vMwOup/upload_LzLaLM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/vMwOup/upload_LzLaLM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/vMwOup/upload_LzLaLM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/vMwOup/upload_LzLaLM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/vMwOup/upload_LzLaLM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/vMwOup/upload_LzLaLM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2016-09-09 20:37:45",
+      "updateDate": "2016-09-13 13:25:15",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "N2nSLc",
+      "name": "La Petit Maison Enkel",
+      "nameDisplay": "La Petit Maison Enkel",
+      "abv": "5.6",
+      "ibu": "20",
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/N2nSLc/upload_LHoUI8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/N2nSLc/upload_LHoUI8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/N2nSLc/upload_LHoUI8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/N2nSLc/upload_LHoUI8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/N2nSLc/upload_LHoUI8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/N2nSLc/upload_LHoUI8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-10-14 13:13:12",
+      "updateDate": "2018-10-14 13:14:10",
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "f4db5w",
+      "name": "La Petite Deth",
+      "nameDisplay": "La Petite Deth",
+      "description": "Finally, Deth's Tar for Francophiles. This Imperial Oatmeal Stout was aged in French oak barrels that originally held Cognac, then our Mineshaft Gap barrel-aged American Barleywine. With the Cognac mostly extracted by the preceding barleywine, this Imperial Stout soaked up loads of beautiful French oak flavor and aroma. One year later, this sophisticated sipper showcases the confluence of time and French oak in our barrel-aged Stout – sublime notes of vanilla, dried stone fruit, caramel, and leather parley with dark chocolate and roast to create this one-of-a-kind take on Deth's Tar. À votre santé!",
+      "abv": "13",
+      "styleId": 21,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/f4db5w/upload_sT1Nd3-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/f4db5w/upload_sT1Nd3-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/f4db5w/upload_sT1Nd3-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/f4db5w/upload_sT1Nd3-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/f4db5w/upload_sT1Nd3-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/f4db5w/upload_sT1Nd3-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-05-24 12:20:04",
+      "updateDate": "2019-05-24 12:20:12",
+      "style": {
+        "id": 21,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Oatmeal Stout",
+        "shortName": "Oatmeal Stout",
+        "description": "Oatmeal stouts include oatmeal in their grist, resulting in a pleasant, full flavor and a smooth profile that is rich without being grainy. A roasted malt character which is caramel-like and chocolate-like should be evident - smooth and not bitter. Coffee-like roasted barley and roasted malt aromas (chocolate and nut-like) are prominent. Color is dark brown to black. Bitterness is moderate, not high. Hop flavor and aroma are optional but should not overpower the overall balance if present. This is a medium- to full- bodied beer, with minimal fruity esters. Diacetyl should be absent or at extremely low levels. Original gravity range and alcohol levels are indicative of English tradition of oatmeal stout.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "3.8",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "20",
+        "ogMin": "1.038",
+        "fgMin": "1.008",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:22:53"
+      }
+    },
+    {
+      "id": "bjgifu",
+      "name": "La Petite Saison",
+      "nameDisplay": "La Petite Saison",
+      "description": "La Petite pours hazy straw gold like a sunlit haystack with delightful aromas of lemon peel, peppercorn and orange blossom.",
+      "abv": "6.7",
+      "ibu": "31",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/bjgifu/upload_WELoBE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/bjgifu/upload_WELoBE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/bjgifu/upload_WELoBE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/bjgifu/upload_WELoBE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/bjgifu/upload_WELoBE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/bjgifu/upload_WELoBE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:36",
+      "updateDate": "2015-12-16 12:37:43",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "4DAzSh",
+      "name": "La Picaro",
+      "nameDisplay": "La Picaro",
+      "description": "White craft beer to 4 malts from different cereals.  It develops aromas of apples and citrus.  In the mouth, a round body accompanies fruit notes.  Unfiltered, unpasteurized pure malt.",
+      "abv": "5",
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4DAzSh/upload_jZIHij-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4DAzSh/upload_jZIHij-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4DAzSh/upload_jZIHij-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4DAzSh/upload_jZIHij-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4DAzSh/upload_jZIHij-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4DAzSh/upload_jZIHij-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Foie gras",
+      "servingTemperature": "cellar",
+      "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+      "createDate": "2014-02-22 16:56:55",
+      "updateDate": "2015-12-17 11:07:42",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    }
+  ],
+  "status": "success"
+}

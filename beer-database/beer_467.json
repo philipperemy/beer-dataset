@@ -1,0 +1,2725 @@
+{
+  "currentPage": 467,
+  "numberOfPages": 603,
+  "totalResults": 30128,
+  "data": [
+    {
+      "id": "FKUvtX",
+      "name": "Saporous",
+      "nameDisplay": "Saporous",
+      "description": "Saporous (def. capable of exciting the sensation of taste) is a passion fruit and guava lactose sour ale. This new entry from our sour asylum series is bursting with fruit flavor and true to the definition of it's name.",
+      "abv": "5",
+      "ibu": "5",
+      "styleId": 40,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/FKUvtX/upload_5UJug8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/FKUvtX/upload_5UJug8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/FKUvtX/upload_5UJug8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/FKUvtX/upload_5UJug8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/FKUvtX/upload_5UJug8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/FKUvtX/upload_5UJug8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-05-07 20:17:58",
+      "updateDate": "2019-08-04 14:00:09",
+      "style": {
+        "id": 40,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Sour Ale",
+        "shortName": "Sour",
+        "description": "American sour ales can be very light to black or take on the color of added fruits or other ingredients. There is no Brettanomyces character in this style of beer. Wood- and barrel-aged sour ales are classified elsewhere. If acidity is present it is usually in the form of lactic, acetic and other organic acids naturally developed with acidified malt in the mash or in fermentation by the use of various microorganisms including certain bacteria and yeasts. Acidic character can be a complex balance of several types of acid and characteristics of age. The evolution of natural acidity develops balanced complexity. Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American sour may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Sour Ales will exhibit fruit flavors in harmonious balance with other characters.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:32"
+      }
+    },
+    {
+      "id": "TOHi4D",
+      "name": "Sapporo Premium Beer",
+      "nameDisplay": "Sapporo Premium Beer",
+      "description": "With lush use of aroma hops, Sapporo Premium has an amazingly crisp taste, refreshing flavor, and refined bitterness to leave a clean finish.  Whether in our iconic SILVER CAN that is long loved by our American fans, in bottles, or on tap, Sapporo Premium can be enjoyed on any occasion.",
+      "abv": "4.9",
+      "ibu": "24",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 97,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/TOHi4D/upload_oforPJ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/TOHi4D/upload_oforPJ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/TOHi4D/upload_oforPJ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/TOHi4D/upload_oforPJ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/TOHi4D/upload_oforPJ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/TOHi4D/upload_oforPJ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2018-07-06 20:38:54",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 97,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Premium Lager",
+        "shortName": "American Premium Lager",
+        "description": "This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as \"premium\" (based on price) may not fit this definition.",
+        "ibuMin": "6",
+        "ibuMax": "15",
+        "abvMin": "4.3",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "6",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:04"
+      }
+    },
+    {
+      "id": "cGbq68",
+      "name": "Sapsucker",
+      "nameDisplay": "Sapsucker",
+      "abv": "5.6",
+      "glasswareId": 5,
+      "styleId": 125,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/cGbq68/upload_1mnM5A-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/cGbq68/upload_1mnM5A-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/cGbq68/upload_1mnM5A-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/cGbq68/upload_1mnM5A-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/cGbq68/upload_1mnM5A-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/cGbq68/upload_1mnM5A-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2018-11-02 16:19:56",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 125,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Specialty Beer",
+        "shortName": "Specialty",
+        "description": "These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.",
+        "ibuMax": "100",
+        "abvMin": "2.5",
+        "abvMax": "25",
+        "srmMin": "1",
+        "srmMax": "100",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:53"
+      }
+    },
+    {
+      "id": "AymDJ8",
+      "name": "Saranac 4059' Porter",
+      "nameDisplay": "Saranac 4059' Porter",
+      "description": "Standing 4059’ above sea level, one of the Adirondack high peaks, Porter Mountain, is the inspiration for our 4059’ Porter that is full of roasted flavor. Brewed with English chocolate malt and English hops, you’ll taste roasted coffee and chocolate flavors from the malt balanced with a slight hop bitterness. Whether you’re up at 4059’ or at sea level, this style will have your taste buds climbing with excitement!",
+      "abv": "5.2",
+      "ibu": "42",
+      "styleId": 158,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/AymDJ8/upload_bxdujf-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/AymDJ8/upload_bxdujf-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/AymDJ8/upload_bxdujf-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/AymDJ8/upload_bxdujf-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/AymDJ8/upload_bxdujf-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/AymDJ8/upload_bxdujf-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-15 21:46:59",
+      "updateDate": "2015-12-17 18:01:09",
+      "style": {
+        "id": 158,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Porter",
+        "shortName": "American Imperial Porter",
+        "description": "American-style imperial porters are black in color. No roast barley or strong burnt/astringent black malt character should be perceived. Medium malt, caramel and cocoa-like sweetness. Hop bitterness is perceived at a medium-low to medium level. Hop flavor and aroma may vary from being low to medium-high. This is a full bodied beer. Ale-like fruity esters should be evident but not overpowering and compliment hop character and malt derived sweetness. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "35",
+        "ibuMax": "50",
+        "abvMin": "5.5",
+        "abvMax": "9.5",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "ogMax": "1.1",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2013-08-10 12:42:51",
+        "updateDate": "2015-04-07 15:49:32"
+      }
+    },
+    {
+      "id": "uJqljM",
+      "name": "Saranac Adirondack Ice Bowl Lager",
+      "nameDisplay": "Saranac Adirondack Ice Bowl Lager",
+      "availableId": 2,
+      "styleId": 93,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/uJqljM/upload_A4IVOi-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/uJqljM/upload_A4IVOi-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/uJqljM/upload_A4IVOi-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/uJqljM/upload_A4IVOi-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/uJqljM/upload_A4IVOi-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/uJqljM/upload_A4IVOi-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-12-28 14:17:59",
+      "updateDate": "2015-12-17 20:56:09",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 93,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Lager",
+        "shortName": "American Lager",
+        "description": "Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.",
+        "ibuMin": "5",
+        "ibuMax": "13",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:39:26"
+      }
+    },
+    {
+      "id": "4Cy1cG",
+      "name": "Saranac Adirondack Lager",
+      "nameDisplay": "Saranac Adirondack Lager",
+      "description": "Our classic German lager has a perfect balance of caramel malt sweetness. Look for a rich, amber color and medium body.",
+      "abv": "5.5",
+      "ibu": "22",
+      "glasswareId": 5,
+      "srmId": 22,
+      "availableId": 1,
+      "styleId": 97,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4Cy1cG/upload_dnmt00-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4Cy1cG/upload_dnmt00-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4Cy1cG/upload_dnmt00-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4Cy1cG/upload_dnmt00-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4Cy1cG/upload_dnmt00-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4Cy1cG/upload_dnmt00-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.053",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2015-12-16 03:46:16",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 22,
+        "name": "22",
+        "hex": "8E2900"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 97,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Premium Lager",
+        "shortName": "American Premium Lager",
+        "description": "This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as \"premium\" (based on price) may not fit this definition.",
+        "ibuMin": "6",
+        "ibuMax": "15",
+        "abvMin": "4.3",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "6",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:04"
+      }
+    },
+    {
+      "id": "Wo51OZ",
+      "name": "Saranac Autumn Pils",
+      "nameDisplay": "Saranac Autumn Pils",
+      "glasswareId": 4,
+      "availableId": 4,
+      "styleId": 98,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Wo51OZ/upload_jFayIQ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Wo51OZ/upload_jFayIQ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Wo51OZ/upload_jFayIQ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Wo51OZ/upload_jFayIQ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Wo51OZ/upload_jFayIQ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Wo51OZ/upload_jFayIQ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-05-29 10:48:56",
+      "updateDate": "2015-12-17 12:50:48",
+      "glass": {
+        "id": 4,
+        "name": "Pilsner",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 98,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Pilsener",
+        "shortName": "American Pilsener",
+        "description": "This classic and unique pre-Prohibition American-style Pilsener is straw to deep gold in color. Hop bitterness, flavor and aroma are medium to high, and use of noble-type hops for flavor and aroma is preferred. Up to 25 percent corn and/or rice in the grist should be used. Malt flavor and aroma are medium. This is a light-medium to medium-bodied beer. Sweet corn-like dimethylsulfide (DMS), fruity esters and American hop-derived citrus flavors or aromas should not be perceived. Diacetyl is not acceptable. There should be no chill haze. Competition organizers may wish to subcategorize this style into rice and corn subcategories.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "6",
+        "ogMin": "1.045",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:08"
+      }
+    },
+    {
+      "id": "Shoidd",
+      "name": "Saranac Belgian Ale",
+      "nameDisplay": "Saranac Belgian Ale",
+      "description": "Saranac Belgian Ale is Deliciously Fruity. It is brewed with a generous amount of Belgian Aromatic Malt, Hand selected hops, and a traditional Belgian ale yeast. Brewed in the Trappist Style.",
+      "abv": "5.9",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 70,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Shoidd/upload_DCfuaI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Shoidd/upload_DCfuaI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Shoidd/upload_DCfuaI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Shoidd/upload_DCfuaI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Shoidd/upload_DCfuaI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Shoidd/upload_DCfuaI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2015-12-16 03:30:40",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 70,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Other Belgian-Style Ales",
+        "shortName": "Belgian Ale",
+        "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:33:05"
+      }
+    },
+    {
+      "id": "pI6H5r",
+      "name": "Saranac Big Moose Ale",
+      "nameDisplay": "Saranac Big Moose Ale",
+      "abv": "5.3",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/pI6H5r/upload_Moa721-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/pI6H5r/upload_Moa721-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/pI6H5r/upload_Moa721-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/pI6H5r/upload_Moa721-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/pI6H5r/upload_Moa721-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/pI6H5r/upload_Moa721-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:49",
+      "updateDate": "2015-12-16 13:44:08",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "Kyo9tn",
+      "name": "Saranac Black & Tan",
+      "nameDisplay": "Saranac Black & Tan",
+      "description": "A beer lover's dream! This classic irish stout and amber lager blend is malty, yet pleasantly bitter with many complex flavor notes. Look for a deep brown-black color and full-body.",
+      "abv": "5.1",
+      "glasswareId": 5,
+      "srmId": 41,
+      "availableId": 3,
+      "styleId": 24,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Kyo9tn/upload_tWMztH-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Kyo9tn/upload_tWMztH-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Kyo9tn/upload_tWMztH-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Kyo9tn/upload_tWMztH-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Kyo9tn/upload_tWMztH-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Kyo9tn/upload_tWMztH-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 41,
+        "name": "Over 40",
+        "hex": "000000"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 24,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Foreign (Export)-Style Stout",
+        "shortName": "Export Stout",
+        "description": "As with classic dry stouts, foreign-style stouts have an initial malt sweetness and caramel flavor with a distinctive dry-roasted bitterness in the finish. Coffee-like roasted barley and roasted malt aromas are prominent. Some slight acidity is permissible and a medium- to full-bodied mouthfeel is appropriate. Bitterness may be high but the perception is often compromised by malt sweetness. Hop aroma and flavor should not be perceived. The perception of fruity esters is low. Diacetyl (butterscotch) should be negligible or not perceived. Head retention is excellent.",
+        "ibuMin": "30",
+        "ibuMax": "60",
+        "abvMin": "5.7",
+        "abvMax": "9.3",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.052",
+        "fgMin": "1.008",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:58"
+      }
+    },
+    {
+      "id": "if5LkM",
+      "name": "Saranac Black Forest",
+      "nameDisplay": "Saranac Black Forest",
+      "description": "A Bavarian black beer with distinctive carmel malt sweetness and rich creamy trademark head. Flavorful, yet smooth; it is very drinkable!",
+      "abv": "5.3",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 84,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/if5LkM/upload_35Lae0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/if5LkM/upload_35Lae0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/if5LkM/upload_35Lae0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/if5LkM/upload_35Lae0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/if5LkM/upload_35Lae0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/if5LkM/upload_35Lae0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2015-12-16 04:10:21",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 84,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Schwarzbier",
+        "shortName": "Schwarzbier",
+        "description": "These very dark brown to black beers have a mild roasted malt character without the associated bitterness. This is not a fullbodied beer, but rather a moderate body gently enhances malt flavor and aroma with low to moderate levels of sweetness. Hop bitterness is low to medium in character. Noble-type hop flavor and aroma should be low but perceptible. There should be no fruity esters. Diacetyl should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "30",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "25",
+        "srmMax": "30",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:37:12"
+      }
+    },
+    {
+      "id": "JuEb4y",
+      "name": "Saranac Blueberry Blonde Ale",
+      "nameDisplay": "Saranac Blueberry Blonde Ale",
+      "description": "Saranac Blueberry Blonde Ale is a traidtional blonde ale with a kick of juicy blueberry.  You'll notice a light golden haze from wheat malt and oats and a low hop bitterness, which really shows off the fruit.  With a medium-light body and fresh blueberry flavor, we're sure we've captured refreshment in a bottle!",
+      "abv": "5",
+      "ibu": "18",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 36,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JuEb4y/upload_fQCaBr-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JuEb4y/upload_fQCaBr-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JuEb4y/upload_fQCaBr-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JuEb4y/upload_fQCaBr-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JuEb4y/upload_fQCaBr-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JuEb4y/upload_fQCaBr-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-09-20 13:54:33",
+      "updateDate": "2015-12-16 18:08:11",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 36,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Golden or Blonde Ale",
+        "shortName": "Blonde",
+        "description": "Golden or Blonde ales are straw to golden blonde in color. They have a crisp, dry palate, light to medium body, and light malt sweetness. Low to medium hop aroma may be present but does not dominate. Bitterness is low to medium. Fruity esters may be perceived but do not predominate. Diacetyl should not be perceived. Chill haze should be absent.",
+        "ibuMin": "15",
+        "ibuMax": "25",
+        "abvMin": "4",
+        "abvMax": "5",
+        "srmMin": "3",
+        "srmMax": "7",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:26"
+      }
+    },
+    {
+      "id": "WA2FQ9",
+      "name": "Saranac Caramel Porter",
+      "nameDisplay": "Saranac Caramel Porter",
+      "description": "Saranac Caramel Porter is a Robust, flavorful porter Reminiscent of a by-gone era. True to brewing tradition, we've used dark caramel malt, as well as Fuggles and East Kent Goldings hops for smooth, yet slightly bitter, roasted flavor, look for hints of the real caramel used in brewing this delicious beer!",
+      "abv": "5.4",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 18,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/WA2FQ9/upload_oNKKeC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/WA2FQ9/upload_oNKKeC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/WA2FQ9/upload_oNKKeC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/WA2FQ9/upload_oNKKeC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/WA2FQ9/upload_oNKKeC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/WA2FQ9/upload_oNKKeC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2015-12-16 03:30:10",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 18,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Brown Porter",
+        "shortName": "Brown Porter",
+        "description": "Brown porters are mid to dark brown (may have red tint) in color. No roast barley or strong burnt/black malt character should be perceived. Low to medium malt sweetness, caramel and chocolate is acceptable along with medium hop bitterness. This is a lightto medium-bodied beer. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "35",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:43"
+      }
+    },
+    {
+      "id": "Yf3P9h",
+      "name": "Saranac Chai Brown Ale",
+      "nameDisplay": "Saranac Chai Brown Ale",
+      "abv": "5.5",
+      "ibu": "25",
+      "styleId": 37,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Yf3P9h/upload_kBS5dI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Yf3P9h/upload_kBS5dI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Yf3P9h/upload_kBS5dI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Yf3P9h/upload_kBS5dI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Yf3P9h/upload_kBS5dI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Yf3P9h/upload_kBS5dI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-15 21:27:35",
+      "updateDate": "2015-12-17 18:00:30",
+      "style": {
+        "id": 37,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Brown Ale",
+        "shortName": "American Brown",
+        "description": "American brown ales range from deep copper to brown in color. Roasted malt caramel-like and chocolate-like characters should be of medium intensity in both flavor and aroma. American brown ales have evident low to medium hop flavor and aroma, medium to high hop bitterness, and a medium body. Estery and fruity-ester characters should be subdued. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "25",
+        "ibuMax": "45",
+        "abvMin": "4",
+        "abvMax": "6.4",
+        "srmMin": "15",
+        "srmMax": "26",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:35"
+      }
+    },
+    {
+      "id": "hLGKwV",
+      "name": "Saranac Chocolate Amber",
+      "nameDisplay": "Saranac Chocolate Amber",
+      "description": "There comes a time every year in the Adirondacks when a heavier, more malty brew compliments the cold winter months. This brew showcases a variety of dark roasted malts, producing a beer with a rich chocolaty flavor.",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 103,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/hLGKwV/upload_23N1eC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/hLGKwV/upload_23N1eC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/hLGKwV/upload_23N1eC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/hLGKwV/upload_23N1eC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/hLGKwV/upload_23N1eC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/hLGKwV/upload_23N1eC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:09",
+      "updateDate": "2015-12-16 03:50:42",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 103,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Dark Lager",
+        "shortName": "American Dark Lager",
+        "description": "This beer's malt aroma and flavor are low but notable. Its color ranges from a very deep copper to a deep, dark brown. It has a clean, light body with discreet contributions from caramel and roasted malts. Non-malt adjuncts are often used, and hop rates are low. Hop bitterness is clean and has a short duration of impact. Hop flavor, and aroma are low. Carbonation is high. Fruity esters, diacetyl, and chill haze should not be perceived.",
+        "ibuMin": "14",
+        "ibuMax": "20",
+        "abvMin": "4",
+        "abvMax": "5.5",
+        "srmMin": "14",
+        "srmMax": "25",
+        "ogMin": "1.04",
+        "fgMin": "1.008",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:42"
+      }
+    },
+    {
+      "id": "CyNSwQ",
+      "name": "Saranac Chocolate Lager",
+      "nameDisplay": "Saranac Chocolate Lager",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 97,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/CyNSwQ/upload_hdi92E-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/CyNSwQ/upload_hdi92E-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/CyNSwQ/upload_hdi92E-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/CyNSwQ/upload_hdi92E-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/CyNSwQ/upload_hdi92E-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/CyNSwQ/upload_hdi92E-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:59",
+      "updateDate": "2015-12-16 12:46:55",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 97,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Premium Lager",
+        "shortName": "American Premium Lager",
+        "description": "This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as \"premium\" (based on price) may not fit this definition.",
+        "ibuMin": "6",
+        "ibuMax": "15",
+        "abvMin": "4.3",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "6",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:04"
+      }
+    },
+    {
+      "id": "97npY0",
+      "name": "Saranac Dark-tober (fest)",
+      "nameDisplay": "Saranac Dark-tober (fest)",
+      "glasswareId": 3,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/97npY0/upload_RgmPKx-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/97npY0/upload_RgmPKx-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/97npY0/upload_RgmPKx-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/97npY0/upload_RgmPKx-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/97npY0/upload_RgmPKx-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/97npY0/upload_RgmPKx-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-05-29 10:49:42",
+      "updateDate": "2015-12-17 13:56:52",
+      "glass": {
+        "id": 3,
+        "name": "Mug",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "KjzvIF",
+      "name": "Saranac Dry Hop Lager",
+      "nameDisplay": "Saranac Dry Hop Lager",
+      "styleId": 93,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/KjzvIF/upload_7e0gdf-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/KjzvIF/upload_7e0gdf-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/KjzvIF/upload_7e0gdf-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/KjzvIF/upload_7e0gdf-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/KjzvIF/upload_7e0gdf-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/KjzvIF/upload_7e0gdf-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-12-05 12:00:30",
+      "updateDate": "2015-12-16 20:41:05",
+      "style": {
+        "id": 93,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Lager",
+        "shortName": "American Lager",
+        "description": "Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.",
+        "ibuMin": "5",
+        "ibuMax": "13",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:39:26"
+      }
+    },
+    {
+      "id": "YIQlOo",
+      "name": "Saranac Extra Special Bitter",
+      "nameDisplay": "Saranac Extra Special Bitter",
+      "description": "Bitters are popular pub beers in England and are closely related to the more well known pales ales. Saranac Extra Special Bitter has a rich, malty taste balanced by the pleasant bitterness of Williamette Hops. The finish is dry with a hint of the Foral English Fuggle and Spicy Saaz hop. Enjoy!",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 5,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YIQlOo/upload_XaeBS0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YIQlOo/upload_XaeBS0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YIQlOo/upload_XaeBS0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YIQlOo/upload_XaeBS0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YIQlOo/upload_XaeBS0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YIQlOo/upload_XaeBS0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:50:12",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 5,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Extra Special Bitter",
+        "shortName": "ESB",
+        "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+        "ibuMin": "30",
+        "ibuMax": "45",
+        "abvMin": "4.8",
+        "abvMax": "5.8",
+        "srmMin": "8",
+        "srmMax": "14",
+        "ogMin": "1.046",
+        "fgMin": "1.01",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:19:20"
+      }
+    },
+    {
+      "id": "2t90oP",
+      "name": "Saranac Golden Pilsner",
+      "nameDisplay": "Saranac Golden Pilsner",
+      "description": "Saranac Pilsener is a light bodied American Wheat Beer that is judiciously hopped with Cascade and Tettnang hops. Dry-Hopping imparts the distinctive hop aroma and finish. Look for a smooth\"",
+      "abv": "5.1",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 75,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2t90oP/upload_PNiIGk-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2t90oP/upload_PNiIGk-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2t90oP/upload_PNiIGk-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2t90oP/upload_PNiIGk-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2t90oP/upload_PNiIGk-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2t90oP/upload_PNiIGk-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 04:03:55",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 75,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Pilsener",
+        "shortName": "German Pilsener",
+        "description": "A classic German Pilsener is very light straw or golden in color and well hopped. Perception of hop bitterness is medium to high. Noble-type hop aroma and flavor are moderate and quite obvious. It is a well-attenuated, medium-light bodied beer, but a malty residual sweetness can be perceived in aroma and flavor. Very low levels of sweet corn-like dimethylsulfide (DMS) character are below most beer drinkers' taste thresholds and are usually not detectable except to the trained or sensitive palate. Other fermentation or hop related sulfur compounds, when perceived at low levels, may be characteristic of this style. Fruity esters and diacetyl should not be perceived. There should be no chill haze. Its head should be dense and rich.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "4",
+        "abvMax": "5",
+        "srmMin": "3",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:35:59"
+      }
+    },
+    {
+      "id": "Ac9ZYF",
+      "name": "Saranac High Peaks Imperial IPA",
+      "nameDisplay": "Saranac High Peaks Imperial IPA",
+      "description": "Saranac Imperial IPA is part our new High Peak Series, a line of beers that are bigger, more complex and flavorful; beers that are meant to be sipped and savored. Saranac Imperial IPA is brewed with 10 different malts and 10 different hops to make a delectably flavorful and complex Imperial IPA.",
+      "abv": "8.5",
+      "ibu": "85",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Ac9ZYF/upload_41BSjq-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Ac9ZYF/upload_41BSjq-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Ac9ZYF/upload_41BSjq-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Ac9ZYF/upload_41BSjq-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Ac9ZYF/upload_41BSjq-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Ac9ZYF/upload_41BSjq-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:33:12",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "mvsNhg",
+      "name": "Saranac Imperial Stout",
+      "nameDisplay": "Saranac Imperial Stout",
+      "description": "Saranac Imperial Stout is part of our High Peaks Series more complex and flavorful; beers that are meant to be sipped and savored. Saranac Imperial Stout is brewed with 11 malts to balance a deliciouse chocolate and coffee roasted flavor with a spicy herbal character of the generous kettle and dry hops.",
+      "abv": "9",
+      "glasswareId": 5,
+      "srmId": 41,
+      "availableId": 4,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/mvsNhg/upload_rSffT8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/mvsNhg/upload_rSffT8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/mvsNhg/upload_rSffT8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/mvsNhg/upload_rSffT8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/mvsNhg/upload_rSffT8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/mvsNhg/upload_rSffT8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2018-04-25 19:51:45",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 41,
+        "name": "Over 40",
+        "hex": "000000"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "6LMXav",
+      "name": "Saranac India Pale Ale",
+      "nameDisplay": "Saranac India Pale Ale",
+      "description": "A hop lover's delight. In the India Pale Ale tradition this brew is very hoppy in both aroma and flavor from the generous amounts of cascade hops used in brewing. Look for a medium to full body and golden straw color.",
+      "abv": "5.8",
+      "glasswareId": 5,
+      "availableId": 3,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/6LMXav/upload_FM19yC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/6LMXav/upload_FM19yC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/6LMXav/upload_FM19yC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/6LMXav/upload_FM19yC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/6LMXav/upload_FM19yC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/6LMXav/upload_FM19yC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "D7AjHn",
+      "name": "Saranac Into the Dark",
+      "nameDisplay": "Saranac Into the Dark",
+      "abv": "6.5",
+      "ibu": "60",
+      "styleId": 41,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/D7AjHn/upload_Y5uQbQ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/D7AjHn/upload_Y5uQbQ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/D7AjHn/upload_Y5uQbQ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/D7AjHn/upload_Y5uQbQ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/D7AjHn/upload_Y5uQbQ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/D7AjHn/upload_Y5uQbQ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-16 14:34:48",
+      "updateDate": "2015-12-17 19:39:06",
+      "style": {
+        "id": 41,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Black Ale",
+        "shortName": "Black Ale",
+        "description": "American-style Black Ales are very dark to black and perceived to have medium high to high hop bitterness, flavor and aroma with medium-high alcohol content, balanced with a medium body. Fruity, floral and herbal character from hops of all origins may contribute character. The style is further characterized by a balanced and moderate degree of caramel malt and dark roasted malt flavor and aroma. High astringency and high degree of burnt roast malt character should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6",
+        "abvMax": "7.5",
+        "srmMin": "35",
+        "srmMax": "35",
+        "ogMin": "1.056",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:36"
+      }
+    },
+    {
+      "id": "DtdPHw",
+      "name": "Saranac Irish Red Ale",
+      "nameDisplay": "Saranac Irish Red Ale",
+      "description": "Irish Reds get their deep garnet color from carefully selected batches of 2 row malts that are specially kilned to develop their sugars and then roasted to produce the wonderful, caramel and toffee notes that accompany the rich color.  You'll find the complexity and drinkability of Saranac Irish Red to be second to none.",
+      "abv": "4.5",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 22,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/DtdPHw/upload_I8VJSS-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/DtdPHw/upload_I8VJSS-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/DtdPHw/upload_I8VJSS-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/DtdPHw/upload_I8VJSS-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/DtdPHw/upload_I8VJSS-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/DtdPHw/upload_I8VJSS-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2018-06-04 17:46:25",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 22,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Irish-Style Red Ale",
+        "shortName": "Irish Red",
+        "description": "Irish-style red ales range from light red-amber-copper to light brown in color. These ales have a medium hop bitterness and flavor. They often don't have hop aroma. Irish-style red ales have low to medium candy-like caramel malt sweetness and may have a balanced subtle degree of roast barley or roast malt character and complexity.  Irish-style Red Ales have a medium body. The style may have low levels of fruity-ester flavor and aroma. Diacetyl should be absent or at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.",
+        "ibuMin": "20",
+        "ibuMax": "28",
+        "abvMin": "4",
+        "abvMax": "4.5",
+        "srmMin": "11",
+        "srmMax": "18",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:38"
+      }
+    },
+    {
+      "id": "UcqMGs",
+      "name": "Saranac Irish Stout",
+      "nameDisplay": "Saranac Irish Stout",
+      "description": "Deep within the heart of the Irish lies an uncanny passion for what they call \"Leann Dubh\", or black ale.  Saranac Irish Stout is a lavish beer blended with dark malts to create a coffee like taste.  Look for a roasted character that is surprisingly smooth and refreshing, pint after pint.",
+      "abv": "5.5",
+      "availableId": 4,
+      "styleId": 23,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/UcqMGs/upload_TJ89Rj-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/UcqMGs/upload_TJ89Rj-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/UcqMGs/upload_TJ89Rj-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/UcqMGs/upload_TJ89Rj-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/UcqMGs/upload_TJ89Rj-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/UcqMGs/upload_TJ89Rj-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-21 01:41:35",
+      "updateDate": "2018-06-04 18:20:37",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 23,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Classic Irish-Style Dry Stout",
+        "shortName": "Dry Irish Stout",
+        "description": "Dry stouts have an initial malt and light caramel flavor profile with a distinctive dry-roasted bitterness in the finish. Dry stouts achieve a dry-roasted character through the use of roasted barley. The emphasis of coffee-like roasted barley and a moderate degree of roasted malt aromas define much of the character. Some slight acidity may be perceived but is not necessary. European hop aroma and flavor should be low or not perceived. Dry stouts have medium-light to medium body. Fruity esters are minimal and overshadowed by malt, high hop bitterness, and roasted barley character. Diacetyl (butterscotch) should be very low or not perceived. Head retention and rich character should be part of its visual character.",
+        "ibuMin": "30",
+        "ibuMax": "40",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.038",
+        "fgMin": "1.008",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:51"
+      }
+    },
+    {
+      "id": "BvyaM6",
+      "name": "Saranac Kölsch",
+      "nameDisplay": "Saranac Kölsch",
+      "description": "This golden sparkling blond ale was brewed to pay homage to a 1000-year tradition rooted in Cologne, Germany. Clear, crisp and easy to drink, the Kölsch of today is lighter than the \"House\" beer that was served in Cologne 200 years ago - the city that made Kolsch famous. We hope you'll enjoy it!",
+      "abv": "5",
+      "ibu": "20",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 45,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/BvyaM6/upload_1v0LIY-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/BvyaM6/upload_1v0LIY-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/BvyaM6/upload_1v0LIY-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/BvyaM6/upload_1v0LIY-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/BvyaM6/upload_1v0LIY-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/BvyaM6/upload_1v0LIY-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 04:12:44",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 45,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Kölsch / Köln-Style Kölsch",
+        "shortName": "Kölsch",
+        "description": "Kölsch is warm fermented and aged at cold temperatures (German ale or alt-style beer). Kölsch is characterized by a golden to straw color and a slightly dry, subtly sweet softness on the palate, yet crisp. Good, dense head retention is desirable. Light pearapple-Riesling wine-like fruitiness may be apparent, but is not necessary for this style. Caramel character should not be evident. The body is light to medium-light. This beer has low hop flavor and aroma with medium bitterness. Wheat can be used in brewing this beer. Ale yeast is used for fermentation, though lager yeast is sometimes used in the bottle or final cold conditioning process. Fruity esters should be minimally perceived, if at all. Chill haze should be absent.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "4.8",
+        "abvMax": "5.3",
+        "srmMin": "4",
+        "srmMax": "6",
+        "ogMin": "1.042",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:04"
+      }
+    },
+    {
+      "id": "3rx8ai",
+      "name": "Saranac Legacy IPA",
+      "nameDisplay": "Saranac Legacy IPA",
+      "description": "Our founder passed down his legacy of great beer. Inspired by his recipe, this heavenly IPA’s aroma and depth of flavor is our gift to you.",
+      "abv": "6.5",
+      "ibu": "60",
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/3rx8ai/upload_orak4K-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/3rx8ai/upload_orak4K-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/3rx8ai/upload_orak4K-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/3rx8ai/upload_orak4K-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/3rx8ai/upload_orak4K-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/3rx8ai/upload_orak4K-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-02-19 11:38:53",
+      "updateDate": "2017-08-31 06:23:56",
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "oTFx0m",
+      "name": "Saranac Long John Lager",
+      "nameDisplay": "Saranac Long John Lager",
+      "abv": "5.5",
+      "styleId": 83,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/oTFx0m/upload_8Jc9lm-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/oTFx0m/upload_8Jc9lm-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/oTFx0m/upload_8Jc9lm-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/oTFx0m/upload_8Jc9lm-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/oTFx0m/upload_8Jc9lm-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/oTFx0m/upload_8Jc9lm-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-17 17:52:30",
+      "updateDate": "2015-12-17 19:10:07",
+      "style": {
+        "id": 83,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "European-Style Dark / Münchner Dunkel",
+        "shortName": "Euro Dark",
+        "description": "These light brown to dark brown beers have a pronounced malty aroma and flavor that dominates over the clean, crisp, moderate hop bitterness. This beer does not offer an overly sweet impression, but rather a mild balance between malt sweetness, hop bitterness and light to moderate mouthfeel. A classic Münchner Dunkel should have chocolate-like, roast malt, bread-like or biscuit-like aroma that comes from the use of Munich dark malt. Chocolate or roast malts can be used, but the percentage used should be minimal. Noble-type hop flavor and aroma should be low but perceptible. Diacetyl should not be perceived. Ale-like fruity esters and chill haze should not be perceived.",
+        "ibuMin": "16",
+        "ibuMax": "25",
+        "abvMin": "4.5",
+        "abvMax": "5",
+        "srmMin": "15",
+        "srmMax": "20",
+        "ogMin": "1.048",
+        "fgMin": "1.014",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:37:08"
+      }
+    },
+    {
+      "id": "zQvU1t",
+      "name": "Saranac Marzenbier",
+      "nameDisplay": "Saranac Marzenbier",
+      "description": "Bigger..Richer...Smoother, are all ways to describe a Marzenbier. Look for a toasted malt character balanced with slight hop bitterness. Marzenbiers are traditionally aged for months and unveiled to great celebration.",
+      "abv": "5.6",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zQvU1t/upload_nRsTTo-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zQvU1t/upload_nRsTTo-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zQvU1t/upload_nRsTTo-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/zQvU1t/upload_nRsTTo-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/zQvU1t/upload_nRsTTo-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/zQvU1t/upload_nRsTTo-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 04:32:08",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "E4N6Kl",
+      "name": "Saranac Mocha Stout",
+      "nameDisplay": "Saranac Mocha Stout",
+      "description": "Combines the rich roasted flavor of our traditional stout with a deep, robust mocha. Look for a full-bodied taste with a crescendo of complex flavor notes.",
+      "abv": "5",
+      "glasswareId": 5,
+      "srmId": 41,
+      "availableId": 4,
+      "styleId": 42,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/E4N6Kl/upload_dhhgO9-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/E4N6Kl/upload_dhhgO9-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/E4N6Kl/upload_dhhgO9-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/E4N6Kl/upload_dhhgO9-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/E4N6Kl/upload_dhhgO9-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/E4N6Kl/upload_dhhgO9-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 04:05:42",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 41,
+        "name": "Over 40",
+        "hex": "000000"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 42,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Stout",
+        "shortName": "American Stout",
+        "description": "Initial low to medium malt sweetness with a degree of caramel, chocolate and/or roasted coffee flavor with a distinctive dryroasted bitterness in the finish. Coffee-like roasted barley and roasted malt aromas are prominent. Some slight roasted malt acidity is permissible and a medium- to full-bodied mouthfeel is appropriate. Hop bitterness may be moderate to high. Hop aroma and flavor is moderate to high, often with American citrus-type and/or resiny hop character. The perception of fruity esters is low. Roasted malt/barley astringency may be low but not excessive. Diacetyl (butterscotch) should be negligible or not perceived. Head retention is excellent.",
+        "ibuMin": "35",
+        "ibuMax": "60",
+        "abvMin": "5.7",
+        "abvMax": "8.8",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.05",
+        "fgMin": "1.01",
+        "fgMax": "1.022",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:43"
+      }
+    },
+    {
+      "id": "51XWn4",
+      "name": "Saranac Mountain Ale",
+      "nameDisplay": "Saranac Mountain Ale",
+      "description": "This Delicious Fruity ale is brewed with blackberries, raspberries and sweetened with a touch of blueberry honey. Light and refreshing.With a reddish-Amber color, be sure to look for the ale bitter and berry sweetness. Enjoy!",
+      "abv": "5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 119,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/51XWn4/upload_ywLXSL-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/51XWn4/upload_ywLXSL-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/51XWn4/upload_ywLXSL-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/51XWn4/upload_ywLXSL-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/51XWn4/upload_ywLXSL-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/51XWn4/upload_ywLXSL-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:51:55",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 119,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Fruit Beer",
+        "shortName": "Fruit Beer",
+        "description": "Fruit beers are any beers using fruit or fruit extracts as an adjunct in either, the mash, kettle, primary or secondary fermentation providing obvious (ranging from subtle to intense), yet harmonious, fruit qualities. Fruit qualities should not be overpowered by hop character. If a fruit (such as juniper berry) has an herbal or spice quality, it is more appropriate to consider it in the herb and spice beers category. Acidic bacterial (not wild yeast) fermentation characters may be evident (but not necessary) they would contribute to acidity and enhance fruity balance. Clear or hazy beer is acceptable in appearance. A statement by the brewer explaining what fruits are used is essential in order for fair assessment in competitions. If this beer is a classic style with fruit, the brewer should also specify the classic style.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:21"
+      }
+    },
+    {
+      "id": "bkeIBK",
+      "name": "Saranac Nut Brown Ale",
+      "nameDisplay": "Saranac Nut Brown Ale",
+      "description": "Saranac Nut Brown Ale's soft mellow malt character is rich and smooth with a medium body. Look for hints of toasted malt flavor, slight hop bitterness and amber brown color.",
+      "abv": "5.4",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 37,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/bkeIBK/upload_Mdo4pO-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/bkeIBK/upload_Mdo4pO-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/bkeIBK/upload_Mdo4pO-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/bkeIBK/upload_Mdo4pO-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/bkeIBK/upload_Mdo4pO-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/bkeIBK/upload_Mdo4pO-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:52:27",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 37,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Brown Ale",
+        "shortName": "American Brown",
+        "description": "American brown ales range from deep copper to brown in color. Roasted malt caramel-like and chocolate-like characters should be of medium intensity in both flavor and aroma. American brown ales have evident low to medium hop flavor and aroma, medium to high hop bitterness, and a medium body. Estery and fruity-ester characters should be subdued. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "25",
+        "ibuMax": "45",
+        "abvMin": "4",
+        "abvMax": "6.4",
+        "srmMin": "15",
+        "srmMax": "26",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:35"
+      }
+    },
+    {
+      "id": "knTrj1",
+      "name": "Saranac Oatmeal Stout",
+      "nameDisplay": "Saranac Oatmeal Stout",
+      "description": "Saranac Oatmeal Stout is brewed with a delicate balance of the finest grown oats, selected hops, and our traditional ale yeast. Look for a sweet, dark chocolate and roasted taste.",
+      "abv": "4.3",
+      "glasswareId": 5,
+      "srmId": 41,
+      "availableId": 4,
+      "styleId": 21,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/knTrj1/upload_F8daaM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/knTrj1/upload_F8daaM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/knTrj1/upload_F8daaM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/knTrj1/upload_F8daaM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/knTrj1/upload_F8daaM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/knTrj1/upload_F8daaM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:45:28",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 41,
+        "name": "Over 40",
+        "hex": "000000"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 21,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Oatmeal Stout",
+        "shortName": "Oatmeal Stout",
+        "description": "Oatmeal stouts include oatmeal in their grist, resulting in a pleasant, full flavor and a smooth profile that is rich without being grainy. A roasted malt character which is caramel-like and chocolate-like should be evident - smooth and not bitter. Coffee-like roasted barley and roasted malt aromas (chocolate and nut-like) are prominent. Color is dark brown to black. Bitterness is moderate, not high. Hop flavor and aroma are optional but should not overpower the overall balance if present. This is a medium- to full- bodied beer, with minimal fruity esters. Diacetyl should be absent or at extremely low levels. Original gravity range and alcohol levels are indicative of English tradition of oatmeal stout.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "3.8",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "20",
+        "ogMin": "1.038",
+        "fgMin": "1.008",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:22:53"
+      }
+    },
+    {
+      "id": "fCroxq",
+      "name": "Saranac Octoberfest",
+      "nameDisplay": "Saranac Octoberfest",
+      "description": "Saranac Octoberfest is a med-bodied, copper colored lager. It's rich, malty taste is subtly balanced by Saaz and Tettnang hops. The beer is aged slowly in the tradition of the Octoberfest beers of Munich.",
+      "abv": "5.4",
+      "ibu": "20",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 81,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/fCroxq/upload_4WXOV4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/fCroxq/upload_4WXOV4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/fCroxq/upload_4WXOV4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/fCroxq/upload_4WXOV4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/fCroxq/upload_4WXOV4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/fCroxq/upload_4WXOV4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2017-08-30 20:28:16",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 81,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Märzen",
+        "shortName": "Märzen",
+        "description": "Märzens are characterized by a medium body and broad range of color. They can range from golden to reddish orange. Sweet maltiness should dominate slightly over a clean hop bitterness. Malt character should be light-toasted rather than strongly caramel (though a low level of light caramel character is acceptable). Bread or biscuit-like malt character is acceptable in aroma and flavor. Hop aroma and flavor should be low but notable. Ale-like fruity esters should not be perceived. Diacetyl and chill haze should not be perceived.",
+        "ibuMin": "18",
+        "ibuMax": "25",
+        "abvMin": "5.3",
+        "abvMax": "5.9",
+        "srmMin": "4",
+        "srmMax": "15",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:36:50"
+      }
+    },
+    {
+      "id": "rhuvI3",
+      "name": "Saranac Pale Ale",
+      "nameDisplay": "Saranac Pale Ale",
+      "description": "A beer that would make the English jealous! This true English Pale Ale is rich and fruity, yet finishes crisp. You'll love the copper amber color and medium body.",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/rhuvI3/upload_inhO0L-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/rhuvI3/upload_inhO0L-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/rhuvI3/upload_inhO0L-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/rhuvI3/upload_inhO0L-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/rhuvI3/upload_inhO0L-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/rhuvI3/upload_inhO0L-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 04:00:32",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "ZcFmCf",
+      "name": "Saranac Pomegranate Wheat",
+      "nameDisplay": "Saranac Pomegranate Wheat",
+      "description": "This wholesome combination of unfiltered wheat beer and real pomegranate juice makes a smooth refreshing beer with all the goodness of pomegranate. Look for a light body with a slight tart finish and golden straw color.",
+      "abv": "4.7",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 119,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ZcFmCf/upload_t0V4iE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ZcFmCf/upload_t0V4iE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ZcFmCf/upload_t0V4iE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ZcFmCf/upload_t0V4iE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ZcFmCf/upload_t0V4iE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ZcFmCf/upload_t0V4iE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:59",
+      "updateDate": "2015-12-16 03:57:40",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 119,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Fruit Beer",
+        "shortName": "Fruit Beer",
+        "description": "Fruit beers are any beers using fruit or fruit extracts as an adjunct in either, the mash, kettle, primary or secondary fermentation providing obvious (ranging from subtle to intense), yet harmonious, fruit qualities. Fruit qualities should not be overpowered by hop character. If a fruit (such as juniper berry) has an herbal or spice quality, it is more appropriate to consider it in the herb and spice beers category. Acidic bacterial (not wild yeast) fermentation characters may be evident (but not necessary) they would contribute to acidity and enhance fruity balance. Clear or hazy beer is acceptable in appearance. A statement by the brewer explaining what fruits are used is essential in order for fair assessment in competitions. If this beer is a classic style with fruit, the brewer should also specify the classic style.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:21"
+      }
+    },
+    {
+      "id": "HWad7H",
+      "name": "Saranac Pumpkin Ale",
+      "nameDisplay": "Saranac Pumpkin Ale",
+      "description": "Saranac Pumpkin Ale is brewed with Pumpkin, Cinnamon, Allspice, Cloves, Ginger and Vanilla. Look for a full-body and amber color. We're sure you'll enjoy this special brew!",
+      "abv": "5.4",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 124,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HWad7H/upload_47l4fy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HWad7H/upload_47l4fy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HWad7H/upload_47l4fy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HWad7H/upload_47l4fy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HWad7H/upload_47l4fy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HWad7H/upload_47l4fy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2017-08-30 21:19:18",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 124,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Herb and Spice Beer",
+        "shortName": "Spice Beer",
+        "description": "Herb beers use herbs or spices (derived from roots, seeds, fruits, vegetable, flowers, etc.) other than or in addition to hops to create a distinct (ranging from subtle to intense) character, though individual characters of herbs and/or spices used may not always be identifiable. Under hopping often, but not always, allows the spice or herb to contribute to the flavor profile. Positive evaluations are significantly based on perceived balance of flavors. Note: Chili-flavored beers that emphasize heat rather than chili flavor should be entered as a \"spiced\" beer.  A statement by the brewer explaining what herbs or spices are used is essential in order for fair assessment in competitions. Specifying a style upon which the beer is based may help evaluation. If this beer is a classic style with an herb or spice, the brewer should specify the classic style. If no Chocolate or Coffee category exists in a competition, then chocolate and coffee beers should be entered in this category.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:45"
+      }
+    },
+    {
+      "id": "vyhxFN",
+      "name": "Saranac Rachbier",
+      "nameDisplay": "Saranac Rachbier",
+      "description": "This malty German style lager is brewed with Bamberg smoked malt using only the best German hops and traditional lager yeast. Look for a smooth malty flavor with a hint of smoke in the finish.",
+      "abv": "5.6",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 54,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/vyhxFN/upload_v6Q3Gd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/vyhxFN/upload_v6Q3Gd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/vyhxFN/upload_v6Q3Gd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/vyhxFN/upload_v6Q3Gd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/vyhxFN/upload_v6Q3Gd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/vyhxFN/upload_v6Q3Gd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 04:06:11",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 54,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+        "shortName": "Rauchbier",
+        "description": "Bamberg-style Weiss Rauchbier should have smoky characters that range from detectable to prevalent in the aroma and flavor. Smoke character is not harshly phenolic, but rather very smooth, almost rendering a perception of mild sweetness to this style of beer. The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated and a medium- to full-bodied beer. The color is very pale to very dark amber. Darker (dunkel) styles should have a detectable degree of roast malt in the balance without being robust in overall character. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "18",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:30:29"
+      }
+    },
+    {
+      "id": "qHryNa",
+      "name": "Saranac Red IPA",
+      "nameDisplay": "Saranac Red IPA",
+      "description": "Our Red IPA is a twist on a traditional west coast IPA featuring a deep red color from European dark caramel malts. We brew with generous amounts of American hops including Calypso, Palisade and Chinook to give this IPA a distinctive hop aroma. You'll notice a strong hoppy flavor with caramel malt undertones and a unique color that gives this IPA a whole new personality!",
+      "abv": "6",
+      "ibu": "63",
+      "glasswareId": 6,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qHryNa/upload_E21jDu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qHryNa/upload_E21jDu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qHryNa/upload_E21jDu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qHryNa/upload_E21jDu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qHryNa/upload_E21jDu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qHryNa/upload_E21jDu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Pad Thai, curry dishes, spiced rice pudding, blue cheeses",
+      "createDate": "2013-04-01 21:52:25",
+      "updateDate": "2015-12-17 00:15:11",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "N7CfsS",
+      "name": "Saranac Roggen Bock",
+      "nameDisplay": "Saranac Roggen Bock",
+      "description": "Brewed in the tradition of great German Bock beers with only German malts and hops, using 20% rye, malt to give it a distinctive spicy, yet smooth character. You'll love the rich flavors and deep red color of this unique German Brew.",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 88,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/N7CfsS/upload_FfY6ZK-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/N7CfsS/upload_FfY6ZK-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/N7CfsS/upload_FfY6ZK-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/N7CfsS/upload_FfY6ZK-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/N7CfsS/upload_FfY6ZK-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/N7CfsS/upload_FfY6ZK-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:06",
+      "updateDate": "2015-12-16 03:59:13",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 88,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Traditional German-Style Bock",
+        "shortName": "Bock",
+        "description": "Traditional bocks are made with all malt and are strong, malty, medium- to full-bodied, bottom-fermented beers with moderate hop bitterness that should increase proportionately with the starting gravity. Malt character should be a balance of sweetness and toasted/nut-like malt; not caramel. Hop flavor should be low and hop aroma should be very low. Bocks can range in color from deep copper to dark brown. Fruity esters should be minimal. Diacetyl should be absent.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "20",
+        "srmMax": "30",
+        "ogMin": "1.066",
+        "fgMin": "1.018",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:38:54"
+      }
+    },
+    {
+      "id": "jGHyZk",
+      "name": "Saranac Rye IPA",
+      "nameDisplay": "Saranac Rye IPA",
+      "description": "An IPA with a wry twist, Saranac Rye IPA is an aggressively hopped brew, sure to take your taste buds on an adventure.  We've stepped away from the mold of typical IPAs and selected premium rye malt and a unique mix of spicy hops.  Look for a crisp, brazen finish.",
+      "abv": "5.95",
+      "availableId": 4,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/jGHyZk/upload_sq5LJX-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/jGHyZk/upload_sq5LJX-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/jGHyZk/upload_sq5LJX-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/jGHyZk/upload_sq5LJX-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/jGHyZk/upload_sq5LJX-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/jGHyZk/upload_sq5LJX-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-21 01:42:48",
+      "updateDate": "2015-12-16 16:12:59",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "PFbBr7",
+      "name": "Saranac Scotch Ale",
+      "nameDisplay": "Saranac Scotch Ale",
+      "description": "This Scotch Ale is a full-bodied, malty sweet ale. True to Scottish brewing tradition, this malty flavor and deep copper brown color are a result of Scottish two row malt and roasted barley.",
+      "abv": "6",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 14,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/PFbBr7/upload_rpv5nA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/PFbBr7/upload_rpv5nA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/PFbBr7/upload_rpv5nA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/PFbBr7/upload_rpv5nA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/PFbBr7/upload_rpv5nA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/PFbBr7/upload_rpv5nA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:53:23",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 14,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Strong Ale",
+        "shortName": "Strong Ale",
+        "description": "Light amber to mid-range brown in color, strong ales are medium to full bodied with a malty sweetness and may have low levels of roast malt character. Hop aroma should be minimal and flavor can vary from none to medium in character intensity. Fruity-ester flavors and aromas can contribute to the character of this ale. Bitterness should be minimal but evident and balanced with malt and/or caramel-like sweetness. Alcohol types can be varied and complex. A rich, often sweet and complex estery character may be evident. Very low levels of diacetyl are acceptable. Chill haze is acceptable at low temperatures. (This style may often be split into two categories, strong and very strong.)",
+        "ibuMin": "30",
+        "ibuMax": "65",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "8",
+        "srmMax": "21",
+        "ogMin": "1.06",
+        "fgMin": "1.014",
+        "fgMax": "1.04",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:05"
+      }
+    },
+    {
+      "id": "tqJRGi",
+      "name": "Saranac Season's Best",
+      "nameDisplay": "Saranac Season's Best",
+      "description": "Brewed with a special blend of domestic and Belgian malts for a delicate nut-like character, you'll love this Lager's rich taste and signature hop aroma. The exceptional full-bodied taste reflects our Brewery's extraordinary commitment to brewing beers of the highest standard of quality.",
+      "abv": "5.3",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 97,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/tqJRGi/upload_FYOc1x-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/tqJRGi/upload_FYOc1x-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/tqJRGi/upload_FYOc1x-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/tqJRGi/upload_FYOc1x-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/tqJRGi/upload_FYOc1x-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/tqJRGi/upload_FYOc1x-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2017-08-30 21:34:58",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 97,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Premium Lager",
+        "shortName": "American Premium Lager",
+        "description": "This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as \"premium\" (based on price) may not fit this definition.",
+        "ibuMin": "6",
+        "ibuMax": "15",
+        "abvMin": "4.3",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "6",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:04"
+      }
+    },
+    {
+      "id": "FucA7W",
+      "name": "Saranac Session Ale",
+      "nameDisplay": "Saranac Session Ale",
+      "styleId": 108,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/FucA7W/upload_dFSsUS-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/FucA7W/upload_dFSsUS-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/FucA7W/upload_dFSsUS-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/FucA7W/upload_dFSsUS-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/FucA7W/upload_dFSsUS-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/FucA7W/upload_dFSsUS-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-04-17 13:51:52",
+      "updateDate": "2015-12-17 03:11:30",
+      "style": {
+        "id": 108,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Session Beer",
+        "shortName": "Session",
+        "description": "Any style of beer can be made lower in strength than described in the classic style guidelines. The goal should be to reach a balance between the style's character and the lower alcohol content. Drinkability is a character in the overall balance of these beers. Beers in this category must not exceed 4.1% alcohol by weight (5.1% alcohol by volume).",
+        "ibuMin": "10",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "5.1",
+        "srmMin": "2",
+        "srmMax": "2",
+        "ogMin": "1.034",
+        "fgMin": "1.004",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:20"
+      }
+    },
+    {
+      "id": "qO5uUC",
+      "name": "Saranac Single Malt",
+      "nameDisplay": "Saranac Single Malt",
+      "description": "We use 100% Scottish Maris Otter Malt. Traditionally used in the distilling industry. The combination of the Scottish Malt and slow aging process produces a unique brew as distinctive as single malt whiskey with a flavor than any other beer.",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 14,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qO5uUC/upload_XZGqc3-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qO5uUC/upload_XZGqc3-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qO5uUC/upload_XZGqc3-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qO5uUC/upload_XZGqc3-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qO5uUC/upload_XZGqc3-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qO5uUC/upload_XZGqc3-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 04:03:46",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 14,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Strong Ale",
+        "shortName": "Strong Ale",
+        "description": "Light amber to mid-range brown in color, strong ales are medium to full bodied with a malty sweetness and may have low levels of roast malt character. Hop aroma should be minimal and flavor can vary from none to medium in character intensity. Fruity-ester flavors and aromas can contribute to the character of this ale. Bitterness should be minimal but evident and balanced with malt and/or caramel-like sweetness. Alcohol types can be varied and complex. A rich, often sweet and complex estery character may be evident. Very low levels of diacetyl are acceptable. Chill haze is acceptable at low temperatures. (This style may often be split into two categories, strong and very strong.)",
+        "ibuMin": "30",
+        "ibuMax": "65",
+        "abvMin": "7",
+        "abvMax": "11",
+        "srmMin": "8",
+        "srmMax": "21",
+        "ogMin": "1.06",
+        "fgMin": "1.014",
+        "fgMax": "1.04",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:05"
+      }
+    },
+    {
+      "id": "QZQCey",
+      "name": "Saranac Summer Ale",
+      "nameDisplay": "Saranac Summer Ale",
+      "description": "ith more than 2,800 bodies of water in the Adirondacks, it's not too hard to find a sunny place to relax, rest your feet and look out over the water. To celebrate summer in the Adirondacks, we've brewed a beer with generous amounts of wheat malt for a light, refreshing taste. Look for subtle hints of lemon.",
+      "abv": "4.7",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/QZQCey/upload_7mGoDd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/QZQCey/upload_7mGoDd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/QZQCey/upload_7mGoDd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/QZQCey/upload_7mGoDd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/QZQCey/upload_7mGoDd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/QZQCey/upload_7mGoDd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:49:01",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "zQNqDL",
+      "name": "Saranac S’More Porter",
+      "nameDisplay": "Saranac S’More Porter",
+      "description": "This Porter has flavors of chocolate, marshmallow, and graham cracker. It's brewed with a blend of caramel, Biscuit, Brown, and roasted malts and aged with chocolate and vanilla.\r\n\r\nBeer Story:\r\nInspired by the campfire treat itself this beer combines the best of both worlds; S'mores and beer. it's so good you'll be begging for S'more",
+      "abv": "6.2",
+      "ibu": "22",
+      "styleId": 18,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zQNqDL/upload_6G7Fpo-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zQNqDL/upload_6G7Fpo-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zQNqDL/upload_6G7Fpo-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/zQNqDL/upload_6G7Fpo-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/zQNqDL/upload_6G7Fpo-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/zQNqDL/upload_6G7Fpo-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-05 22:15:58",
+      "updateDate": "2016-02-02 17:59:18",
+      "style": {
+        "id": 18,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Brown Porter",
+        "shortName": "Brown Porter",
+        "description": "Brown porters are mid to dark brown (may have red tint) in color. No roast barley or strong burnt/black malt character should be perceived. Low to medium malt sweetness, caramel and chocolate is acceptable along with medium hop bitterness. This is a lightto medium-bodied beer. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "35",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:43"
+      }
+    },
+    {
+      "id": "xIWy3E",
+      "name": "Saranac Traditional Lager",
+      "nameDisplay": "Saranac Traditional Lager",
+      "description": "A simple well-made Classic American Lager brewed with only choice ingredients. It is extremely mellow refreshingly smooth, glass after glass.",
+      "abv": "4.8",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 97,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/xIWy3E/upload_SNNwo4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/xIWy3E/upload_SNNwo4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/xIWy3E/upload_SNNwo4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/xIWy3E/upload_SNNwo4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/xIWy3E/upload_SNNwo4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/xIWy3E/upload_SNNwo4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:44:10",
+      "updateDate": "2015-12-16 03:32:01",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 97,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Premium Lager",
+        "shortName": "American Premium Lager",
+        "description": "This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as \"premium\" (based on price) may not fit this definition.",
+        "ibuMin": "6",
+        "ibuMax": "15",
+        "abvMin": "4.3",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "6",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:04"
+      }
+    },
+    {
+      "id": "miVVMG",
+      "name": "Saranac White IPA",
+      "nameDisplay": "Saranac White IPA",
+      "description": "Saranac White IPA is a tasty innovative twist on a traditional IPA.  We've taken a delicious American IPA bursting with Citra hops, and given it a whole new direction by adding the refreshing fruitiness of orange peel & coriander and the softening characters of wheat malt and oats.  You'll notice the complex hop flavor you've come to expect in an IPA, balanced with the extraordinary bright flavor of a wheat beer.  Cheers to twisting tradition!",
+      "abv": "6",
+      "ibu": "50",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/miVVMG/upload_vS8lSI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/miVVMG/upload_vS8lSI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/miVVMG/upload_vS8lSI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/miVVMG/upload_vS8lSI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/miVVMG/upload_vS8lSI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/miVVMG/upload_vS8lSI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-21 01:36:58",
+      "updateDate": "2015-12-16 15:27:39",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    }
+  ],
+  "status": "success"
+}

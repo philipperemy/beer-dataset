@@ -1,0 +1,2689 @@
+{
+  "currentPage": 395,
+  "numberOfPages": 603,
+  "totalResults": 30128,
+  "data": [
+    {
+      "id": "iwiRoK",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Omission Pale Ale is a hoppy and easy-drinking American Pale Ale. Brewed to showcase the Cascade hop profile, Omission Pale Ale's floral aroma is complemented by a caramel malt body, making for a delicious craft beer.",
+      "abv": "5.8",
+      "ibu": "34",
+      "glasswareId": 5,
+      "srmId": 13,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/iwiRoK/upload_gxZXm6-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/iwiRoK/upload_gxZXm6-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/iwiRoK/upload_gxZXm6-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/iwiRoK/upload_gxZXm6-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/iwiRoK/upload_gxZXm6-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/iwiRoK/upload_gxZXm6-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.055",
+      "createDate": "2013-02-24 16:45:07",
+      "updateDate": "2017-08-30 14:32:54",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 13,
+        "name": "13",
+        "hex": "CB6200"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "sYdp0k",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/sYdp0k/upload_FudzQC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/sYdp0k/upload_FudzQC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/sYdp0k/upload_FudzQC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/sYdp0k/upload_FudzQC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/sYdp0k/upload_FudzQC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/sYdp0k/upload_FudzQC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-15 21:40:38",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "IS4ozq",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Possibly the most All-American brew in our lineup – Pale Ale might not traditionally complement apple pie, but it definitely goes well with a good old hot dog – particularly during a sports game. We refer to it as an all-seasons, all-people ale. Top-fermented and hopped at four different stages throughout the brewing process, this ale has a light-golden color that explodes with a rich, full-flavor. English pale malt lends complexity while small amounts of wheat and Carapils round out the malt bill. Brewed to satisfy hop lovers, it has an immediate floral-citrus flavor that pervades the overall character of this quenching microbrew.",
+      "abv": "5",
+      "ibu": "36",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/IS4ozq/upload_OEG3D8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/IS4ozq/upload_OEG3D8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/IS4ozq/upload_OEG3D8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/IS4ozq/upload_OEG3D8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/IS4ozq/upload_OEG3D8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/IS4ozq/upload_OEG3D8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Pan Asian; earthy cheeses; salad",
+      "originalGravity": "1.052",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 08:13:06",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "iQIOpQ",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "A refreshing, blond colored pale ale. Bell's pale ale is made almost exclusively from pale malt. It expresses a spicy floral hop aroma and taste.",
+      "abv": "5.2",
+      "availableId": 3,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/iQIOpQ/upload_zlGGcP-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/iQIOpQ/upload_zlGGcP-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/iQIOpQ/upload_zlGGcP-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/iQIOpQ/upload_zlGGcP-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/iQIOpQ/upload_zlGGcP-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/iQIOpQ/upload_zlGGcP-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2018-11-02 02:13:07",
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "MHBoRW",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "glasswareId": 5,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/MHBoRW/upload_0dLimu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/MHBoRW/upload_0dLimu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/MHBoRW/upload_0dLimu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/MHBoRW/upload_0dLimu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/MHBoRW/upload_0dLimu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/MHBoRW/upload_0dLimu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-06 12:49:00",
+      "updateDate": "2015-12-16 15:03:56",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "18I8ip",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Pale Ale is brewed to be bright and crisp. We dry hop with Cascade and Meridian hops to provide a floral aroma with elements of citrus and pine.",
+      "abv": "5.8",
+      "ibu": "30",
+      "srmId": 4,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/18I8ip/upload_GN4U1D-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/18I8ip/upload_GN4U1D-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/18I8ip/upload_GN4U1D-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/18I8ip/upload_GN4U1D-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/18I8ip/upload_GN4U1D-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/18I8ip/upload_GN4U1D-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.055",
+      "createDate": "2016-07-08 20:26:34",
+      "updateDate": "2016-07-09 14:12:44",
+      "srm": {
+        "id": 4,
+        "name": "4",
+        "hex": "FFBF42"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "ucFl8v",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Malt Varieties - 2 Row Pale, Caramel 40\r\nHop Varieties - Goldings, Cascade, Fuggles\r\n\r\n2007 Gold Great American Beer Festival\r\n2006 Gold World Beer Cup\r\n2004 Gold World Beer Cup\r\n2003 Silver Great American Beer Festival",
+      "abv": "4.96",
+      "ibu": "33",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 10,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ucFl8v/upload_UaAOTe-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ucFl8v/upload_UaAOTe-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ucFl8v/upload_UaAOTe-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ucFl8v/upload_UaAOTe-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ucFl8v/upload_UaAOTe-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ucFl8v/upload_UaAOTe-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.054",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 13:41:53",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 10,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "English-Style Pale Mild Ale",
+        "shortName": "English Pale Mild",
+        "description": "English pale mild ales range from golden to amber in color. Malt flavor dominates the flavor profile with little hop bitterness or flavor. Hop aroma can be light. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "10",
+        "ibuMax": "20",
+        "abvMin": "3.2",
+        "abvMax": "4",
+        "srmMin": "8",
+        "srmMax": "17",
+        "ogMin": "1.03",
+        "fgMin": "1.004",
+        "fgMax": "1.008",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:20:35"
+      }
+    },
+    {
+      "id": "fKx31S",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/fKx31S/upload_FVI8D6-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/fKx31S/upload_FVI8D6-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/fKx31S/upload_FVI8D6-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/fKx31S/upload_FVI8D6-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/fKx31S/upload_FVI8D6-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/fKx31S/upload_FVI8D6-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-08-24 17:30:33",
+      "updateDate": "2015-12-17 05:17:42",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "XBw3Z9",
+      "name": "Pale ALe",
+      "nameDisplay": "Pale ALe",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/XBw3Z9/upload_azzyiX-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/XBw3Z9/upload_azzyiX-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/XBw3Z9/upload_azzyiX-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/XBw3Z9/upload_azzyiX-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/XBw3Z9/upload_azzyiX-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/XBw3Z9/upload_azzyiX-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-05-12 12:53:59",
+      "updateDate": "2015-12-17 12:38:21",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "hqioPz",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "glasswareId": 5,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/hqioPz/upload_LWrZTi-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/hqioPz/upload_LWrZTi-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/hqioPz/upload_LWrZTi-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/hqioPz/upload_LWrZTi-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/hqioPz/upload_LWrZTi-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/hqioPz/upload_LWrZTi-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-02-20 14:00:59",
+      "updateDate": "2015-12-17 10:47:21",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "Ck4ImC",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Formerly known as Telemark IPA. Our GABF Gold Medal Winner has a very characteristic copper color from a blend of lightly kilned malts coupled with distinctive bitterness and flavor from Washington state‘s finest hops. This brew is a true Representation of a British Classic! We've changed the classification from an IPA to a Pale Ale because of the evolving hop profiles. When this recipe was origianlly created in 1996, it was an IPA, but now fits better in the Pale Ale category. The name has changed, but it is still the same great beer.",
+      "abv": "5.6",
+      "ibu": "60",
+      "glasswareId": 5,
+      "srmId": 11,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Ck4ImC/upload_sYqkCv-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Ck4ImC/upload_sYqkCv-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Ck4ImC/upload_sYqkCv-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Ck4ImC/upload_sYqkCv-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Ck4ImC/upload_sYqkCv-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Ck4ImC/upload_sYqkCv-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.057",
+      "createDate": "2012-01-03 02:44:21",
+      "updateDate": "2015-12-16 07:49:10",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 11,
+        "name": "11",
+        "hex": "D77200"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "nyHGI0",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/nyHGI0/upload_M9z6DI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/nyHGI0/upload_M9z6DI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/nyHGI0/upload_M9z6DI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/nyHGI0/upload_M9z6DI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/nyHGI0/upload_M9z6DI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/nyHGI0/upload_M9z6DI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 12:58:04",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "OLuQri",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "abv": "6.1",
+      "ibu": "35",
+      "styleId": 73,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/OLuQri/upload_9Ti6yv-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/OLuQri/upload_9Ti6yv-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/OLuQri/upload_9Ti6yv-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-06-19 19:35:30",
+      "updateDate": "2018-06-19 20:14:25",
+      "style": {
+        "id": 73,
+        "categoryId": 6,
+        "category": {
+          "id": 6,
+          "name": "International Ale Styles",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "International-Style Pale Ale",
+        "shortName": "International Pale",
+        "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:35:08"
+      }
+    },
+    {
+      "id": "paERb9",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "abv": "6.2",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/paERb9/upload_T2Tm27-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/paERb9/upload_T2Tm27-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/paERb9/upload_T2Tm27-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/paERb9/upload_T2Tm27-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/paERb9/upload_T2Tm27-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/paERb9/upload_T2Tm27-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 11:11:40",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "slULEE",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "The beer that built the brewery.  Moosehead Pale Ale was our first beer good enough to be called Moosehead.  ‘Moose Red’ as it’s referred to in the Maritimes has a loyal following who appreciate its remarkably smooth, European-influenced taste.",
+      "abv": "5",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/slULEE/upload_kFTUUY-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/slULEE/upload_kFTUUY-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/slULEE/upload_kFTUUY-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/slULEE/upload_kFTUUY-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/slULEE/upload_kFTUUY-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/slULEE/upload_kFTUUY-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-03-21 17:21:16",
+      "updateDate": "2015-12-17 10:53:28",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "I3iiNw",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Pale Ale: Made from 100% organic malts and hops.\r\nCitrus (grapefruit & orange) and tropical fruits (mango, papaya & apricot) dominate the nose giving way to a light bready malt sweetness and light grassiness.\r\nMalt supports the moderate citrus and tropical flavors followed by a resinous and lingering bitterness and fresh hop flavor, balanced and not overwhelming. The finish is dry and bitter.\r\n\r\nVery smooth easy drinking 100% organic west coast American Pale Ale that pushes boundaries of the style.",
+      "abv": "6.5",
+      "ibu": "40",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/I3iiNw/upload_pQUnqp-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/I3iiNw/upload_pQUnqp-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/I3iiNw/upload_pQUnqp-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/I3iiNw/upload_pQUnqp-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/I3iiNw/upload_pQUnqp-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/I3iiNw/upload_pQUnqp-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-12-10 12:41:04",
+      "updateDate": "2015-12-17 07:31:37",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "Uv8vFN",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "An elegantly balanced ale which infuses English malts with American hops. Sweet, malty tones of biscuit are complemented by a piny dryness ushering in a plethora of floral and aromatic hop notes such as tropical fruit, spice, berry, and citrus.",
+      "abv": "5.7",
+      "ibu": "45",
+      "glasswareId": 8,
+      "availableId": 2,
+      "styleId": 10,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Uv8vFN/upload_Aq93qR-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Uv8vFN/upload_Aq93qR-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Uv8vFN/upload_Aq93qR-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Uv8vFN/upload_Aq93qR-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Uv8vFN/upload_Aq93qR-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Uv8vFN/upload_Aq93qR-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-12-08 14:15:32",
+      "updateDate": "2017-03-07 21:15:50",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 10,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "English-Style Pale Mild Ale",
+        "shortName": "English Pale Mild",
+        "description": "English pale mild ales range from golden to amber in color. Malt flavor dominates the flavor profile with little hop bitterness or flavor. Hop aroma can be light. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "10",
+        "ibuMax": "20",
+        "abvMin": "3.2",
+        "abvMax": "4",
+        "srmMin": "8",
+        "srmMax": "17",
+        "ogMin": "1.03",
+        "fgMin": "1.004",
+        "fgMax": "1.008",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:20:35"
+      }
+    },
+    {
+      "id": "VbeU3B",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/VbeU3B/upload_95UJuj-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/VbeU3B/upload_95UJuj-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/VbeU3B/upload_95UJuj-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/VbeU3B/upload_95UJuj-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/VbeU3B/upload_95UJuj-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/VbeU3B/upload_95UJuj-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-06-10 12:03:37",
+      "updateDate": "2015-12-17 15:13:25",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "HCYbHl",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Boulevard Pale Ale is a smooth, fruity, well-balanced beer with year-round appeal. A variety of caramel malts impart a rich flavor and amber color, while liberal use of whole hops adds zest and aroma. Pale Ale is the first beer we brewed, and continues to be a perennial favorite.",
+      "abv": "5.4",
+      "ibu": "30",
+      "glasswareId": 5,
+      "srmId": 23,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HCYbHl/upload_9YJPAY-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HCYbHl/upload_9YJPAY-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HCYbHl/upload_9YJPAY-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HCYbHl/upload_9YJPAY-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HCYbHl/upload_9YJPAY-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HCYbHl/upload_9YJPAY-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Aged cheddar cheese, Chicken wings, Fried foods, Gouda cheese, Hamburgers, Steak, Wild game",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2019-01-11 15:59:45",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 23,
+        "name": "23",
+        "hex": "882300"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "EnCS9f",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/EnCS9f/upload_QP23P0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/EnCS9f/upload_QP23P0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/EnCS9f/upload_QP23P0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/EnCS9f/upload_QP23P0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/EnCS9f/upload_QP23P0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/EnCS9f/upload_QP23P0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-01 10:50:53",
+      "updateDate": "2015-12-16 19:14:37",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "7x0KcZ",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "By the time we got through making changes to Spare Pair, we thought it deserved to have a new name. The malt profile shifted, Munich Malt compliments the large amount of Pale Ale Malt and the hint of 30 L Caramunich. This beer is very hop forward, with most added at the end of the boil including, chinook, centennial, and cascade. It gets exciting in the dry hop with Amarillo adding red grapefruit character. A hoppy but clean pale ale.",
+      "abv": "6",
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7x0KcZ/upload_CPD4n7-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7x0KcZ/upload_CPD4n7-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7x0KcZ/upload_CPD4n7-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7x0KcZ/upload_CPD4n7-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7x0KcZ/upload_CPD4n7-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7x0KcZ/upload_CPD4n7-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-06-03 18:58:31",
+      "updateDate": "2016-06-04 10:00:45",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "7Tjp4C",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Amber-colored, medium-bodied British-style ale with a smooth, mildly-hoppy character. Available year-round on draft and in bottles.",
+      "abv": "4.4",
+      "ibu": "27",
+      "glasswareId": 5,
+      "srmId": 11,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7Tjp4C/upload_MOpaqV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7Tjp4C/upload_MOpaqV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7Tjp4C/upload_MOpaqV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7Tjp4C/upload_MOpaqV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7Tjp4C/upload_MOpaqV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7Tjp4C/upload_MOpaqV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2017-12-01 19:26:10",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 11,
+        "name": "11",
+        "hex": "D77200"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "7CkuE9",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "styleId": 1,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7CkuE9/upload_SUGela-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7CkuE9/upload_SUGela-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7CkuE9/upload_SUGela-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7CkuE9/upload_SUGela-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7CkuE9/upload_SUGela-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7CkuE9/upload_SUGela-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-12-13 22:32:38",
+      "updateDate": "2015-12-17 19:14:30",
+      "style": {
+        "id": 1,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Classic English-Style Pale Ale",
+        "shortName": "English Pale",
+        "description": "Classic English pale ales are golden to copper colored and display earthy, herbal English-variety hop character. Note that \"earthy, herbal English-variety hop character\" is the perceived end, but may be a result of the skillful use of hops of other national origins. Medium to high hop bitterness, flavor, and aroma should be evident. This medium-bodied pale ale has low to medium malt flavor and aroma. Low caramel character is allowable. Fruity-ester flavors and aromas are moderate to strong. Chill haze may be in evidence only at very cold temperatures. The absence of diacetyl is desirable, though, diacetyl (butterscotch character) is acceptable and characteristic when at very low levels.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "5.5",
+        "srmMin": "5",
+        "srmMax": "5",
+        "ogMin": "1.04",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:18:23"
+      }
+    },
+    {
+      "id": "aTe8pt",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Copper coloured ale, similar to an English bitter, but in the style adapted by the craft-brewers of the U.S. west coast. Rich malt flavours combine with distinctive floral and fruity flavours (peach and grapefruit) from American cascade and centennial hops.",
+      "abv": "4.6",
+      "styleId": 1,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/aTe8pt/upload_tB2xva-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/aTe8pt/upload_tB2xva-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/aTe8pt/upload_tB2xva-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/aTe8pt/upload_tB2xva-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/aTe8pt/upload_tB2xva-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/aTe8pt/upload_tB2xva-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Spicy dishes, such as Gamberi piccante, Creole Mussels, and Sweet and Spicy Italian sausage pizza.",
+      "createDate": "2014-12-13 23:19:12",
+      "updateDate": "2015-12-17 19:10:04",
+      "style": {
+        "id": 1,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Classic English-Style Pale Ale",
+        "shortName": "English Pale",
+        "description": "Classic English pale ales are golden to copper colored and display earthy, herbal English-variety hop character. Note that \"earthy, herbal English-variety hop character\" is the perceived end, but may be a result of the skillful use of hops of other national origins. Medium to high hop bitterness, flavor, and aroma should be evident. This medium-bodied pale ale has low to medium malt flavor and aroma. Low caramel character is allowable. Fruity-ester flavors and aromas are moderate to strong. Chill haze may be in evidence only at very cold temperatures. The absence of diacetyl is desirable, though, diacetyl (butterscotch character) is acceptable and characteristic when at very low levels.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "5.5",
+        "srmMin": "5",
+        "srmMax": "5",
+        "ogMin": "1.04",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:18:23"
+      }
+    },
+    {
+      "id": "PFms0w",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "A multicultural fusion combining American and European styles. This ale, brewed with imported Belgian specialty malts supported by a traditional English floor malt backbone, is hopped with some of America’s most popular whole-cone hop varieties yielding a surprisingly refreshing and well-balanced pale ale.  Pronounced flavors of fruit, citrus, pine and grapefruit balance a caramelized toastiness from our unique malt combination appealing to both hop-heads and malt-lovers alike.  Expect a medium-bodied ale with a dry finish that will lend itself to easy drinking any time of year.",
+      "abv": "5.2",
+      "ibu": "40",
+      "glasswareId": 13,
+      "srmId": 9,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/PFms0w/upload_qjBT43-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/PFms0w/upload_qjBT43-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/PFms0w/upload_qjBT43-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/PFms0w/upload_qjBT43-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/PFms0w/upload_qjBT43-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/PFms0w/upload_qjBT43-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "originalGravity": "1.052",
+      "createDate": "2015-03-30 14:40:56",
+      "updateDate": "2018-12-12 13:40:41",
+      "glass": {
+        "id": 13,
+        "name": "Willi",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 9,
+        "name": "9",
+        "hex": "E58500"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "7qdHjM",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Light beer with a hint of pineapple and blossom.  A beer that is easy to fall in love with.",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7qdHjM/upload_nNIrdy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7qdHjM/upload_nNIrdy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7qdHjM/upload_nNIrdy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7qdHjM/upload_nNIrdy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7qdHjM/upload_nNIrdy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7qdHjM/upload_nNIrdy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 08:26:11",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "WjL0vJ",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Starr Hill Pale Ale is another award-winning, medium-bodied, year-round favorite. Creating a fresh spin on the English Pale Ale tradition, Master Brewer Mark Thompson uses liberal hopping and Munich malt to create a crisp, aromatic blend with a bit of bite. This brew has a higher alcohol content to balance its body and bitterness.",
+      "abv": "5.5",
+      "ibu": "43",
+      "glasswareId": 5,
+      "availableId": 3,
+      "styleId": 3,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/WjL0vJ/upload_k56i9p-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/WjL0vJ/upload_k56i9p-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/WjL0vJ/upload_k56i9p-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/WjL0vJ/upload_k56i9p-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/WjL0vJ/upload_k56i9p-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/WjL0vJ/upload_k56i9p-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 3,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Ordinary Bitter",
+        "shortName": "Bitter",
+        "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+        "ibuMin": "20",
+        "ibuMax": "35",
+        "abvMin": "3",
+        "abvMax": "4.1",
+        "srmMin": "5",
+        "srmMax": "12",
+        "ogMin": "1.033",
+        "fgMin": "1.006",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:18:39"
+      }
+    },
+    {
+      "id": "ACptQv",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "abv": "4.8",
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ACptQv/upload_GLU6Zo-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ACptQv/upload_GLU6Zo-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ACptQv/upload_GLU6Zo-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ACptQv/upload_GLU6Zo-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ACptQv/upload_GLU6Zo-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ACptQv/upload_GLU6Zo-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-29 17:33:14",
+      "updateDate": "2015-12-17 13:26:43",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "oRcuap",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "A new version of an American classic. Our Yazoo Pale Ale bursts with spicy, citrusy hop aroma and flavor, coming from the newly discovered Amarillo hop. The wonderful hop aroma is balanced nicely with a toasty malt body, ending with a cleansing hop finish. Made with English Pale, Munich, Vienna, and Crystal malts, and generously hopped with Amarillo, Perle, and Cascade hops. Fermented with our English ale yeast.",
+      "abv": "5.8",
+      "ibu": "47",
+      "glasswareId": 5,
+      "srmId": 6,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/oRcuap/upload_E5PXSr-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/oRcuap/upload_E5PXSr-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/oRcuap/upload_E5PXSr-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/oRcuap/upload_E5PXSr-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/oRcuap/upload_E5PXSr-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/oRcuap/upload_E5PXSr-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "The bracing bitterness of this beer can hold its own with spicy foods, while helping to cleanse the palate after rich, creamy dishes. The citrus hop flavors go exceptionally well with any dishes using cilantro, such as Mexican salsas.",
+      "originalGravity": "1.057",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2016-09-12 19:00:54",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 6,
+        "name": "6",
+        "hex": "F8A600"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "bX3AIr",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "One of the first beers I brewed after moving out to California to begin my brewing education was a Pale Ale. This version is a true testament to the influences the Wild West had on my early brewing. My Pale Ale is loaded with US-grown Cascade, Crystal, and Columbus hops, so be sure to take a good sniff to enjoy their robust aromas before taking your first sip.\r\n\r\nAn aromatic beer with notes of citrus, pine, a noticeable bitterness, and a touch of malty backbone to help balance it out.",
+      "abv": "5.6",
+      "ibu": "35",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/bX3AIr/upload_spPHCl-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/bX3AIr/upload_spPHCl-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/bX3AIr/upload_spPHCl-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/bX3AIr/upload_spPHCl-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/bX3AIr/upload_spPHCl-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/bX3AIr/upload_spPHCl-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 05:23:18",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "86c3gl",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/86c3gl/upload_exl4t6-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/86c3gl/upload_exl4t6-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/86c3gl/upload_exl4t6-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/86c3gl/upload_exl4t6-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/86c3gl/upload_exl4t6-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/86c3gl/upload_exl4t6-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 11:47:40",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "93fQvR",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Blue Mile Pale Ale is a crisp, sessionable, Australian style Pale Ale, with Light biscuity malt flavours and a tart lemon-lime hop profile.  HOPS: Cascade, Ella and Loral",
+      "abv": "4.8",
+      "ibu": "36",
+      "styleId": 74,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/93fQvR/upload_YRNtmN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/93fQvR/upload_YRNtmN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/93fQvR/upload_YRNtmN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/93fQvR/upload_YRNtmN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/93fQvR/upload_YRNtmN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/93fQvR/upload_YRNtmN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-09-12 15:27:43",
+      "updateDate": "2018-09-19 19:22:16",
+      "style": {
+        "id": 74,
+        "categoryId": 6,
+        "category": {
+          "id": 6,
+          "name": "International Ale Styles",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Australian-Style Pale Ale",
+        "shortName": "Austrailian Pale",
+        "description": "Australian-Style Pale Ales are light amber to light brown. Chill or hop haze may be evident. Hop aroma is often reminiscent of tropical fruit such as mango, passion fruit and other tropical fruit character. Intensity can be low to medium-high. Malt character has a perceived low to medium caramel-candy sweetness. Hop flavor is aligned with aroma; tropical fruit such as mango, passion fruit and other tropical fruit character. Intensity can be low to mediumhigh. Hop bitterness is low to medium. Fruity-ester aroma should be perceived. Diacetyl should be very low if present. DMS aroma should not be present. Body is low to medium.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.2",
+        "abvMax": "6.2",
+        "srmMin": "5",
+        "srmMax": "14",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:14:09"
+      }
+    },
+    {
+      "id": "xG9JyI",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "This classic American-style pale ale is light gold in color, malty, and smooth. Generous dry hopping contributes to its aromatic character and dry, balanced finish.",
+      "abv": "5.6",
+      "ibu": "44",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/xG9JyI/upload_5VtHeu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/xG9JyI/upload_5VtHeu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/xG9JyI/upload_5VtHeu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/xG9JyI/upload_5VtHeu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/xG9JyI/upload_5VtHeu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/xG9JyI/upload_5VtHeu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2018-09-20 20:22:18",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "ElDS4z",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "This Pale Ale is a wave of citrus hop aromatics atop a perfect combination of light amber malts.",
+      "abv": "6.3",
+      "ibu": "50",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ElDS4z/upload_NkS9gT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ElDS4z/upload_NkS9gT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ElDS4z/upload_NkS9gT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ElDS4z/upload_NkS9gT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ElDS4z/upload_NkS9gT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ElDS4z/upload_NkS9gT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-11-16 19:17:50",
+      "updateDate": "2017-11-16 19:18:20",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "6a4LlP",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "A slightly sweet Pale Ale dry hopped with Summit hops for a subtle tangerine finish.",
+      "abv": "6",
+      "ibu": "39",
+      "styleId": 93,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/6a4LlP/upload_S82xhC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/6a4LlP/upload_S82xhC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/6a4LlP/upload_S82xhC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/6a4LlP/upload_S82xhC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/6a4LlP/upload_S82xhC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/6a4LlP/upload_S82xhC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-04-17 18:58:34",
+      "updateDate": "2019-06-04 16:28:40",
+      "style": {
+        "id": 93,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Lager",
+        "shortName": "American Lager",
+        "description": "Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.",
+        "ibuMin": "5",
+        "ibuMax": "13",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:39:26"
+      }
+    },
+    {
+      "id": "uf7ByZ",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Pisgah Pale is a perfect blend of rich organic malts with whole-leaf Chinook and Nugget hops.  A crisp, clean profile makes this, our flagship beer, distinct.",
+      "abv": "6",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/uf7ByZ/upload_hAqvRs-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/uf7ByZ/upload_hAqvRs-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/uf7ByZ/upload_hAqvRs-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/uf7ByZ/upload_hAqvRs-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/uf7ByZ/upload_hAqvRs-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/uf7ByZ/upload_hAqvRs-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-08 17:38:59",
+      "updateDate": "2017-01-10 21:26:51",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "sfmlFY",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "A simple easy-drinking beer with a crisp hopping of Amarillo, El Dorado, and Cascade hops. A citrusy grapefruit hop aroma paired with a light malt body make this incredibly balanced and drinkable. 2012 GABF Gold Medal, 2014 World Beer Cup Silver Medal. A vibrant gold color, ABV 6%,  fluffy white head, and 60 IBUs",
+      "abv": "6",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/sfmlFY/upload_fF38Jc-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/sfmlFY/upload_fF38Jc-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/sfmlFY/upload_fF38Jc-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/sfmlFY/upload_fF38Jc-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/sfmlFY/upload_fF38Jc-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/sfmlFY/upload_fF38Jc-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 12:36:32",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "VMNkNX",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "The alpha of the pack, Flying Dog Pale Ale complements a wide range of foods. Flavor notes: Grassy, citrus, and slight perfume hop aromas with subtlety sweet malt body.",
+      "abv": "5.5",
+      "ibu": "35",
+      "glasswareId": 5,
+      "srmId": 9,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/VMNkNX/upload_zXQXNg-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/VMNkNX/upload_zXQXNg-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/VMNkNX/upload_zXQXNg-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/VMNkNX/upload_zXQXNg-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/VMNkNX/upload_zXQXNg-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/VMNkNX/upload_zXQXNg-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Cheddar cheese, burgers, barbeque, Thai, Mexican",
+      "createDate": "2014-08-27 16:38:57",
+      "updateDate": "2015-12-17 16:19:32",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 9,
+        "name": "9",
+        "hex": "E58500"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "XVHKnW",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "This beer is enjoyed by those who prefer both character and flavour to their beer. Our Black Oak Pale Ale is a cross between a traditional British Pale Ale and the modern American Pale Ale, and has been awarded several medals. This list includes winning The Canadian Brewing Awards Gold Medal for Pale Ale two years running, and the Best of Show at Fort York Beer Festival.  Our Pale Ale has also received excellent reviews in a number of magazines such as Wine Access and Food & Drink. We use premium Canadian two row malt, three select specialty imported malts and lots of hops. Craft brewed with hard work and lots of attention to detail for a consistent, prestige quality beer.",
+      "abv": "5",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/XVHKnW/upload_dSGfPf-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/XVHKnW/upload_dSGfPf-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/XVHKnW/upload_dSGfPf-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/XVHKnW/upload_dSGfPf-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/XVHKnW/upload_dSGfPf-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/XVHKnW/upload_dSGfPf-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-04-13 14:53:39",
+      "updateDate": "2018-05-01 12:09:50",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "FiE8y8",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "glasswareId": 5,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/FiE8y8/upload_tfWZFz-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/FiE8y8/upload_tfWZFz-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/FiE8y8/upload_tfWZFz-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/FiE8y8/upload_tfWZFz-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/FiE8y8/upload_tfWZFz-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/FiE8y8/upload_tfWZFz-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-16 11:45:20",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "bKPbvo",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "abv": "5",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/bKPbvo/upload_9QIPRd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/bKPbvo/upload_9QIPRd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/bKPbvo/upload_9QIPRd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/bKPbvo/upload_9QIPRd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/bKPbvo/upload_9QIPRd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/bKPbvo/upload_9QIPRd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-18 14:45:54",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "KoYFbg",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Tröegs Pale Ale is an American style Pale Ale that is aggressively hopped with Northwest Cascades and balanced with crystal malts to create a hoppy, copper-colored crisp ale. An excellent example of a classic American Pale Ale.\r\n\r\nTemp: 45-50° F",
+      "abv": "5.4",
+      "ibu": "45",
+      "glasswareId": 5,
+      "srmId": 12,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/KoYFbg/upload_ZeYorN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/KoYFbg/upload_ZeYorN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/KoYFbg/upload_ZeYorN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/KoYFbg/upload_ZeYorN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/KoYFbg/upload_ZeYorN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/KoYFbg/upload_ZeYorN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-15 23:33:34",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 12,
+        "name": "12",
+        "hex": "CF6900"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "cdkpyx",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Our most popular beer, Sierra Nevada Pale Ale, is a delightful interpretation of a classic style. It has a deep amber color and an exceptionally full-bodied, complex character. Generous quantities of premium Cascade hops give the Pale Ale its fragrant bouquet and spicy flavor.\r\n\r\n“Sierra Nevada Pale Ale is the flagship beer, the one that made Chico famous. It is a flawless beer that opens with bright, perky high notes of maltiness and orange blossom and segues into a delectable hoppiness.”",
+      "abv": "5.6",
+      "ibu": "37",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/cdkpyx/upload_GUIYRA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/cdkpyx/upload_GUIYRA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/cdkpyx/upload_GUIYRA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/cdkpyx/upload_GUIYRA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/cdkpyx/upload_GUIYRA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/cdkpyx/upload_GUIYRA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2016-09-12 18:59:57",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "k489mB",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "New Planet Beer’s Pale Ale – Formerly Off Grid Pale Ale - is reminiscent of a classic American Pale Ale, offering bold hop character and rich caramel and grapefruit notes with a clean yet distinctly hoppy finish.",
+      "abv": "5",
+      "ibu": "50",
+      "availableId": 1,
+      "styleId": 127,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/k489mB/upload_zthlSn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/k489mB/upload_zthlSn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/k489mB/upload_zthlSn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/k489mB/upload_zthlSn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/k489mB/upload_zthlSn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/k489mB/upload_zthlSn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "The hop bitterness contrasts with spicy, heat-charred, smoky, or aromatic flavors. Try:\r\n\r\nBlue cheese\r\n\r\nBarbeque\r\n\r\nSeafood\r\n\r\nAsian spiced dishes.",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2013-08-08 17:15:38",
+      "updateDate": "2015-12-17 04:46:04",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 127,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Gluten-Free Beer",
+        "shortName": "Gluten-Free Beer",
+        "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:45:08"
+      }
+    },
+    {
+      "id": "xiyc9B",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Falls City Beer is back! An old Louisville favorite has returned with a whole new recipe. Falls City Original Pale Ale is now available at dozens of local bars and restaurants. The new brew is made in the style of Falls City Pale Ale from the 1930’s. Falls City began as a craft beer in 1905, made in small batches with only the finest ingredients. As we start again, 105 years later, we are once again a craft beer with a commitment to quality and taste.",
+      "abv": "5",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/xiyc9B/upload_VeYrPa-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/xiyc9B/upload_VeYrPa-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/xiyc9B/upload_VeYrPa-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/xiyc9B/upload_VeYrPa-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/xiyc9B/upload_VeYrPa-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/xiyc9B/upload_VeYrPa-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-07-09 21:49:55",
+      "updateDate": "2016-08-23 19:35:15",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "lw2pM7",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/lw2pM7/upload_BCqiCr-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/lw2pM7/upload_BCqiCr-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/lw2pM7/upload_BCqiCr-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/lw2pM7/upload_BCqiCr-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/lw2pM7/upload_BCqiCr-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/lw2pM7/upload_BCqiCr-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-02-25 12:56:41",
+      "updateDate": "2015-12-17 21:24:04",
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "GDfKl0",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "A well hopped session beer, based upon our multiple award winning IPA. This pale beer packs plenty of flavour and is ideal for the summer.",
+      "abv": "3.6",
+      "availableId": 4,
+      "styleId": 2,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/GDfKl0/upload_pz7d7c-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/GDfKl0/upload_pz7d7c-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/GDfKl0/upload_pz7d7c-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/GDfKl0/upload_pz7d7c-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/GDfKl0/upload_pz7d7c-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/GDfKl0/upload_pz7d7c-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-05-29 21:34:18",
+      "updateDate": "2015-12-18 01:57:33",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 2,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "English-Style India Pale Ale",
+        "shortName": "English IPA",
+        "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+        "ibuMin": "35",
+        "ibuMax": "63",
+        "abvMin": "5",
+        "abvMax": "7",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.05",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:18:33"
+      }
+    },
+    {
+      "id": "cI0cz2",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "This is a very smooth ale, with a pale copper color. Well balanced with a pleasant malt character and dry hopped for a crisp hop finish.",
+      "abv": "5.5",
+      "ibu": "45",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/cI0cz2/upload_DvCS75-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/cI0cz2/upload_DvCS75-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/cI0cz2/upload_DvCS75-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/cI0cz2/upload_DvCS75-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/cI0cz2/upload_DvCS75-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/cI0cz2/upload_DvCS75-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "very_cold",
+      "servingTemperatureDisplay": "Very Cold - (0-4C/32-39F)",
+      "createDate": "2014-09-10 20:57:28",
+      "updateDate": "2015-12-17 17:51:21",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "Id2lZi",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "Tap Room No. 21 Pale Ale holds the code to unlocking the mystery of the 1920’s speakeasies. With its balanced flavor, this Pale Ale offers a true taste of American history. No secret handshakes or passwords needed to enjoy this fine ale. Just pop the top and celebrate the repeal of prohibition.\r\n\r\nA true Pale Ale. Balanced Cascade, Amarillo and Tomahawk hops create a citrusy aroma with a clean, crisp finish. The hops give way to a light malt flavor producing a traditional reddish amber hue.",
+      "abv": "5.3",
+      "ibu": "35",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Id2lZi/upload_5Y75Qz-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Id2lZi/upload_5Y75Qz-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Id2lZi/upload_5Y75Qz-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Id2lZi/upload_5Y75Qz-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Id2lZi/upload_5Y75Qz-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Id2lZi/upload_5Y75Qz-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-20 00:48:03",
+      "updateDate": "2015-12-16 15:42:54",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    },
+    {
+      "id": "jZrVLA",
+      "name": "Pale Ale",
+      "nameDisplay": "Pale Ale",
+      "description": "This highly hopped California style Pale Ale showcases the brewer's art of balancing malt and hop characteristics. A generous addition of Munich malts balances the bittering from Chinook hops, and Cascade hops round out the flavor profile.",
+      "abv": "5.2",
+      "availableId": 1,
+      "styleId": 25,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/jZrVLA/upload_DpdymM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/jZrVLA/upload_DpdymM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/jZrVLA/upload_DpdymM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/jZrVLA/upload_DpdymM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/jZrVLA/upload_DpdymM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/jZrVLA/upload_DpdymM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:54",
+      "updateDate": "2015-12-15 22:59:41",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 25,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Pale Ale",
+        "shortName": "American Pale",
+        "description": "American pale ales range from deep golden to copper in color. The style is characterized by fruity, floral and citrus-like American-variety hop character producing medium to medium-high hop bitterness, flavor, and aroma. Note that the \"traditional\" style of this beer has its origins with certain floral, fruity, citrus-like, piney, resinous, or sulfur-like American hop varietals. One or more of these hop characters is the perceived end, but the perceived hop characters may be a result of the skillful use of hops of other national origins. American pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "30",
+        "ibuMax": "42",
+        "abvMin": "4.5",
+        "abvMax": "5.6",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:25:18"
+      }
+    }
+  ],
+  "status": "success"
+}

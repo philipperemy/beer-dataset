@@ -1,0 +1,2653 @@
+{
+  "currentPage": 241,
+  "numberOfPages": 603,
+  "totalResults": 30121,
+  "data": [
+    {
+      "id": "yARgoO",
+      "name": "Hefeweissbier Dunkel",
+      "nameDisplay": "Hefeweissbier Dunkel",
+      "abv": "5.3",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 52,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/yARgoO/upload_fLU44t-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/yARgoO/upload_fLU44t-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/yARgoO/upload_fLU44t-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/yARgoO/upload_fLU44t-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/yARgoO/upload_fLU44t-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/yARgoO/upload_fLU44t-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-18 14:50:17",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 52,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+        "shortName": "Dunkelweizen",
+        "description": "This beer style is characterized by a distinct sweet maltiness and a chocolate-like character from roasted malt. Estery and phenolic elements of this Weissbier should be evident but subdued. Color can range from copper-brown to dark brown. Dunkel Weissbier is well attenuated and very highly carbonated, and hop bitterness is low. Hop flavor and aroma are absent. Usually dark barley malts are used in conjunction with dark cara or color malts, and the percentage of wheat malt is at least 50 percent. If this is served with yeast, the beer may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.8",
+        "abvMax": "5.4",
+        "srmMin": "10",
+        "srmMax": "19",
+        "ogMin": "1.048",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:30:09"
+      }
+    },
+    {
+      "id": "qD0Fme",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "This Old World-style Wheat Beer is crafted in authentic German tradition with ingredients that highlight the malt influences of Southern Bavaria. This refreshing ale is pale in color, with a pillowy mouthfeel that finishes bright and dry. Our Hefeweizen is distinctively German with prominent banana and clove flavors.",
+      "abv": "5.61",
+      "ibu": "14",
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qD0Fme/upload_6zpDtp-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qD0Fme/upload_6zpDtp-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qD0Fme/upload_6zpDtp-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qD0Fme/upload_6zpDtp-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qD0Fme/upload_6zpDtp-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qD0Fme/upload_6zpDtp-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-04-29 14:13:03",
+      "updateDate": "2019-04-30 05:00:21",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "2sfE3h",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "First brewed in 1984, Schell’s Hefeweizen is made with a blend of wheat malt and barley malts. We use an authentic wheat beer yeast culture, which gives the beer a fruity ale character dominated by a citrus-like tartness. Refreshingly light character with a higher than normal carbonation level. Straw-colored and cloudy from the unfiltered yeast left in suspension. Notes of banana and clove with a slight bready malt flavor. \r\n\r\nWe invite you to join us in a hearty German toast to this gold medal winner. Prosit!",
+      "abv": "4.4",
+      "glasswareId": 9,
+      "availableId": 4,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2sfE3h/upload_dtmKOJ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2sfE3h/upload_dtmKOJ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2sfE3h/upload_dtmKOJ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2sfE3h/upload_dtmKOJ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2sfE3h/upload_dtmKOJ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2sfE3h/upload_dtmKOJ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-16 08:36:29",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "Qq0aT4",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "abv": "4.9",
+      "ibu": "12",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Qq0aT4/upload_0QPTag-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Qq0aT4/upload_0QPTag-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Qq0aT4/upload_0QPTag-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Qq0aT4/upload_0QPTag-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Qq0aT4/upload_0QPTag-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Qq0aT4/upload_0QPTag-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-09-09 11:32:18",
+      "updateDate": "2018-09-09 11:33:07",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "7gNNRF",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Locally made/ Globally inspired. A Bavarian yeast strain creates unique flavors with hints of bananas and cloves.",
+      "abv": "5.5",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7gNNRF/upload_Jo47yy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7gNNRF/upload_Jo47yy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7gNNRF/upload_Jo47yy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7gNNRF/upload_Jo47yy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7gNNRF/upload_Jo47yy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7gNNRF/upload_Jo47yy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-16 06:42:53",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "usiJr2",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "A thirst quenching wheat beer made with 2-row brewers malt and white wheat malt.  Hopped with a Liberty and Oregon Crystal aroma hops.",
+      "glasswareId": 9,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/usiJr2/upload_aZbVPo-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/usiJr2/upload_aZbVPo-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/usiJr2/upload_aZbVPo-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/usiJr2/upload_aZbVPo-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/usiJr2/upload_aZbVPo-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/usiJr2/upload_aZbVPo-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-16 13:05:24",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "QfNJrJ",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Clove, smoke, and vanilla like flavors are present. Our Hefeweizen is brewed with 60% malted wheat. Hop flavor and aroma are absent. A very pale, great tasting, thirst quenching Summer beer.",
+      "glasswareId": 9,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/QfNJrJ/upload_0sBEuW-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/QfNJrJ/upload_0sBEuW-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/QfNJrJ/upload_0sBEuW-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/QfNJrJ/upload_0sBEuW-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/QfNJrJ/upload_0sBEuW-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/QfNJrJ/upload_0sBEuW-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-24 18:26:38",
+      "updateDate": "2015-12-16 15:24:58",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "awmpIH",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "glasswareId": 9,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/awmpIH/upload_mipjfA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/awmpIH/upload_mipjfA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/awmpIH/upload_mipjfA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/awmpIH/upload_mipjfA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/awmpIH/upload_mipjfA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/awmpIH/upload_mipjfA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:22",
+      "updateDate": "2015-12-16 11:06:49",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "czM3Aa",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "abv": "4.2",
+      "ibu": "15",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/czM3Aa/upload_Wj9sXl-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/czM3Aa/upload_Wj9sXl-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/czM3Aa/upload_Wj9sXl-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-06-19 19:36:58",
+      "updateDate": "2018-06-19 20:16:12",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "bjBeEa",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Celebrate spring with our interpretation of Hefeweizen, an ale from the German beer pantheon. This Bavarian style wheat beer is known for pronounced flavors and aromas of clove, banana, and vanilla produced by a very unique strain of yeast. Hefeweizen is unfiltered which coincides nicely with our brewing philosophy.",
+      "abv": "5.2",
+      "ibu": "8",
+      "availableId": 5,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/bjBeEa/upload_8mhOTa-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/bjBeEa/upload_8mhOTa-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/bjBeEa/upload_8mhOTa-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/bjBeEa/upload_8mhOTa-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/bjBeEa/upload_8mhOTa-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/bjBeEa/upload_8mhOTa-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-13 20:58:26",
+      "updateDate": "2019-07-08 20:14:38",
+      "available": {
+        "id": 5,
+        "name": "Spring",
+        "description": "Available during the spring months."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "SZRNz8",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Ass Kisser hefeweizen is more flavorful than a typical hefe. A bigger malt bill featuring Canadian malted barley and American malted wheat give this beer a little more body. To balance that body, we added more hops as well. This beer is generously late kettle-hopped with Cascades and Zeuz to give this beer a snappy citrusy finish, typical of american hops.",
+      "abv": "5.8",
+      "ibu": "28",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/SZRNz8/upload_IoQpeE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/SZRNz8/upload_IoQpeE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/SZRNz8/upload_IoQpeE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/SZRNz8/upload_IoQpeE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/SZRNz8/upload_IoQpeE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/SZRNz8/upload_IoQpeE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.057",
+      "createDate": "2013-11-01 21:16:14",
+      "updateDate": "2015-12-17 07:13:45",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "K5hc6A",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "The standard by which all other wheat beers are judged. Our award-winning American-style Hefeweizen is a unique take on the traditional Bavarian classic. This refreshingly unfiltered wheat ale delivers a distinctively smooth flavor worth savoring with friends.",
+      "abv": "5.2",
+      "ibu": "18",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/K5hc6A/upload_aTOAHo-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/K5hc6A/upload_aTOAHo-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/K5hc6A/upload_aTOAHo-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/K5hc6A/upload_aTOAHo-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/K5hc6A/upload_aTOAHo-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/K5hc6A/upload_aTOAHo-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.05",
+      "createDate": "2012-01-03 02:44:01",
+      "updateDate": "2015-12-16 04:18:19",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "41WIHg",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Our Hefeweizen is a light, unfiltered wheat beer, often served with a wedge of lemon. Made with thirty percent American winter wheat, Hefeweizen is balanced with sweet golden malted barley and Tettnang hops from Oregon that evoke a hint of spice. The American ale yeast is subtle, but the grains take center stage and, when left in the unfiltered beer, gives it that classic cloudiness and additional body.",
+      "abv": "3.9",
+      "ibu": "14",
+      "glasswareId": 9,
+      "srmId": 3,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/41WIHg/upload_rfXTES-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/41WIHg/upload_rfXTES-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/41WIHg/upload_rfXTES-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/41WIHg/upload_rfXTES-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/41WIHg/upload_rfXTES-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/41WIHg/upload_rfXTES-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2016-05-09 20:34:35",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "fOnL38",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "An authentic example of a Bavarian Hefeweizen. “Hefe” means cloudy or yeasty and “weizen” means wheat. This beer is made with mostly wheat and uses a true Hefeweizen yeast that gives it a fruity, banana aroma with just a hint of cloves. The tart finish makes this the perfect summer beer.",
+      "abv": "5",
+      "ibu": "13",
+      "glasswareId": 9,
+      "srmId": 3,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/fOnL38/upload_9BUhry-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/fOnL38/upload_9BUhry-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/fOnL38/upload_9BUhry-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/fOnL38/upload_9BUhry-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/fOnL38/upload_9BUhry-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/fOnL38/upload_9BUhry-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Almost anything goes well with Hefeweizen, but it especially shines when paired with salads and omelets.",
+      "originalGravity": "1.048",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-16 03:26:25",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "oI52aT",
+      "name": "HefeWeizen",
+      "nameDisplay": "HefeWeizen",
+      "description": "A unique Southwestern Style Hefe that explodes with notes of citrus, lemon peel, banana and clove, offering an unfiltered wheat to beat the heat.",
+      "abv": "5",
+      "ibu": "15",
+      "glasswareId": 9,
+      "srmId": 9,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/oI52aT/upload_phh5YA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/oI52aT/upload_phh5YA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/oI52aT/upload_phh5YA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/oI52aT/upload_phh5YA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/oI52aT/upload_phh5YA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/oI52aT/upload_phh5YA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "The fruitiness of Hefe pairs perfectly with curries and sweet dishes as well as fresh cheeses such as Mozzarella and Chevre.",
+      "createDate": "2012-01-03 02:43:22",
+      "updateDate": "2017-08-30 21:38:25",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 9,
+        "name": "9",
+        "hex": "E58500"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "RRwXGp",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "abv": "5",
+      "ibu": "18",
+      "glasswareId": 5,
+      "srmId": 3,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/RRwXGp/upload_nq2QfS-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/RRwXGp/upload_nq2QfS-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/RRwXGp/upload_nq2QfS-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-06-06 15:43:44",
+      "updateDate": "2018-06-06 16:43:43",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "kPKixY",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Hefeweizens are traditional German wheat beers. Notes of banana, citrus, cloves, and esters make this delightful brew’s flavor stand out and keep you coming back for more. Three Pint’s version, like the traditional German versions of yore, is an unfiltered blend that gives the beer its cloudy appearance and full flavor.",
+      "abv": "4.7",
+      "ibu": "13",
+      "srmId": 3,
+      "styleId": 48,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/kPKixY/upload_xzYIkE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/kPKixY/upload_xzYIkE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/kPKixY/upload_xzYIkE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/kPKixY/upload_xzYIkE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/kPKixY/upload_xzYIkE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/kPKixY/upload_xzYIkE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-05-05 13:41:49",
+      "updateDate": "2015-12-18 01:33:36",
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "bIGDNv",
+      "name": "HefeWeizen",
+      "nameDisplay": "HefeWeizen",
+      "description": "Modeled after the classic wheat beers of Bavaria, our HefeWeizen has a cloudy, straw-colored appearance with a thick, creamy head.  It is fermented with an authentic Weizenbier yeast strain which imparts delicate notes of clove, vanilla and banana which harmonize perfectly with its mild refreshing tartness. Together these flavors create the perfect thirst quencher to beat the Texas heat. Available April - August",
+      "abv": "5.2",
+      "ibu": "10",
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/bIGDNv/upload_qh5Afr-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/bIGDNv/upload_qh5Afr-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/bIGDNv/upload_qh5Afr-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/bIGDNv/upload_qh5Afr-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/bIGDNv/upload_qh5Afr-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/bIGDNv/upload_qh5Afr-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.052",
+      "createDate": "2012-01-03 02:43:37",
+      "updateDate": "2016-02-19 15:56:04",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "5M3LNI",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Chocked full of wheat malts, floral German Hops and that Super Special yeast, this beer is packed with personality.",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/5M3LNI/upload_0Ms3r8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/5M3LNI/upload_0Ms3r8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/5M3LNI/upload_0Ms3r8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/5M3LNI/upload_0Ms3r8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/5M3LNI/upload_0Ms3r8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/5M3LNI/upload_0Ms3r8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-16 07:04:01",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "uGDRY7",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "A German Wheat, brewed in Maple Grove. This German wheat has notes of banana and clove.",
+      "abv": "4.5",
+      "ibu": "9",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/uGDRY7/upload_moYwgn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/uGDRY7/upload_moYwgn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/uGDRY7/upload_moYwgn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/uGDRY7/upload_moYwgn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/uGDRY7/upload_moYwgn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/uGDRY7/upload_moYwgn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-03-22 13:16:15",
+      "updateDate": "2018-03-22 13:17:07",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "dSGU5v",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "True to German Style Brewing Techniques, Hefe has an aroma of citrus and spice that come alive with the robust flavors of bready wheat and sweet malt. A hazy golden hue and a refreshing finish bids goodbye to winter and nods at the first taste of spring!",
+      "abv": "5",
+      "ibu": "15",
+      "srmId": 5,
+      "availableId": 4,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dSGU5v/upload_hkHrrL-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dSGU5v/upload_hkHrrL-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dSGU5v/upload_hkHrrL-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dSGU5v/upload_hkHrrL-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dSGU5v/upload_hkHrrL-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dSGU5v/upload_hkHrrL-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Great with lighter food: salads, seafood, sushi; classic with weisswurst.",
+      "createDate": "2015-08-17 19:18:47",
+      "updateDate": "2015-12-18 04:19:45",
+      "srm": {
+        "id": 5,
+        "name": "5",
+        "hex": "FBB123"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "dXZQ4L",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "abv": "5.3",
+      "ibu": "15",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dXZQ4L/upload_v80GEZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dXZQ4L/upload_v80GEZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dXZQ4L/upload_v80GEZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dXZQ4L/upload_v80GEZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dXZQ4L/upload_v80GEZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dXZQ4L/upload_v80GEZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-16 09:39:21",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "ZxxPpM",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "A crips and refrshing wheat beer fermented with a unique German yeast.  The Hefeqeizen style was originally brewed in Southern Germany.",
+      "glasswareId": 9,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ZxxPpM/upload_xFNY7H-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ZxxPpM/upload_xFNY7H-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ZxxPpM/upload_xFNY7H-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ZxxPpM/upload_xFNY7H-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ZxxPpM/upload_xFNY7H-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ZxxPpM/upload_xFNY7H-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-16 08:11:11",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "xgO0Do",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Widmer Brothers Hefe began as an improvisation inspired by brothers Kurt and Rob’s love of German style beers. Brewed with golden wheat, Hefe’s unique cloudy look, bold flavors and citrus notes defined the American style Hefeweizen. Multiple awards and three decades later, Hefe remains the gold standard. Prost, to The Original!",
+      "abv": "4.9",
+      "ibu": "26",
+      "glasswareId": 9,
+      "srmId": 8,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/xgO0Do/upload_JIJnxy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/xgO0Do/upload_JIJnxy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/xgO0Do/upload_JIJnxy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/xgO0Do/upload_JIJnxy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/xgO0Do/upload_JIJnxy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/xgO0Do/upload_JIJnxy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.047",
+      "createDate": "2012-01-03 02:44:31",
+      "updateDate": "2018-12-14 21:18:59",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 8,
+        "name": "8",
+        "hex": "EA8F00"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "FoCXr5",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "abv": "4.7",
+      "ibu": "10",
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/FoCXr5/upload_6LpRUA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/FoCXr5/upload_6LpRUA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/FoCXr5/upload_6LpRUA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/FoCXr5/upload_6LpRUA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/FoCXr5/upload_6LpRUA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/FoCXr5/upload_6LpRUA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:21",
+      "updateDate": "2015-12-15 21:05:38",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "7Xn4wJ",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "description": "Gordon Biersch Hefeweizen is a true, unfiltered, Bavarian-style wheat (Weizen) beer with the yeast (Hefe) still present. It is brewed with 65% malted wheat and 35% malted barley. Our Hefeweizen is very effervescent with a higher level of natural carbonation - 20% higher than other craft-brewed wheat beers. A special top fermenting yeast strain is used to ferment this beer producing flavors hinting of citrus, banana, bubble gum and clove, which are all naturally produced by the yeast. In Bavaria, this beer is traditionally consumed Sunday morning after church (and sometimes before as well as during) alongside Weisswurst (white veal sausages) and freshly baked Brez'n (pretzels).",
+      "abv": "5.5",
+      "ibu": "12",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7Xn4wJ/upload_YU0lQ4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7Xn4wJ/upload_YU0lQ4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7Xn4wJ/upload_YU0lQ4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7Xn4wJ/upload_YU0lQ4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7Xn4wJ/upload_YU0lQ4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7Xn4wJ/upload_YU0lQ4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:22",
+      "updateDate": "2015-12-16 03:10:51",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "mMlIML",
+      "name": "Hefeweizen",
+      "nameDisplay": "Hefeweizen",
+      "abv": "5.5",
+      "styleId": 112,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/mMlIML/upload_qIxkdC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/mMlIML/upload_qIxkdC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/mMlIML/upload_qIxkdC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/mMlIML/upload_qIxkdC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/mMlIML/upload_qIxkdC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/mMlIML/upload_qIxkdC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-02 18:12:43",
+      "updateDate": "2015-12-17 21:45:12",
+      "style": {
+        "id": 112,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Light American Wheat Ale or Lager with Yeast",
+        "shortName": "Wheat Ale",
+        "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.",
+        "ibuMin": "10",
+        "ibuMax": "35",
+        "abvMin": "3.5",
+        "abvMax": "5.5",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.036",
+        "fgMin": "1.006",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:48"
+      }
+    },
+    {
+      "id": "yaucax",
+      "name": "Hefeweizen Ale",
+      "nameDisplay": "Hefeweizen Ale",
+      "abv": "5.6",
+      "glasswareId": 9,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/yaucax/upload_DyQK7d-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/yaucax/upload_DyQK7d-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/yaucax/upload_DyQK7d-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/yaucax/upload_DyQK7d-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/yaucax/upload_DyQK7d-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/yaucax/upload_DyQK7d-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-06 12:54:55",
+      "updateDate": "2015-12-16 15:04:30",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "Ye8P1V",
+      "name": "Hefeweizen Ale",
+      "nameDisplay": "Hefeweizen Ale",
+      "glasswareId": 9,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Ye8P1V/upload_gTxRK0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Ye8P1V/upload_gTxRK0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Ye8P1V/upload_gTxRK0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Ye8P1V/upload_gTxRK0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Ye8P1V/upload_gTxRK0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Ye8P1V/upload_gTxRK0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:22",
+      "updateDate": "2015-12-16 08:53:37",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "iDMjrU",
+      "name": "Hefeweizen Bavarian Wheat",
+      "nameDisplay": "Hefeweizen Bavarian Wheat",
+      "description": "An authentic, unfiltered, Bavarian-style wheat ale. Our proprietary Weizen yeast provides a distinctive aroma and flavor profile true to its Bavarian roots; spicy, slightly fruity, dry and refreshing. No fruit garnish necessary.",
+      "abv": "4.5",
+      "ibu": "22",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/iDMjrU/upload_5TsHHW-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/iDMjrU/upload_5TsHHW-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/iDMjrU/upload_5TsHHW-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/iDMjrU/upload_5TsHHW-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/iDMjrU/upload_5TsHHW-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/iDMjrU/upload_5TsHHW-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-03-05 18:15:59",
+      "updateDate": "2015-12-17 23:35:28",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "eXVVpH",
+      "name": "Hefeweizen German-style Wheat",
+      "nameDisplay": "Hefeweizen German-style Wheat",
+      "description": "The German Hefeweizen exemplifies quite a dichotomy in craft beer. This style demonstrates that not all is as it seems. The lightness in color masks the intensity of the flavor. The esters and clove aromas and flavors accentuate that you cannot judge a beer by its color alone.",
+      "abv": "4.2",
+      "ibu": "8",
+      "glasswareId": 9,
+      "srmId": 4,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/eXVVpH/upload_rVWqLd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/eXVVpH/upload_rVWqLd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/eXVVpH/upload_rVWqLd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/eXVVpH/upload_rVWqLd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/eXVVpH/upload_rVWqLd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/eXVVpH/upload_rVWqLd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "lighter foods, salads, seafood, sushi, German dishes, poultry, Tangy cheese, chèvre goat cheese, herbed spread, Very light, fruit desserts, key lime pie",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "originalGravity": "1.044",
+      "createDate": "2017-09-05 20:19:59",
+      "updateDate": "2017-09-12 18:24:49",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 4,
+        "name": "4",
+        "hex": "FFBF42"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "K8m0mF",
+      "name": "Hefeweizen Wheat Ale - Four+ Series",
+      "nameDisplay": "Hefeweizen Wheat Ale - Four+ Series",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/K8m0mF/upload_A6pqDH-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/K8m0mF/upload_A6pqDH-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/K8m0mF/upload_A6pqDH-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/K8m0mF/upload_A6pqDH-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/K8m0mF/upload_A6pqDH-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/K8m0mF/upload_A6pqDH-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-10 11:05:00",
+      "updateDate": "2015-12-17 11:33:08",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "BjxvWM",
+      "name": "Heffer Weizen",
+      "nameDisplay": "Heffer Weizen",
+      "abv": "5.5",
+      "ibu": "14",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/BjxvWM/upload_fSHSq8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/BjxvWM/upload_fSHSq8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/BjxvWM/upload_fSHSq8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/BjxvWM/upload_fSHSq8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/BjxvWM/upload_fSHSq8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/BjxvWM/upload_fSHSq8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-04-06 13:14:01",
+      "updateDate": "2017-04-06 13:15:10",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "aSCmZl",
+      "name": "Heidi",
+      "nameDisplay": "Heidi",
+      "description": "German bock lager brewed for the transition out of cold weather. Full bodied carmel maltiness. Fairly aggressive, high alcohol, but still extremely smooth. 7.2 ABV%",
+      "abv": "7.2",
+      "availableId": 4,
+      "styleId": 89,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/aSCmZl/upload_K18XCV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/aSCmZl/upload_K18XCV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/aSCmZl/upload_K18XCV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/aSCmZl/upload_K18XCV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/aSCmZl/upload_K18XCV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/aSCmZl/upload_K18XCV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-04-15 16:03:22",
+      "updateDate": "2015-12-17 23:34:46",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 89,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Heller Bock/Maibock",
+        "shortName": "Maibock",
+        "description": "The German word helle means light colored, and as such, a heller Bock is light straw to deep golden in color. Maibocks are also light-colored bocks. The sweet malty character should come through in the aroma and flavor. A lightly toasted and/or bready malt character is often evident. Roast or heavy toast/caramel malt character should be absent. Body is medium to full. Hop bitterness should be low, while noble-type hop aroma and flavor may be at low to medium levels. Bitterness increases with gravity. Fruity esters may be perceived at low levels. Diacetyl should be absent. Chill haze should not be perceived.",
+        "ibuMin": "20",
+        "ibuMax": "38",
+        "abvMin": "6",
+        "abvMax": "8",
+        "srmMin": "4",
+        "srmMax": "10",
+        "ogMin": "1.066",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:39:04"
+      }
+    },
+    {
+      "id": "z8RLrs",
+      "name": "Heifer Weizen",
+      "nameDisplay": "Heifer Weizen",
+      "description": "Ride away on this Bavarian springtime cloud. Our South German Hefeweizen pours golden straw colored and the thick white head releases clove and banana aromas and a subtle fruitiness. This deliciously well-balanced wheat ale sips with a hint of malt and prominent flavors of spice, banana and clove. Feel the effervescence roll across your tongue, sip, after sip, after sip, as this remarkably refreshing bier finishes clean and dry. Dream of your perfect day as you say Einen halben Hefeweizen, Bitte (I’ll have a hefeweizen, Please).",
+      "abv": "5.4",
+      "ibu": "12",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/z8RLrs/upload_0R7SAa-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/z8RLrs/upload_0R7SAa-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/z8RLrs/upload_0R7SAa-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/z8RLrs/upload_0R7SAa-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/z8RLrs/upload_0R7SAa-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/z8RLrs/upload_0R7SAa-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-04-17 15:44:24",
+      "updateDate": "2019-04-17 15:45:02",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "4MyOgi",
+      "name": "Heifer-in-Wheat",
+      "nameDisplay": "Heifer-in-Wheat",
+      "description": "This Bavarian-style unfiltered wheat beer is brewed with 50% malted barley and 50% malted wheat. Our signature blend of German yeast strain imparts a flavor and aroma reminiscent of bananas, cloves and bubblegum.",
+      "abv": "5",
+      "ibu": "12",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4MyOgi/upload_tV3xA6-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4MyOgi/upload_tV3xA6-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4MyOgi/upload_tV3xA6-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4MyOgi/upload_tV3xA6-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4MyOgi/upload_tV3xA6-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4MyOgi/upload_tV3xA6-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-08-10 04:48:51",
+      "updateDate": "2015-12-16 17:29:30",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "gSO2fv",
+      "name": "Heiferweizen",
+      "nameDisplay": "Heiferweizen",
+      "description": "This traditional unfiltered German-style weizen has banana and clove flavors not typically found in American versions of the beer. The yeast is the sole producer of the spicy character as no spices or fruit is added to the beer. Served with a lemon wedge.",
+      "abv": "5.5",
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gSO2fv/upload_whMdmd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gSO2fv/upload_whMdmd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gSO2fv/upload_whMdmd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gSO2fv/upload_whMdmd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gSO2fv/upload_whMdmd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gSO2fv/upload_whMdmd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-23 13:12:33",
+      "updateDate": "2015-12-16 15:24:42",
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "5KNja7",
+      "name": "Heigh Desert",
+      "nameDisplay": "Heigh Desert",
+      "description": "This is an American style wheat ale brewed with 50% malted wheat and a blend of pale, crystal and Munich malts. It has a pronounced wheat character,and soft maltiness.  This golden hazy brew is very low in hops and goes down easy.  Hefeweizen is an excellent beer to recommend to people who are new to microbrews. It is a subtle way to introduce real beer flavor.",
+      "glasswareId": 9,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/5KNja7/upload_vZNRoy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/5KNja7/upload_vZNRoy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/5KNja7/upload_vZNRoy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/5KNja7/upload_vZNRoy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/5KNja7/upload_vZNRoy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/5KNja7/upload_vZNRoy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:22",
+      "updateDate": "2015-12-16 08:09:16",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "eX6rp1",
+      "name": "Heine's Big Bro",
+      "nameDisplay": "Heine's Big Bro",
+      "description": "Louisville roasted Heine Bros. Espresso was hot extracted pre-fermentation, and Mary Catherine’s Blend was cold extracted and added post-fermentation to give this beer an aggressive bitterness as well as a delicate yet pronounced coffee flavor and aroma. We started this imperial oatmeal stout with a massive amount of high quality Marris Otter malt and added an array of specialties including Oats, Roasted Barley, and very dark caramel Munich. Hefty additions of British hops early in the boil make for a powerful bitterness to balance the high malt sweetness. If your soul stays black even in the sun, this is the beer for you.",
+      "abv": "9.5",
+      "ibu": "62.2",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 21,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/eX6rp1/upload_FX1Pny-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/eX6rp1/upload_FX1Pny-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/eX6rp1/upload_FX1Pny-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/eX6rp1/upload_FX1Pny-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/eX6rp1/upload_FX1Pny-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/eX6rp1/upload_FX1Pny-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.102",
+      "createDate": "2012-04-15 19:29:30",
+      "updateDate": "2015-12-16 16:34:47",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 21,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Oatmeal Stout",
+        "shortName": "Oatmeal Stout",
+        "description": "Oatmeal stouts include oatmeal in their grist, resulting in a pleasant, full flavor and a smooth profile that is rich without being grainy. A roasted malt character which is caramel-like and chocolate-like should be evident - smooth and not bitter. Coffee-like roasted barley and roasted malt aromas (chocolate and nut-like) are prominent. Color is dark brown to black. Bitterness is moderate, not high. Hop flavor and aroma are optional but should not overpower the overall balance if present. This is a medium- to full- bodied beer, with minimal fruity esters. Diacetyl should be absent or at extremely low levels. Original gravity range and alcohol levels are indicative of English tradition of oatmeal stout.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "3.8",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "20",
+        "ogMin": "1.038",
+        "fgMin": "1.008",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:22:53"
+      }
+    },
+    {
+      "id": "TCiGbx",
+      "name": "Heineken 0.0",
+      "nameDisplay": "Heineken 0.0",
+      "description": "Brewing a great tasting 0.0% alcohol \r\nfree malt beverage, is it even possible? \r\n\r\nOur master brewers started from zero \r\nand spent years exploring, brewing, \r\nand tasting before they finally created \r\na recipe defined by its refreshing fruity \r\nnotes and soft malty body - perfectly \r\nbalanced. One that deserves the \r\nHeineken mark. Of course, with the \r\nuncompromising Heineken \r\ncharacteristics since 1873: made with \r\nnatural ingredients and Heineken’s \r\nunique A-Yeast. It wasn’t easy, but \r\nnot impossible.",
+      "styleId": 139,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/TCiGbx/upload_4K2YXU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/TCiGbx/upload_4K2YXU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/TCiGbx/upload_4K2YXU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/TCiGbx/upload_4K2YXU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/TCiGbx/upload_4K2YXU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/TCiGbx/upload_4K2YXU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-01-24 20:49:25",
+      "updateDate": "2019-03-28 17:58:40",
+      "style": {
+        "id": 139,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Non-Alcoholic (Beer) Malt Beverages",
+        "shortName": "Non-Alcoholic",
+        "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:47:18"
+      }
+    },
+    {
+      "id": "twzsRQ",
+      "name": "Heineken Dark Lager",
+      "nameDisplay": "Heineken Dark Lager",
+      "abv": "5",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 103,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/twzsRQ/upload_E8vnDl-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/twzsRQ/upload_E8vnDl-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/twzsRQ/upload_E8vnDl-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/twzsRQ/upload_E8vnDl-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/twzsRQ/upload_E8vnDl-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/twzsRQ/upload_E8vnDl-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:43:03",
+      "updateDate": "2018-06-06 12:59:41",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 103,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Dark Lager",
+        "shortName": "American Dark Lager",
+        "description": "This beer's malt aroma and flavor are low but notable. Its color ranges from a very deep copper to a deep, dark brown. It has a clean, light body with discreet contributions from caramel and roasted malts. Non-malt adjuncts are often used, and hop rates are low. Hop bitterness is clean and has a short duration of impact. Hop flavor, and aroma are low. Carbonation is high. Fruity esters, diacetyl, and chill haze should not be perceived.",
+        "ibuMin": "14",
+        "ibuMax": "20",
+        "abvMin": "4",
+        "abvMax": "5.5",
+        "srmMin": "14",
+        "srmMax": "25",
+        "ogMin": "1.04",
+        "fgMin": "1.008",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:42"
+      }
+    },
+    {
+      "id": "JMNBpw",
+      "name": "Heineken Dutch Dark",
+      "nameDisplay": "Heineken Dutch Dark",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 103,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/JMNBpw/upload_r3YXLp-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/JMNBpw/upload_r3YXLp-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/JMNBpw/upload_r3YXLp-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/JMNBpw/upload_r3YXLp-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/JMNBpw/upload_r3YXLp-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/JMNBpw/upload_r3YXLp-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:43:22",
+      "updateDate": "2017-11-20 21:36:31",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 103,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Dark Lager",
+        "shortName": "American Dark Lager",
+        "description": "This beer's malt aroma and flavor are low but notable. Its color ranges from a very deep copper to a deep, dark brown. It has a clean, light body with discreet contributions from caramel and roasted malts. Non-malt adjuncts are often used, and hop rates are low. Hop bitterness is clean and has a short duration of impact. Hop flavor, and aroma are low. Carbonation is high. Fruity esters, diacetyl, and chill haze should not be perceived.",
+        "ibuMin": "14",
+        "ibuMax": "20",
+        "abvMin": "4",
+        "abvMax": "5.5",
+        "srmMin": "14",
+        "srmMax": "25",
+        "ogMin": "1.04",
+        "fgMin": "1.008",
+        "fgMax": "1.012",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:41:42"
+      }
+    },
+    {
+      "id": "eGtqKZ",
+      "name": "Heineken Lager",
+      "nameDisplay": "Heineken Lager",
+      "description": "Heineken is brewed using the same method developed in 1873 and takes the better part of a month to brew - around twice as long as regular beer. Theat extended \"lagering\" gives Heineken its distinctive flavor and clarity.",
+      "abv": "5",
+      "ibu": "18.5",
+      "glasswareId": 5,
+      "srmId": 5,
+      "availableId": 1,
+      "styleId": 97,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/eGtqKZ/upload_0y3ZZh-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/eGtqKZ/upload_0y3ZZh-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/eGtqKZ/upload_0y3ZZh-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/eGtqKZ/upload_0y3ZZh-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/eGtqKZ/upload_0y3ZZh-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/eGtqKZ/upload_0y3ZZh-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:43:22",
+      "updateDate": "2018-08-01 20:33:08",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 5,
+        "name": "5",
+        "hex": "FBB123"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 97,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Premium Lager",
+        "shortName": "American Premium Lager",
+        "description": "This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as \"premium\" (based on price) may not fit this definition.",
+        "ibuMin": "6",
+        "ibuMax": "15",
+        "abvMin": "4.3",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "6",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:04"
+      }
+    },
+    {
+      "id": "8aRUkI",
+      "name": "Heineken Premium Light",
+      "nameDisplay": "Heineken Premium Light",
+      "description": "Brewed in the same high quality tradition as the original Heineken, but lighter in taste and with fewer calories and carbohydrates.",
+      "abv": "3.2",
+      "ibu": "12",
+      "glasswareId": 5,
+      "srmId": 4,
+      "availableId": 1,
+      "styleId": 97,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8aRUkI/upload_HItFvU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8aRUkI/upload_HItFvU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8aRUkI/upload_HItFvU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8aRUkI/upload_HItFvU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8aRUkI/upload_HItFvU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8aRUkI/upload_HItFvU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:44:00",
+      "updateDate": "2015-12-15 21:02:53",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 4,
+        "name": "4",
+        "hex": "FFBF42"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 97,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Premium Lager",
+        "shortName": "American Premium Lager",
+        "description": "This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as \"premium\" (based on price) may not fit this definition.",
+        "ibuMin": "6",
+        "ibuMax": "15",
+        "abvMin": "4.3",
+        "abvMax": "5",
+        "srmMin": "2",
+        "srmMax": "6",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:04"
+      }
+    },
+    {
+      "id": "1Gi2kY",
+      "name": "Heineken Tarwebok",
+      "nameDisplay": "Heineken Tarwebok",
+      "description": "Bottle: Pasteurised. Keg: Filtered.\r\n\r\nAvailable in the Netherlands as Tarwebok, and in the USA as Special Dark.\r\n\r\n\"Traditionally brewed and drunk in autumn, this aromatic, strong beer has a full-bodied, spicy taste derived from unique malts made with roasted spring barley and wheat.\"",
+      "abv": "6.5",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 88,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/1Gi2kY/upload_hMuYpg-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/1Gi2kY/upload_hMuYpg-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/1Gi2kY/upload_hMuYpg-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/1Gi2kY/upload_hMuYpg-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/1Gi2kY/upload_hMuYpg-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/1Gi2kY/upload_hMuYpg-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:44:21",
+      "updateDate": "2015-12-16 11:05:47",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 88,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Traditional German-Style Bock",
+        "shortName": "Bock",
+        "description": "Traditional bocks are made with all malt and are strong, malty, medium- to full-bodied, bottom-fermented beers with moderate hop bitterness that should increase proportionately with the starting gravity. Malt character should be a balance of sweetness and toasted/nut-like malt; not caramel. Hop flavor should be low and hop aroma should be very low. Bocks can range in color from deep copper to dark brown. Fruity esters should be minimal. Diacetyl should be absent.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "20",
+        "srmMax": "30",
+        "ogMin": "1.066",
+        "fgMin": "1.018",
+        "fgMax": "1.024",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:38:54"
+      }
+    },
+    {
+      "id": "RhmCRd",
+      "name": "Heinnieweisse Weissebeir",
+      "nameDisplay": "Heinnieweisse Weissebeir",
+      "description": "Traditional Hefeweizen from Germany usually taste like cardboard because by the time you drink them, they're not fresh anymore. Chuck brews Heinnieweisse with Bavarian yeast and a 67% wheat grist approximately 5000 miles closer to your mouth than Germany giving it a rich, fully fresh palate. Pour it and see the wheat cloudiness, smell the notes of estery aroma. At 4.9 % abv you’ll taste the effervescent, sweet yet tart freshness that no farty old German can boast. And what does an Alien have to do with any of this? Ever notice how a hop looks like an Alien's head? Look again.",
+      "abv": "4.9",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 48,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/RhmCRd/upload_Cv0J4V-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/RhmCRd/upload_Cv0J4V-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/RhmCRd/upload_Cv0J4V-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/RhmCRd/upload_Cv0J4V-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/RhmCRd/upload_Cv0J4V-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/RhmCRd/upload_Cv0J4V-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-08-24 15:02:31",
+      "updateDate": "2015-12-16 19:08:03",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 48,
+        "categoryId": 4,
+        "category": {
+          "id": 4,
+          "name": "German Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "South German-Style Hefeweizen / Hefeweissbier",
+        "shortName": "Hefeweizen",
+        "description": "The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.",
+        "ibuMin": "10",
+        "ibuMax": "15",
+        "abvMin": "4.9",
+        "abvMax": "5.5",
+        "srmMin": "3",
+        "srmMax": "9",
+        "ogMin": "1.047",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:29:27"
+      }
+    },
+    {
+      "id": "GdsjJu",
+      "name": "Heir Apparent",
+      "nameDisplay": "Heir Apparent",
+      "description": "Heir Apparent is an Imperial Stout with a complex caramel soul tempered by a chocolate & roasty undertone. Sweeter in style than Russian Imperial Stouts at only 60 IBUs, but balanced by the heat of fresh Mexican Peppers, Vanilla, and Cocoa Nibs. The Heir Apparent is ambitiously biding his time until he comes to power. His time will come.",
+      "abv": "11.5",
+      "ibu": "60",
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/GdsjJu/upload_ODdkUI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/GdsjJu/upload_ODdkUI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/GdsjJu/upload_ODdkUI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/GdsjJu/upload_ODdkUI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/GdsjJu/upload_ODdkUI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/GdsjJu/upload_ODdkUI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-01-11 15:19:40",
+      "updateDate": "2018-06-05 05:13:52",
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "m9PhhX",
+      "name": "Heirloom Pumpkin",
+      "nameDisplay": "Heirloom Pumpkin",
+      "description": "This velvety American Barleywine-style ale is brewed with over 1,000 lbs of organic heirloom pumpkins and aged in rye and brandy barrels for a year. This decadent autumn sipper pairs well with pecan pie, bread pudding and a warm campfire.",
+      "abv": "12",
+      "styleId": 121,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/m9PhhX/upload_CUKjSl-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/m9PhhX/upload_CUKjSl-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/m9PhhX/upload_CUKjSl-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/m9PhhX/upload_CUKjSl-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/m9PhhX/upload_CUKjSl-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/m9PhhX/upload_CUKjSl-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-09-10 21:25:04",
+      "updateDate": "2015-12-17 18:08:53",
+      "style": {
+        "id": 121,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Pumpkin Beer",
+        "shortName": "Pumpkin Beer",
+        "description": "Pumpkin beers are any beers using pumpkins (Cucurbito pepo) as an adjunct in either mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Pumpkin qualities should not be overpowered by hop character. These may or may not be spiced or flavored with other things. A statement by the brewer explaining the nature of the beer is essential for fair assessment in competitions. If this beer is a classic style with pumpkin, the brewer should also specify the classic style.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:28"
+      }
+    },
+    {
+      "id": "WIW7U1",
+      "name": "Heirloom X",
+      "nameDisplay": "Heirloom X",
+      "description": "Hand selected blend of barrels and varietals",
+      "abv": "8",
+      "styleId": 157,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/WIW7U1/upload_95plQM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/WIW7U1/upload_95plQM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/WIW7U1/upload_95plQM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/WIW7U1/upload_95plQM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/WIW7U1/upload_95plQM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/WIW7U1/upload_95plQM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-05-22 18:24:55",
+      "updateDate": "2018-05-22 18:25:05",
+      "style": {
+        "id": 157,
+        "categoryId": 12,
+        "category": {
+          "id": 12,
+          "name": "Mead, Cider, & Perry",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Other Specialty Cider or Perry",
+        "shortName": "Specialty Cider",
+        "abvMin": "5",
+        "abvMax": "12",
+        "ogMin": "1.045",
+        "ogMax": "1.1",
+        "fgMin": "0.995",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:49:22"
+      }
+    },
+    {
+      "id": "REdVzF",
+      "name": "Heisser Schütz Glühbier",
+      "nameDisplay": "Heisser Schütz Glühbier",
+      "description": "Wenn es draussen wieder kalt wird, wärmt man sich gerne mit einem heissen Getränk. Und damit auch Bierliebhaber in der Winterzeit auf ihre Kosten kommen, gibt es jetzt den Heissen Schütz. Das Glühbier der Brauerei Schützengarten lässt eine alte Tradition aufleben. Denn bereits Johann Ulrich Tobler, Gründer der Brauerei Schützengarten, servierte in den 1780er Jahren auswärtigen Gästen ein heisses Biergetränk. Auf 70ºC erhitzt entfaltet der Heisse Schütz sein volles Aroma und wärmt Körper und Seele.",
+      "abv": "4.6",
+      "styleId": 124,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/REdVzF/upload_jROtAI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/REdVzF/upload_jROtAI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/REdVzF/upload_jROtAI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/REdVzF/upload_jROtAI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/REdVzF/upload_jROtAI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/REdVzF/upload_jROtAI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "hot",
+      "servingTemperatureDisplay": "Hot - (70C/158F)",
+      "createDate": "2015-05-14 16:49:47",
+      "updateDate": "2015-12-18 01:46:41",
+      "style": {
+        "id": 124,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Herb and Spice Beer",
+        "shortName": "Spice Beer",
+        "description": "Herb beers use herbs or spices (derived from roots, seeds, fruits, vegetable, flowers, etc.) other than or in addition to hops to create a distinct (ranging from subtle to intense) character, though individual characters of herbs and/or spices used may not always be identifiable. Under hopping often, but not always, allows the spice or herb to contribute to the flavor profile. Positive evaluations are significantly based on perceived balance of flavors. Note: Chili-flavored beers that emphasize heat rather than chili flavor should be entered as a \"spiced\" beer.  A statement by the brewer explaining what herbs or spices are used is essential in order for fair assessment in competitions. Specifying a style upon which the beer is based may help evaluation. If this beer is a classic style with an herb or spice, the brewer should specify the classic style. If no Chocolate or Coffee category exists in a competition, then chocolate and coffee beers should be entered in this category.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:45"
+      }
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,2483 @@
+{
+  "currentPage": 55,
+  "numberOfPages": 603,
+  "totalResults": 30121,
+  "data": [
+    {
+      "id": "MsdyUZ",
+      "name": "Belgian Style Pale Ale",
+      "nameDisplay": "Belgian Style Pale Ale",
+      "abv": "5",
+      "glasswareId": 5,
+      "styleId": 62,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/MsdyUZ/upload_tXZgIL-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/MsdyUZ/upload_tXZgIL-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/MsdyUZ/upload_tXZgIL-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/MsdyUZ/upload_tXZgIL-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/MsdyUZ/upload_tXZgIL-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/MsdyUZ/upload_tXZgIL-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 14:37:08",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 62,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Ale",
+        "shortName": "Belgian Pale",
+        "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "6",
+        "srmMin": "6",
+        "srmMax": "12",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:06"
+      }
+    },
+    {
+      "id": "YMU1Gv",
+      "name": "Belgian Style Pale Ale",
+      "nameDisplay": "Belgian Style Pale Ale",
+      "description": "This straw colored beer greets with an aroma of noble hops, pears and Belgian esters. The flavor follows nicely with a moderately spicy hop and Belgian yeast effect buoyed by a soft malt body. The finish is crisp and dry.",
+      "abv": "6.5",
+      "glasswareId": 2,
+      "availableId": 1,
+      "styleId": 62,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YMU1Gv/upload_NeOODT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YMU1Gv/upload_NeOODT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YMU1Gv/upload_NeOODT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YMU1Gv/upload_NeOODT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YMU1Gv/upload_NeOODT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YMU1Gv/upload_NeOODT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "We enjoy this beer with spicy foods, grilled steaks, grilled chicken and mandarin salad.  Where you take it is only limited by your imagination.",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 08:09:07",
+      "glass": {
+        "id": 2,
+        "name": "Goblet",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 62,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Ale",
+        "shortName": "Belgian Pale",
+        "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "6",
+        "srmMin": "6",
+        "srmMax": "12",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:06"
+      }
+    },
+    {
+      "id": "uWVbn1",
+      "name": "Belgian Style Red",
+      "nameDisplay": "Belgian Style Red",
+      "abv": "7",
+      "availableId": 2,
+      "styleId": 132,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/uWVbn1/upload_uNg8xa-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/uWVbn1/upload_uNg8xa-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/uWVbn1/upload_uNg8xa-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/uWVbn1/upload_uNg8xa-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/uWVbn1/upload_uNg8xa-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/uWVbn1/upload_uNg8xa-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-04 23:27:58",
+      "updateDate": "2015-12-17 06:53:12",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 132,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Wood- and Barrel-Aged Beer",
+        "shortName": "BBL Aged",
+        "description": "A wood- or barrel-aged beer is any lager, ale or hybrid beer, either a traditional style or a unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character, but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Beers in this style may or may not have Brettanomyces character. Brewers when entering this category should specify type of barrel and/or wood used and any other special treatment or ingredients used. Competition managers may create style subcategories to differentiate between high alcohol and low alcohol beers and very dark and lighter colored beer as well as for fruit beers and non-fruit beers. Competitions may develop guidelines requesting brewers to specify what kind of wood (new or used oak, other wood varieties) and/or barrel (whiskey, port, sherry, wine, etc.) was used in the process. The brewer may be asked to explain the special nature (wood used, base beer style(s) and achieved character) of the beer.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:46:27"
+      }
+    },
+    {
+      "id": "1rf8MH",
+      "name": "Belgian Style Saison",
+      "nameDisplay": "Belgian Style Saison",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/1rf8MH/upload_COn9H5-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/1rf8MH/upload_COn9H5-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/1rf8MH/upload_COn9H5-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/1rf8MH/upload_COn9H5-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/1rf8MH/upload_COn9H5-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/1rf8MH/upload_COn9H5-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-17 00:10:13",
+      "updateDate": "2015-12-17 07:33:19",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "BdMd66",
+      "name": "Belgian Style Stout Ale",
+      "nameDisplay": "Belgian Style Stout Ale",
+      "abv": "8.8",
+      "glasswareId": 5,
+      "styleId": 70,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/BdMd66/upload_vGTksp-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/BdMd66/upload_vGTksp-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/BdMd66/upload_vGTksp-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/BdMd66/upload_vGTksp-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/BdMd66/upload_vGTksp-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/BdMd66/upload_vGTksp-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 11:07:16",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 70,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Other Belgian-Style Ales",
+        "shortName": "Belgian Ale",
+        "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:33:05"
+      }
+    },
+    {
+      "id": "CkmL3x",
+      "name": "Belgian Style Tripel",
+      "nameDisplay": "Belgian Style Tripel",
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/CkmL3x/upload_B2QFqO-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/CkmL3x/upload_B2QFqO-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/CkmL3x/upload_B2QFqO-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/CkmL3x/upload_B2QFqO-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/CkmL3x/upload_B2QFqO-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/CkmL3x/upload_B2QFqO-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-04 13:28:29",
+      "updateDate": "2015-12-16 15:02:38",
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "hcoIG1",
+      "name": "Belgian Style Tripel Ale",
+      "nameDisplay": "Belgian Style Tripel Ale",
+      "description": "Collaboration with Mikkeller Brewing and AleSmith Brewing",
+      "abv": "9.5",
+      "styleId": 60,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/hcoIG1/upload_ydZcAq-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/hcoIG1/upload_ydZcAq-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/hcoIG1/upload_ydZcAq-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/hcoIG1/upload_ydZcAq-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/hcoIG1/upload_ydZcAq-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/hcoIG1/upload_ydZcAq-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-05-10 23:26:37",
+      "updateDate": "2018-12-06 14:23:05",
+      "style": {
+        "id": 60,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Quadrupel",
+        "shortName": "Belgian Quad",
+        "description": "Quadrupels or \"Quads\" are characterized by the immense presence of alcohol and balanced flavor, bitterness and aromas. Its color is deep amber to rich chestnut/garnet brown. Often characterized by a mousse-like dense, sometimes amber head will top off a properly poured and served quad. Complex fruity aroma and flavor emerge reminiscent of raisins, dates, figs, grapes, plums often accompanied with a hint of winy character. Caramel, dark sugar and malty sweet flavors and aromas can be intense, not cloying, while complementing fruitiness. Though well attenuated it usually has a full, creamy body. Hop characters do not dominate; low to low-medium bitterness is perceived. Perception of alcohol can be extreme. Clove-like phenolic flavor and aroma should not be evident. Chill haze is acceptable at low serving temperatures. Diacetyl and DMS should not be perceived. Well balanced with savoring/sipping drinkability. Oxidative character if evident in aged Quads should be mild and pleasant.",
+        "ibuMin": "25",
+        "ibuMax": "50",
+        "abvMin": "9",
+        "abvMax": "14",
+        "srmMin": "8",
+        "srmMax": "20",
+        "ogMin": "1.084",
+        "fgMin": "1.014",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:33:33"
+      }
+    },
+    {
+      "id": "CZKbjN",
+      "name": "Belgian Style White",
+      "nameDisplay": "Belgian Style White",
+      "glasswareId": 5,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/CZKbjN/upload_DwTRxe-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/CZKbjN/upload_DwTRxe-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/CZKbjN/upload_DwTRxe-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/CZKbjN/upload_DwTRxe-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/CZKbjN/upload_DwTRxe-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/CZKbjN/upload_DwTRxe-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 10:46:13",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "tvYWBI",
+      "name": "Belgian Style Yeti",
+      "nameDisplay": "Belgian Style Yeti",
+      "description": "Available in 22 oz bottles and draft BELGIAN STYLE YETI is a delicious new blend of brewing traditions – all the malt-driven roastiness of our Yeti Imperial Stout with characteristic spice and fruit notes imparted by our special Belgian yeast strain. Belgian Style Yeti is a one-of-akind beer as mysterious as the mythical creature himself. Impossible? See for yourself; you’ll be a believer, too.",
+      "abv": "9.5",
+      "glasswareId": 5,
+      "srmId": 40,
+      "availableId": 3,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/tvYWBI/upload_9ezozr-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/tvYWBI/upload_9ezozr-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/tvYWBI/upload_9ezozr-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/tvYWBI/upload_9ezozr-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/tvYWBI/upload_9ezozr-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/tvYWBI/upload_9ezozr-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Beef Flamande (Belgian beef stew), Bleu d’Auvergne (French blue cheese), garlic mashed potatoes, vanilla cheesecake, chocolate mousse.",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 40,
+        "name": "40",
+        "hex": "36080A"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "5CxyR2",
+      "name": "Belgian Summer Ale",
+      "nameDisplay": "Belgian Summer Ale",
+      "description": "Our summer seasonal is based on the recipe for our very popular 3rd Anniversary Ale. Aromas of clove, pineapple and bubblegum spill from the glass. The flavor is a combination of spicy Belgian yeast with hints of pear & nutmeg. It finishes with a pleasant tartness. 3rd Anniversary Ale is very light & refreshing and at the same time complex & intriguing.\r\n\r\nIn order to get the characteristic tartness in this beer, we employed a technique called Sour Mashing. This procedure allows natural bacteria to produce a small level of lactic acid prior to fermentation. The result is a complex, slightly sour treat.",
+      "abv": "5.8",
+      "ibu": "15",
+      "glasswareId": 8,
+      "availableId": 6,
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/5CxyR2/upload_2YHWqA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/5CxyR2/upload_2YHWqA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/5CxyR2/upload_2YHWqA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/5CxyR2/upload_2YHWqA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/5CxyR2/upload_2YHWqA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/5CxyR2/upload_2YHWqA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Fruit salad, calamari, grilled fish, light pastas. Gouda & fresh buffalo mozzarella.",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2013-05-09 02:39:34",
+      "updateDate": "2015-12-17 03:47:17",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 6,
+        "name": "Summer",
+        "description": "Available during the summer months."
+      },
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "El33bm",
+      "name": "Belgian Tripel",
+      "nameDisplay": "Belgian Tripel",
+      "description": "The Belgian Tripel is a Trappist beer, a cross between a Dubbel and a Quadruppel. It is extremely heavy, with a full body. Incredibly sweet, with a lot of maltiness, and some “pure” sweetness added by the Belgian Candi Sugar we add to the boil. A big beer, the overall impression is of a large-bodied, sweet, robust ale. Look for it around Christmas, or our birthday weekend (Columbus Day).",
+      "abv": "8.9",
+      "availableId": 4,
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/El33bm/upload_yjLXTf-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/El33bm/upload_yjLXTf-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/El33bm/upload_yjLXTf-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/El33bm/upload_yjLXTf-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/El33bm/upload_yjLXTf-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/El33bm/upload_yjLXTf-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-05-09 00:32:46",
+      "updateDate": "2015-12-17 02:00:43",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "3FleZI",
+      "name": "Belgian Tripel",
+      "nameDisplay": "Belgian Tripel",
+      "description": "Our version of a Belgian Strong Ale that is golden in color, full bodied, and smooth. The complex flavors and aromas derived from the Trappist yeast strain can be described as spicy, phenolic, and sweet. Like other well crafted Tripels, our Tripel hides its higher alcohol content deceptively well, making this a beer you’ll want to sip. Recommended serving size is a 10 ounce pour.",
+      "abv": "9.3",
+      "ibu": "20",
+      "srmId": 6,
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/3FleZI/upload_cGVanS-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/3FleZI/upload_cGVanS-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/3FleZI/upload_cGVanS-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/3FleZI/upload_cGVanS-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/3FleZI/upload_cGVanS-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/3FleZI/upload_cGVanS-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-15 19:09:41",
+      "updateDate": "2015-12-17 18:44:33",
+      "srm": {
+        "id": 6,
+        "name": "6",
+        "hex": "F8A600"
+      },
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "wZf2r6",
+      "name": "Belgian Tripel",
+      "nameDisplay": "Belgian Tripel",
+      "abv": "9",
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/wZf2r6/upload_ROjrff-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/wZf2r6/upload_ROjrff-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/wZf2r6/upload_ROjrff-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/wZf2r6/upload_ROjrff-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/wZf2r6/upload_ROjrff-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/wZf2r6/upload_ROjrff-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-03-03 20:54:31",
+      "updateDate": "2015-12-17 02:37:11",
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "nBkjE1",
+      "name": "Belgian Tripel",
+      "nameDisplay": "Belgian Tripel",
+      "description": "Plummy, hints of liquorice, deceptively mild and smooth. If I burp I get a whiff of grass, but no orange and little coriander. Hard to believe this is 9% as there is no winey undertow - one of the closest Trippels to a 'regular' beer that I've tasted. Very good overall.",
+      "abv": "9",
+      "ibu": "34",
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/nBkjE1/upload_ADEkVJ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/nBkjE1/upload_ADEkVJ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/nBkjE1/upload_ADEkVJ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/nBkjE1/upload_ADEkVJ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/nBkjE1/upload_ADEkVJ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/nBkjE1/upload_ADEkVJ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-06-04 06:38:36",
+      "updateDate": "2018-06-12 20:53:10",
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "fhdXqB",
+      "name": "Belgian Tripel",
+      "nameDisplay": "Belgian Tripel",
+      "description": "A strong golden Belgian style ale with spicy note from a unique Belgian yeast. Hopped with Tettnang and Amarillo hops",
+      "abv": "8.5",
+      "glasswareId": 6,
+      "availableId": 4,
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/fhdXqB/upload_lltcxI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/fhdXqB/upload_lltcxI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/fhdXqB/upload_lltcxI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/fhdXqB/upload_lltcxI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/fhdXqB/upload_lltcxI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/fhdXqB/upload_lltcxI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 07:45:44",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "WsdLi0",
+      "name": "Belgian Tripel",
+      "nameDisplay": "Belgian Tripel",
+      "description": "Our take on a traditional Belgian-style Tripel. A simple grain bill consisting of German pilsner and rye malts supplemented with Belgian candi sugar allows the Belgian Ardennes yeast to take center stage, resulting in a highly digestible and delicious drinking experience.\r\n\r\nTasting notes -\r\nDeep golden color, papaya and light spice on the nose. Sweet fresh hay and fruity yeast on the palate, finishes dry.",
+      "abv": "8.3",
+      "ibu": "25",
+      "glasswareId": 5,
+      "availableId": 2,
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/WsdLi0/upload_GXiVWQ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/WsdLi0/upload_GXiVWQ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/WsdLi0/upload_GXiVWQ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/WsdLi0/upload_GXiVWQ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/WsdLi0/upload_GXiVWQ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/WsdLi0/upload_GXiVWQ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-04-09 19:26:48",
+      "updateDate": "2015-12-16 16:27:57",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "Hx3Ytq",
+      "name": "Belgian Vanilla Stout",
+      "nameDisplay": "Belgian Vanilla Stout",
+      "description": "Toast and malty with a hint of vanilla.",
+      "abv": "5",
+      "ibu": "38",
+      "styleId": 44,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Hx3Ytq/upload_MCUNc7-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Hx3Ytq/upload_MCUNc7-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Hx3Ytq/upload_MCUNc7-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Hx3Ytq/upload_MCUNc7-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Hx3Ytq/upload_MCUNc7-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Hx3Ytq/upload_MCUNc7-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-07-11 18:31:49",
+      "updateDate": "2015-12-16 16:52:23",
+      "style": {
+        "id": 44,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Specialty Stouts",
+        "shortName": "Stout",
+        "description": "See British Origin American-Style Imperial Porter Imperial porters are very dark brown to black in color. No roast barley or strong burnt/astringent black malt character should be perceived. Medium malt, caramel and cocoa-like sweetness should be in harmony with medium-low to medium hop bitterness. This is a full bodied beer. Ale-like fruity esters should be evident but not overpowering and compliment malt derived sweetness and hop character. Hop flavor and aroma may vary from being low to medium-high. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "35",
+        "ibuMax": "50",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:58"
+      }
+    },
+    {
+      "id": "VQTZcs",
+      "name": "Belgian White",
+      "nameDisplay": "Belgian White",
+      "description": "Point Belgian White is a smooth refreshing and distinctive beer brewed in the tradition of Belgian Style White Ales. Our recipe boasts the finest barley and wheat malts, white wheat, rolled oats, and Noble Hallertau and Saaz hops -- naturally flavored with a hint of Curacao orange peel and coriander. The result is a light-bodied beer renowned for its signature golden-white haze. Try it with an orange slice.\r\n\r\nMalts: Pilsen, Raw White Wheat, Red Wheat Malt, Oats\r\nHops: Saaz, Hallertau\r\n\r\nGold Medal Winner US Open Beer, 2010\r\nSilver Medal Winner World Beer Championships, 2010\r\nBronze Medal Winner World Beer Championships, 2008",
+      "abv": "5.38",
+      "ibu": "15",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/VQTZcs/upload_JnQOPV-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/VQTZcs/upload_JnQOPV-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/VQTZcs/upload_JnQOPV-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/VQTZcs/upload_JnQOPV-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/VQTZcs/upload_JnQOPV-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/VQTZcs/upload_JnQOPV-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-15 22:09:23",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "N3HF6K",
+      "name": "Belgian White",
+      "nameDisplay": "Belgian White",
+      "description": "This unfiltered beer brewed with unmalted wheat has a nose of citrus and spice.  It is dry with a silky mouthfeel and a lemony/curacao flavor.  The finish lingers on the bitter side with the proverbial twang of citric acid.",
+      "abv": "5.2",
+      "ibu": "14",
+      "srmId": 3,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/N3HF6K/upload_nZmpQ2-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/N3HF6K/upload_nZmpQ2-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/N3HF6K/upload_nZmpQ2-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Steak Fries and aioli\r\nPastrami Sandwich\r\nHero Burger",
+      "originalGravity": "1.05",
+      "createDate": "2018-07-19 22:35:18",
+      "updateDate": "2018-07-20 14:01:25",
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "SEwr5W",
+      "name": "Belgian White",
+      "nameDisplay": "Belgian White",
+      "description": "Belgian-Style wheat ale brewed with spices",
+      "glasswareId": 5,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/SEwr5W/upload_56Y7sH-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/SEwr5W/upload_56Y7sH-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/SEwr5W/upload_56Y7sH-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/SEwr5W/upload_56Y7sH-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/SEwr5W/upload_56Y7sH-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/SEwr5W/upload_56Y7sH-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 08:05:01",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "GdiKqh",
+      "name": "Belgian White",
+      "nameDisplay": "Belgian White",
+      "description": "This Belgian-style white ale is light and refreshing, yet quietly complex. In the tradition of Belgian wheat ales that rely on orange peel and coriander for the citrus aroma, the Yellowhammer interpretation instead uses Kaffir lime leaves and fresh ginger to give the brew its hint of spice. Made with German and pilsner malts, German wheat and flaked rye, the white derives a citrus character from a small amount of Amarillo hops, added to the brew at flame out.",
+      "abv": "4.8",
+      "glasswareId": 8,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/GdiKqh/upload_huKMm7-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/GdiKqh/upload_huKMm7-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/GdiKqh/upload_huKMm7-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/GdiKqh/upload_huKMm7-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/GdiKqh/upload_huKMm7-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/GdiKqh/upload_huKMm7-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-22 22:14:17",
+      "updateDate": "2015-12-16 15:17:44",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "dDXOEp",
+      "name": "Belgian White",
+      "nameDisplay": "Belgian White",
+      "description": "Blue Moon® Belgian White* was our first year-round release back in 1995.\r\n\r\nIt started with our brewmaster, Keith Villa, wanting to craft a beer inspired by the flavorful Belgian Wits he enjoyed while studying brewing in Belgium. He brewed his interpretation using Valencia orange peel versus the traditional tart Curaçao orange peel, for a subtle sweetness. Then he added oats and wheat to create a smooth, creamy finish that’s inviting to the palate. As a final touch, he garnished the beer with an orange slice to heighten the citrus aroma and taste. Its natural unfiltered appearance adds to the depth of flavors in Belgian White*.\r\n \r\nAvailable in 12-oz. bottles, 6-pack, 12-pack, Brewmaster’s can, 16-oz. can, Draft",
+      "abv": "5.4",
+      "ibu": "9",
+      "glasswareId": 9,
+      "srmId": 3,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dDXOEp/upload_aKoVy9-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dDXOEp/upload_aKoVy9-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dDXOEp/upload_aKoVy9-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dDXOEp/upload_aKoVy9-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dDXOEp/upload_aKoVy9-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dDXOEp/upload_aKoVy9-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "The beer’s light, spicy citrus flavors pair well with seafood such as grilled shrimp, Asian dishes like pad thai, and marinated chicken dishes.\r\nOne of our favorite recipes to pair with Blue Moon Belgian White* is Artfully Crafted Grilled Chicken.\r\n\r\nhttp://bluemoonbrewingcompany.com/recipes/recipe/blue-moon-belgian-white-artfully-crafted-grilled-chicken",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:42:52",
+      "updateDate": "2019-07-10 18:01:04",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "TTsrbp",
+      "name": "Belgian White 100",
+      "nameDisplay": "Belgian White 100",
+      "abv": "3.5",
+      "ibu": "12",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/TTsrbp/upload_oHk7tw-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/TTsrbp/upload_oHk7tw-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/TTsrbp/upload_oHk7tw-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/TTsrbp/upload_oHk7tw-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/TTsrbp/upload_oHk7tw-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/TTsrbp/upload_oHk7tw-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2019-07-02 18:04:59",
+      "updateDate": "2019-07-02 18:08:08",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "TLmLrb",
+      "name": "Belgian White Mamba",
+      "nameDisplay": "Belgian White Mamba",
+      "description": "Belgian White Mamba is a slam dunk Belgian style wheat ale brewed with orange peel and coriander. We created our own version of the “Big 3”, using three types of wheat making Mamba crisp, refreshing and easy to drink.",
+      "abv": "4.8",
+      "ibu": "14",
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/TLmLrb/upload_UcHcX4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/TLmLrb/upload_UcHcX4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/TLmLrb/upload_UcHcX4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/TLmLrb/upload_UcHcX4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/TLmLrb/upload_UcHcX4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/TLmLrb/upload_UcHcX4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-12-20 15:39:19",
+      "updateDate": "2018-12-21 20:41:25",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "EStbPs",
+      "name": "Belgian Wit",
+      "nameDisplay": "Belgian Wit",
+      "description": "A spiced wheat ale with hints of coriander, grapefruit, and tangerines. Brewed with four grains and four hops. Anyone want to join us for a zesting party to brew the next batch?",
+      "abv": "6.5",
+      "ibu": "28",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/EStbPs/upload_TLIni1-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/EStbPs/upload_TLIni1-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/EStbPs/upload_TLIni1-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/EStbPs/upload_TLIni1-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/EStbPs/upload_TLIni1-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/EStbPs/upload_TLIni1-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-02-11 20:24:07",
+      "updateDate": "2015-12-17 22:24:07",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "dR5wk4",
+      "name": "Belgian Wit",
+      "nameDisplay": "Belgian Wit",
+      "description": "Mill Street Belgian Style Wit is a refreshing beer made with a unique blend of ingredients. The soft texture and pale color comes from the use of wheat, coriander, orange peel, and our special yeast produce the complexity and depth of fruity flavors contained within the glass. This beer is unfiltered. The resulting cloudiness gave rise to the term wit, or White beer.\r\n\r\nWinner of Bronze medal at the 2008 World Beer Cup in San Diego",
+      "abv": "5.2",
+      "ibu": "13",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dR5wk4/upload_NgRrlw-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dR5wk4/upload_NgRrlw-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dR5wk4/upload_NgRrlw-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dR5wk4/upload_NgRrlw-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dR5wk4/upload_NgRrlw-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dR5wk4/upload_NgRrlw-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "salads with oil and vinegar dressing, grilled scallops, brunch fare, Gouda cheese",
+      "createDate": "2014-10-15 14:19:31",
+      "updateDate": "2016-07-13 18:01:38",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "mecdxM",
+      "name": "Belgian Wit Ale",
+      "nameDisplay": "Belgian Wit Ale",
+      "description": "Belgian Wit Ale. A traditional, unfiltered Belgian Wit beer brewed with bitter orange peel and coriander to create a unique beer that is both sweet and slightly sour.",
+      "abv": "6",
+      "ibu": "20",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/mecdxM/upload_WvyjJH-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/mecdxM/upload_WvyjJH-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/mecdxM/upload_WvyjJH-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/mecdxM/upload_WvyjJH-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/mecdxM/upload_WvyjJH-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/mecdxM/upload_WvyjJH-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.05",
+      "createDate": "2016-11-11 21:08:23",
+      "updateDate": "2016-11-14 14:14:00",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "zFfQr8",
+      "name": "Belgian Witbier w/ Ginger and Cardamom",
+      "nameDisplay": "Belgian Witbier w/ Ginger and Cardamom",
+      "description": "This Belgian Witbier combines traditional bitter orange peel and coriander with the aromatics of cardamom and the slight spiciness of ginger.",
+      "abv": "5",
+      "ibu": "16",
+      "availableId": 5,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zFfQr8/upload_yLCQBm-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zFfQr8/upload_yLCQBm-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zFfQr8/upload_yLCQBm-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/zFfQr8/upload_yLCQBm-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/zFfQr8/upload_yLCQBm-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/zFfQr8/upload_yLCQBm-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-02-25 17:16:58",
+      "updateDate": "2015-12-17 22:58:24",
+      "available": {
+        "id": 5,
+        "name": "Spring",
+        "description": "Available during the spring months."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "gFGhYA",
+      "name": "Belgian Witte",
+      "nameDisplay": "Belgian Witte",
+      "description": "An unfiltered wheat beer brewed with un-malted wheat and flaked oats to give it its cloudy golden color and smooth mouth feel. Coriander and bitter orange peel are added to the boil to impart its spicy aroma and flavor. Belgian Witte is fermented with a special Belgian yeast strain that gives it its peppery, banana, clove and bubble gum flavors. The Belgian Witte is a Seasonal and contains 4.2% ABV.",
+      "abv": "4.2",
+      "glasswareId": 9,
+      "srmId": 3,
+      "availableId": 4,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/gFGhYA/upload_j0oTlH-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/gFGhYA/upload_j0oTlH-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/gFGhYA/upload_j0oTlH-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/gFGhYA/upload_j0oTlH-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/gFGhYA/upload_j0oTlH-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/gFGhYA/upload_j0oTlH-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 13:06:11",
+      "glass": {
+        "id": 9,
+        "name": "Weizen",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 3,
+        "name": "3",
+        "hex": "FFCA5A"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "DmTBMW",
+      "name": "Belgian-Pale",
+      "nameDisplay": "Belgian-Pale",
+      "description": "This one came to us in a dream and doesn't fit style guidelines at all. Essentially, it's a Pale Ale hopped with noble hops and fermented with a special Belgian strain of yeast. Rose hips and oak finish off this truly unique offering. Enjoy!",
+      "availableId": 3,
+      "styleId": 62,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/DmTBMW/upload_UxqoWI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/DmTBMW/upload_UxqoWI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/DmTBMW/upload_UxqoWI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/DmTBMW/upload_UxqoWI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/DmTBMW/upload_UxqoWI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/DmTBMW/upload_UxqoWI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-04-12 00:55:05",
+      "updateDate": "2018-11-02 02:13:07",
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 62,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Ale",
+        "shortName": "Belgian Pale",
+        "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "6",
+        "srmMin": "6",
+        "srmMax": "12",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:06"
+      }
+    },
+    {
+      "id": "8lcPAb",
+      "name": "Belgian-Style Blonde Ale",
+      "nameDisplay": "Belgian-Style Blonde Ale",
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8lcPAb/upload_1K326Y-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8lcPAb/upload_1K326Y-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8lcPAb/upload_1K326Y-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8lcPAb/upload_1K326Y-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8lcPAb/upload_1K326Y-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8lcPAb/upload_1K326Y-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-17 12:40:39",
+      "updateDate": "2015-12-17 12:00:09",
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "X8qNCS",
+      "name": "Belgian-Style Blonde IPA",
+      "nameDisplay": "Belgian-Style Blonde IPA",
+      "abv": "7.5",
+      "styleId": 61,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/X8qNCS/upload_Tghvc3-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/X8qNCS/upload_Tghvc3-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/X8qNCS/upload_Tghvc3-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/X8qNCS/upload_Tghvc3-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/X8qNCS/upload_Tghvc3-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/X8qNCS/upload_Tghvc3-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-02-19 11:44:59",
+      "updateDate": "2015-12-16 23:08:48",
+      "style": {
+        "id": 61,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Blonde Ale",
+        "shortName": "Belgian Blonde",
+        "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "15",
+        "ibuMax": "30",
+        "abvMin": "6",
+        "abvMax": "7.8",
+        "srmMin": "4",
+        "srmMax": "7",
+        "ogMin": "1.054",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:01"
+      }
+    },
+    {
+      "id": "NP41TT",
+      "name": "Belgian-Style Dark Ale",
+      "nameDisplay": "Belgian-Style Dark Ale",
+      "styleId": 28,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NP41TT/upload_2vGFRA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NP41TT/upload_2vGFRA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NP41TT/upload_2vGFRA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/NP41TT/upload_2vGFRA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/NP41TT/upload_2vGFRA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/NP41TT/upload_2vGFRA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-17 12:41:18",
+      "updateDate": "2015-12-17 12:19:29",
+      "style": {
+        "id": 28,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Dark American-Belgo-Style Ale",
+        "shortName": "American/Belgian Dark",
+        "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category",
+        "srmMin": "16",
+        "srmMax": "16",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:14"
+      }
+    },
+    {
+      "id": "d09ECn",
+      "name": "Belgian-Style Dark Ale",
+      "nameDisplay": "Belgian-Style Dark Ale",
+      "abv": "6",
+      "availableId": 3,
+      "styleId": 28,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/d09ECn/upload_nRb8SE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/d09ECn/upload_nRb8SE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/d09ECn/upload_nRb8SE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/d09ECn/upload_nRb8SE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/d09ECn/upload_nRb8SE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/d09ECn/upload_nRb8SE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-03-16 22:43:16",
+      "updateDate": "2018-11-02 02:13:07",
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 28,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Dark American-Belgo-Style Ale",
+        "shortName": "American/Belgian Dark",
+        "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category",
+        "srmMin": "16",
+        "srmMax": "16",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:14"
+      }
+    },
+    {
+      "id": "wPdO62",
+      "name": "Belgian-Style Dubbel",
+      "nameDisplay": "Belgian-Style Dubbel",
+      "styleId": 58,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/wPdO62/upload_5qJCzu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/wPdO62/upload_5qJCzu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/wPdO62/upload_5qJCzu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/wPdO62/upload_5qJCzu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/wPdO62/upload_5qJCzu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/wPdO62/upload_5qJCzu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-03-13 12:20:33",
+      "updateDate": "2015-12-17 10:28:28",
+      "style": {
+        "id": 58,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Dubbel",
+        "shortName": "Belgian Dubbel",
+        "description": "This medium-bodied, red to dark brown colored ale has a malty sweetness and chocolate-like caramel aroma. A light hop flavor and/or aroma is acceptable. Dubbels are also characterized by low-medium to medium bitterness. No diacetyl is acceptable. Yeastgenerated fruity esters (especially banana) are appropriate at low levels. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Often bottle conditioned a slight yeast haze and flavor may be evident.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "6.25",
+        "abvMax": "7.5",
+        "srmMin": "16",
+        "srmMax": "36",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:45"
+      }
+    },
+    {
+      "id": "4GR4Ib",
+      "name": "Belgian-Style Dubbel Nitro",
+      "nameDisplay": "Belgian-Style Dubbel Nitro",
+      "description": "Super smooth with rich malt flavors and a dry finish.",
+      "abv": "7.9",
+      "ibu": "30",
+      "styleId": 58,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4GR4Ib/upload_gzRpAx-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4GR4Ib/upload_gzRpAx-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4GR4Ib/upload_gzRpAx-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4GR4Ib/upload_gzRpAx-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4GR4Ib/upload_gzRpAx-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4GR4Ib/upload_gzRpAx-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-07-26 20:04:37",
+      "updateDate": "2018-07-26 20:05:27",
+      "style": {
+        "id": 58,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Dubbel",
+        "shortName": "Belgian Dubbel",
+        "description": "This medium-bodied, red to dark brown colored ale has a malty sweetness and chocolate-like caramel aroma. A light hop flavor and/or aroma is acceptable. Dubbels are also characterized by low-medium to medium bitterness. No diacetyl is acceptable. Yeastgenerated fruity esters (especially banana) are appropriate at low levels. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Often bottle conditioned a slight yeast haze and flavor may be evident.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "6.25",
+        "abvMax": "7.5",
+        "srmMin": "16",
+        "srmMax": "36",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:45"
+      }
+    },
+    {
+      "id": "0PFp3U",
+      "name": "Belgian-Style Imperial Stout",
+      "nameDisplay": "Belgian-Style Imperial Stout",
+      "abv": "9",
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/0PFp3U/upload_W1RaKI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/0PFp3U/upload_W1RaKI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/0PFp3U/upload_W1RaKI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/0PFp3U/upload_W1RaKI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/0PFp3U/upload_W1RaKI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/0PFp3U/upload_W1RaKI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-07-24 18:32:03",
+      "updateDate": "2015-12-17 04:19:10",
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "ukolxF",
+      "name": "Belgian-Style India Pale Ale",
+      "nameDisplay": "Belgian-Style India Pale Ale",
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ukolxF/upload_jTh0sd-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ukolxF/upload_jTh0sd-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ukolxF/upload_jTh0sd-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ukolxF/upload_jTh0sd-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ukolxF/upload_jTh0sd-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ukolxF/upload_jTh0sd-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-29 10:37:16",
+      "updateDate": "2015-12-17 13:00:16",
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "VtZgi2",
+      "name": "Belgian-Style Pale Ale",
+      "nameDisplay": "Belgian-Style Pale Ale",
+      "description": "Our first offering from Flat Earth Brewing Company is this complex Belgian-style pale ale, brewed with Belgian malts that yield a copper-red hue with hints of raisin, cherry and toast. The moderate yeast character marks itself with flavors of clove and spice but finishes dry to leave you thirsting for more. Our Belgian-style session ale is brewed to be enjoyed with a variety of foods, but try it with steamed mussels, a rack of lamb or a chargrilled steak.",
+      "abv": "5.2",
+      "ibu": "25",
+      "glasswareId": 5,
+      "srmId": 14,
+      "availableId": 1,
+      "styleId": 62,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/VtZgi2/upload_L92FcN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/VtZgi2/upload_L92FcN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/VtZgi2/upload_L92FcN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/VtZgi2/upload_L92FcN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/VtZgi2/upload_L92FcN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/VtZgi2/upload_L92FcN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.05",
+      "createDate": "2012-01-03 02:43:13",
+      "updateDate": "2017-01-09 19:03:46",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 14,
+        "name": "14",
+        "hex": "C35900"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 62,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Ale",
+        "shortName": "Belgian Pale",
+        "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "6",
+        "srmMin": "6",
+        "srmMax": "12",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:06"
+      }
+    },
+    {
+      "id": "4T5uMG",
+      "name": "Belgian-Style Pale Ale",
+      "nameDisplay": "Belgian-Style Pale Ale",
+      "description": "Get Your Pumpkin Beer Somewhere Else\r\nRefreshing enough for a warm September day and hearty enough for a cool October evening, Summit Belgian-Style Pale Ale is an elegant, complex ale tailor-made for autumn in Minnesota. With spicy and floral European hops, select malts from Germany, England, and Belgium, and a rad Belgian yeast strain, this spritzy ale offers up subtle touches of graham cracker and toast as mild notes of orange zest lead to thirst-quenching bitterness. Other flavors include subtle hints of clove, honey, rosemary, lavender, and cotton candy.\r\n\r\nConversation Starter\r\nInspired by the world-class pale ales of Belgium’s West Flanders region, Summit Belgian-Style Pale Ale reflects our classical approach to beer and brewing. This is what you get when you pair old-world equipment and recipes with modern ingredients and state-of-the-art technology.",
+      "abv": "5.5",
+      "ibu": "35",
+      "availableId": 4,
+      "styleId": 62,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4T5uMG/upload_IXeBmI-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4T5uMG/upload_IXeBmI-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4T5uMG/upload_IXeBmI-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4T5uMG/upload_IXeBmI-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4T5uMG/upload_IXeBmI-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4T5uMG/upload_IXeBmI-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.053",
+      "createDate": "2017-11-07 04:08:26",
+      "updateDate": "2017-11-07 14:43:29",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 62,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Pale Ale",
+        "shortName": "Belgian Pale",
+        "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "6",
+        "srmMin": "6",
+        "srmMax": "12",
+        "ogMin": "1.044",
+        "fgMin": "1.008",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:06"
+      }
+    },
+    {
+      "id": "l5LDK2",
+      "name": "Belgian-Style Quad Ale",
+      "nameDisplay": "Belgian-Style Quad Ale",
+      "styleId": 60,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/l5LDK2/upload_WqFTRq-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/l5LDK2/upload_WqFTRq-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/l5LDK2/upload_WqFTRq-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/l5LDK2/upload_WqFTRq-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/l5LDK2/upload_WqFTRq-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/l5LDK2/upload_WqFTRq-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-17 12:40:59",
+      "updateDate": "2015-12-17 12:28:14",
+      "style": {
+        "id": 60,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Quadrupel",
+        "shortName": "Belgian Quad",
+        "description": "Quadrupels or \"Quads\" are characterized by the immense presence of alcohol and balanced flavor, bitterness and aromas. Its color is deep amber to rich chestnut/garnet brown. Often characterized by a mousse-like dense, sometimes amber head will top off a properly poured and served quad. Complex fruity aroma and flavor emerge reminiscent of raisins, dates, figs, grapes, plums often accompanied with a hint of winy character. Caramel, dark sugar and malty sweet flavors and aromas can be intense, not cloying, while complementing fruitiness. Though well attenuated it usually has a full, creamy body. Hop characters do not dominate; low to low-medium bitterness is perceived. Perception of alcohol can be extreme. Clove-like phenolic flavor and aroma should not be evident. Chill haze is acceptable at low serving temperatures. Diacetyl and DMS should not be perceived. Well balanced with savoring/sipping drinkability. Oxidative character if evident in aged Quads should be mild and pleasant.",
+        "ibuMin": "25",
+        "ibuMax": "50",
+        "abvMin": "9",
+        "abvMax": "14",
+        "srmMin": "8",
+        "srmMax": "20",
+        "ogMin": "1.084",
+        "fgMin": "1.014",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:33:33"
+      }
+    },
+    {
+      "id": "l1HxRv",
+      "name": "Belgian-Style Single Ale",
+      "nameDisplay": "Belgian-Style Single Ale",
+      "abv": "5",
+      "styleId": 70,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/l1HxRv/upload_jgFgLl-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/l1HxRv/upload_jgFgLl-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/l1HxRv/upload_jgFgLl-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/l1HxRv/upload_jgFgLl-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/l1HxRv/upload_jgFgLl-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/l1HxRv/upload_jgFgLl-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-27 12:49:18",
+      "updateDate": "2015-12-17 07:28:26",
+      "style": {
+        "id": 70,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Other Belgian-Style Ales",
+        "shortName": "Belgian Ale",
+        "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:33:05"
+      }
+    },
+    {
+      "id": "YjMCFT",
+      "name": "Belgian-Style Tripel",
+      "nameDisplay": "Belgian-Style Tripel",
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/YjMCFT/upload_1SaSj4-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/YjMCFT/upload_1SaSj4-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/YjMCFT/upload_1SaSj4-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/YjMCFT/upload_1SaSj4-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/YjMCFT/upload_1SaSj4-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/YjMCFT/upload_1SaSj4-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-03-13 12:20:51",
+      "updateDate": "2015-12-17 09:37:56",
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "7sze7g",
+      "name": "Belgian-Style Tripel",
+      "nameDisplay": "Belgian-Style Tripel",
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/7sze7g/upload_u63urT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/7sze7g/upload_u63urT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/7sze7g/upload_u63urT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/7sze7g/upload_u63urT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/7sze7g/upload_u63urT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/7sze7g/upload_u63urT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-26 12:57:08",
+      "updateDate": "2015-12-17 08:21:13",
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "zwpAsr",
+      "name": "Belgian-Style Tripel aka Tow Truck",
+      "nameDisplay": "Belgian-Style Tripel aka Tow Truck",
+      "description": "This beer known to locals as the Tow Truck, has a fruity, floral aroma and the delicious flavor of peaches, pears and apples that will hook you in.",
+      "abv": "9.1",
+      "availableId": 1,
+      "styleId": 59,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/zwpAsr/upload_3zRJqe-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/zwpAsr/upload_3zRJqe-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/zwpAsr/upload_3zRJqe-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-01-04 03:10:22",
+      "updateDate": "2018-05-16 17:34:08",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 59,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style Tripel",
+        "shortName": "Belgian Tripel",
+        "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+        "ibuMin": "20",
+        "ibuMax": "45",
+        "abvMin": "7",
+        "abvMax": "10",
+        "srmMin": "4",
+        "srmMax": "9",
+        "ogMin": "1.07",
+        "fgMin": "1.01",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:31:50"
+      }
+    },
+    {
+      "id": "pSKthM",
+      "name": "Belgian-Style White Ale",
+      "nameDisplay": "Belgian-Style White Ale",
+      "abv": "5",
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/pSKthM/upload_Ntqc6N-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/pSKthM/upload_Ntqc6N-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/pSKthM/upload_Ntqc6N-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/pSKthM/upload_Ntqc6N-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/pSKthM/upload_Ntqc6N-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/pSKthM/upload_Ntqc6N-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-02-09 15:14:06",
+      "updateDate": "2015-12-17 09:35:14",
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "5LZYca",
+      "name": "Belgian-Style White Ale",
+      "nameDisplay": "Belgian-Style White Ale",
+      "description": "Our interpretation of a traditional Belgian wheat beer, Triangle White Ale is unique and truly refreshing. The style gets its name from the white, slightly cloudy appearance of this unfiltered wheat ale. Brewed with a generous amount of white and red wheat that is grown locally in Scotland County, NC, and our own special blend of organic spices, makes Triangle White Ale complex in flavor without being overpowering or cloying. Overall, it is a beer that is light, fruity and very drinkable during a hot summer day. 5% abv. Silver Medal winner at the 2010 Carolina Championship of Beer.",
+      "abv": "5",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/5LZYca/upload_fQCtb9-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/5LZYca/upload_fQCtb9-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/5LZYca/upload_fQCtb9-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/5LZYca/upload_fQCtb9-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/5LZYca/upload_fQCtb9-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/5LZYca/upload_fQCtb9-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Great with seafood, shellfish, poultry. Peppery and tangy cheeses also work well with White Ales.",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 11:26:30",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "s6xmV6",
+      "name": "Belgian-Style Wit",
+      "nameDisplay": "Belgian-Style Wit",
+      "description": "Belgian-style beers have become popular with craft beer drinkers because of their dynamic offbeat flavors.  They can range from fruity to tangy tart in one sip.  Our Belgian-style wit (white) has pilzen malt as well as malted and unmalted wheat to produce that classic hazzy canary colors and soft palate.  Corriander (seed of cilantro) and orange peel are used in the brewing process to develop a delicious taste best described as citrus/celery like.  This beer drinks easy and finishes with a refreshing tartness.",
+      "abv": "5.5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 65,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/s6xmV6/upload_DChLAG-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/s6xmV6/upload_DChLAG-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/s6xmV6/upload_DChLAG-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/s6xmV6/upload_DChLAG-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/s6xmV6/upload_DChLAG-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/s6xmV6/upload_DChLAG-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2015-12-16 05:54:24",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 65,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+        "shortName": "Witbier",
+        "description": "Belgian white ales are very pale in color and are brewed using unmalted wheat and malted barley and are spiced with coriander and orange peel. Coriander and light orange peel aroma should be perceived as such or as an unidentified spiciness. Phenolic spiciness and yeast flavors may be evident at mild levels. These beers are traditionally bottle conditioned and served cloudy. An unfiltered starch and yeast haze should be part of the appearance. The low to medium body should have some degree of creaminess from wheat starch. The style is further characterized by the use of noble-type hops to achieve low hop bitterness and little to no apparent hop flavor. This beer has no diacetyl and a low to medium fruity-ester level. Mild acidity is appropriate.",
+        "ibuMin": "10",
+        "ibuMax": "17",
+        "abvMin": "4.8",
+        "abvMax": "5.2",
+        "srmMin": "2",
+        "srmMax": "4",
+        "ogMin": "1.044",
+        "fgMin": "1.006",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:32:30"
+      }
+    },
+    {
+      "id": "J0fYDF",
+      "name": "Belgica",
+      "nameDisplay": "Belgica",
+      "description": "Belgica —the Roman name for the Low Countries—is a marriage of the best in American and Belgian brewing traditions. Belgian pilsner malt, a generous amount of American and European hops and a unique Belgian yeast strain combine to give Belgica big notes of citrus and spice, creating a lively concoction perfect for spring in the Rockies—or the Ardennes.",
+      "abv": "7.2",
+      "glasswareId": 5,
+      "availableId": 3,
+      "styleId": 70,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/J0fYDF/upload_F2Utdh-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/J0fYDF/upload_F2Utdh-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/J0fYDF/upload_F2Utdh-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/J0fYDF/upload_F2Utdh-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/J0fYDF/upload_F2Utdh-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/J0fYDF/upload_F2Utdh-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:47",
+      "updateDate": "2018-11-02 02:13:07",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 70,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Other Belgian-Style Ales",
+        "shortName": "Belgian Ale",
+        "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:33:05"
+      }
+    },
+    {
+      "id": "PBwZzG",
+      "name": "Belgie",
+      "nameDisplay": "Belgie",
+      "description": "Dry and peppery belgian ale that hides its strength. Accented by an addition of rye",
+      "abv": "6.6",
+      "ibu": "27",
+      "glasswareId": 8,
+      "availableId": 1,
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/PBwZzG/upload_R6ignc-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/PBwZzG/upload_R6ignc-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/PBwZzG/upload_R6ignc-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/PBwZzG/upload_R6ignc-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/PBwZzG/upload_R6ignc-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/PBwZzG/upload_R6ignc-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-09-30 22:26:07",
+      "updateDate": "2017-08-30 18:24:27",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    }
+  ],
+  "status": "success"
+}

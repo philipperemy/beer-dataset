@@ -1,0 +1,2592 @@
+{
+  "currentPage": 273,
+  "numberOfPages": 603,
+  "totalResults": 30121,
+  "data": [
+    {
+      "id": "GorxaO",
+      "name": "Imperial Pumpkin Porter",
+      "nameDisplay": "Imperial Pumpkin Porter",
+      "abv": "8.6",
+      "styleId": 121,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/GorxaO/upload_Xuf99Q-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/GorxaO/upload_Xuf99Q-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/GorxaO/upload_Xuf99Q-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/GorxaO/upload_Xuf99Q-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/GorxaO/upload_Xuf99Q-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/GorxaO/upload_Xuf99Q-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-12 15:12:48",
+      "updateDate": "2015-12-18 04:21:53",
+      "style": {
+        "id": 121,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Pumpkin Beer",
+        "shortName": "Pumpkin Beer",
+        "description": "Pumpkin beers are any beers using pumpkins (Cucurbito pepo) as an adjunct in either mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Pumpkin qualities should not be overpowered by hop character. These may or may not be spiced or flavored with other things. A statement by the brewer explaining the nature of the beer is essential for fair assessment in competitions. If this beer is a classic style with pumpkin, the brewer should also specify the classic style.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:28"
+      }
+    },
+    {
+      "id": "pHOEo6",
+      "name": "Imperial Pumpkin Porter",
+      "nameDisplay": "Imperial Pumpkin Porter",
+      "description": "Imperial Pumpkin Porter - Local pumpkins, lovingly smashed by our brewers.  Summit brewers continue to blaze new trails with the latest in our Unchained Series: Imperial Pumpkin Porter.  Dark, Full bodied. Chocolaty with a hint of pumpkin and just the right amount of spices.",
+      "abv": "7.5",
+      "ibu": "40",
+      "glasswareId": 5,
+      "srmId": 40,
+      "availableId": 2,
+      "styleId": 18,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/pHOEo6/upload_aBeaq0-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/pHOEo6/upload_aBeaq0-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/pHOEo6/upload_aBeaq0-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/pHOEo6/upload_aBeaq0-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/pHOEo6/upload_aBeaq0-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/pHOEo6/upload_aBeaq0-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2017-01-09 16:19:56",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 40,
+        "name": "40",
+        "hex": "36080A"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 18,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Brown Porter",
+        "shortName": "Brown Porter",
+        "description": "Brown porters are mid to dark brown (may have red tint) in color. No roast barley or strong burnt/black malt character should be perceived. Low to medium malt sweetness, caramel and chocolate is acceptable along with medium hop bitterness. This is a lightto medium-bodied beer. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "30",
+        "abvMin": "4.5",
+        "abvMax": "6",
+        "srmMin": "20",
+        "srmMax": "35",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:43"
+      }
+    },
+    {
+      "id": "lpdD5g",
+      "name": "Imperial Pumpkin Spice",
+      "nameDisplay": "Imperial Pumpkin Spice",
+      "availableId": 4,
+      "styleId": 121,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/lpdD5g/upload_n5YoSP-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/lpdD5g/upload_n5YoSP-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/lpdD5g/upload_n5YoSP-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/lpdD5g/upload_n5YoSP-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/lpdD5g/upload_n5YoSP-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/lpdD5g/upload_n5YoSP-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-02 12:09:31",
+      "updateDate": "2015-12-16 19:31:17",
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 121,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Pumpkin Beer",
+        "shortName": "Pumpkin Beer",
+        "description": "Pumpkin beers are any beers using pumpkins (Cucurbito pepo) as an adjunct in either mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Pumpkin qualities should not be overpowered by hop character. These may or may not be spiced or flavored with other things. A statement by the brewer explaining the nature of the beer is essential for fair assessment in competitions. If this beer is a classic style with pumpkin, the brewer should also specify the classic style.",
+        "ibuMin": "5",
+        "ibuMax": "70",
+        "abvMin": "2.5",
+        "abvMax": "12",
+        "srmMin": "5",
+        "srmMax": "50",
+        "ogMin": "1.03",
+        "fgMin": "1.006",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:44:28"
+      }
+    },
+    {
+      "id": "Z5n9qX",
+      "name": "Imperial Rebellion",
+      "nameDisplay": "Imperial Rebellion",
+      "abv": "9.3",
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Z5n9qX/upload_6cU9qg-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Z5n9qX/upload_6cU9qg-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Z5n9qX/upload_6cU9qg-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Z5n9qX/upload_6cU9qg-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Z5n9qX/upload_6cU9qg-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Z5n9qX/upload_6cU9qg-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-10-22 12:54:18",
+      "updateDate": "2015-12-16 20:20:54",
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "lJRPdp",
+      "name": "Imperial Red",
+      "nameDisplay": "Imperial Red",
+      "abv": "8.5",
+      "glasswareId": 5,
+      "styleId": 22,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/lJRPdp/upload_qQWxXO-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/lJRPdp/upload_qQWxXO-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/lJRPdp/upload_qQWxXO-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/lJRPdp/upload_qQWxXO-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/lJRPdp/upload_qQWxXO-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/lJRPdp/upload_qQWxXO-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2015-12-16 11:30:39",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 22,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Irish-Style Red Ale",
+        "shortName": "Irish Red",
+        "description": "Irish-style red ales range from light red-amber-copper to light brown in color. These ales have a medium hop bitterness and flavor. They often don't have hop aroma. Irish-style red ales have low to medium candy-like caramel malt sweetness and may have a balanced subtle degree of roast barley or roast malt character and complexity.  Irish-style Red Ales have a medium body. The style may have low levels of fruity-ester flavor and aroma. Diacetyl should be absent or at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.",
+        "ibuMin": "20",
+        "ibuMax": "28",
+        "abvMin": "4",
+        "abvMax": "4.5",
+        "srmMin": "11",
+        "srmMax": "18",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:38"
+      }
+    },
+    {
+      "id": "vkaTEy",
+      "name": "Imperial Red",
+      "nameDisplay": "Imperial Red",
+      "abv": "8.8",
+      "ibu": "37",
+      "glasswareId": 8,
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/vkaTEy/upload_ndZxAN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/vkaTEy/upload_ndZxAN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/vkaTEy/upload_ndZxAN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/vkaTEy/upload_ndZxAN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/vkaTEy/upload_ndZxAN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/vkaTEy/upload_ndZxAN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "originalGravity": "1.08",
+      "createDate": "2015-02-09 13:07:24",
+      "updateDate": "2015-12-17 21:16:14",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "Q4rRd4",
+      "name": "Imperial Red",
+      "nameDisplay": "Imperial Red",
+      "description": "A N.W. style imperial red ale.  A big malty backbone is balanced with a generous amount of N.W. hops",
+      "abv": "8.5",
+      "ibu": "85",
+      "glasswareId": 2,
+      "srmId": 18,
+      "availableId": 1,
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/Q4rRd4/upload_xfogFc-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/Q4rRd4/upload_xfogFc-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/Q4rRd4/upload_xfogFc-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/Q4rRd4/upload_xfogFc-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/Q4rRd4/upload_xfogFc-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/Q4rRd4/upload_xfogFc-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "bbq, steak, ripe cheese",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "originalGravity": "1.076",
+      "createDate": "2013-08-14 23:11:28",
+      "updateDate": "2017-02-20 21:46:50",
+      "glass": {
+        "id": 2,
+        "name": "Goblet",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 18,
+        "name": "18",
+        "hex": "A63E00"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "T74Xh7",
+      "name": "Imperial Red",
+      "nameDisplay": "Imperial Red",
+      "abv": "8.1",
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/T74Xh7/upload_PXiDqr-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/T74Xh7/upload_PXiDqr-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/T74Xh7/upload_PXiDqr-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/T74Xh7/upload_PXiDqr-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/T74Xh7/upload_PXiDqr-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/T74Xh7/upload_PXiDqr-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-04-30 13:48:12",
+      "updateDate": "2015-12-17 11:41:20",
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "L0RCJk",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "abv": "10.7",
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/L0RCJk/upload_YkXopy-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/L0RCJk/upload_YkXopy-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/L0RCJk/upload_YkXopy-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/L0RCJk/upload_YkXopy-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/L0RCJk/upload_YkXopy-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/L0RCJk/upload_YkXopy-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-10-23 04:10:12",
+      "updateDate": "2015-12-17 19:43:45",
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "qru3r7",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "description": "Boldly flavored double red ale that combines caramel malt for sweetness mixed with plenty of dry and late kettle hop aromas from three killer American strains.",
+      "abv": "7.8",
+      "glasswareId": 6,
+      "availableId": 2,
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qru3r7/upload_X8SJOU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qru3r7/upload_X8SJOU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qru3r7/upload_X8SJOU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qru3r7/upload_X8SJOU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qru3r7/upload_X8SJOU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qru3r7/upload_X8SJOU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Chicken, seafood, and spicy meats.",
+      "createDate": "2012-03-05 17:39:08",
+      "updateDate": "2015-12-16 15:02:19",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "8zibUO",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "abv": "7.6",
+      "glasswareId": 5,
+      "styleId": 22,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/8zibUO/upload_hDxrdv-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/8zibUO/upload_hDxrdv-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/8zibUO/upload_hDxrdv-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/8zibUO/upload_hDxrdv-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/8zibUO/upload_hDxrdv-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/8zibUO/upload_hDxrdv-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2015-12-16 10:15:11",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 22,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Irish-Style Red Ale",
+        "shortName": "Irish Red",
+        "description": "Irish-style red ales range from light red-amber-copper to light brown in color. These ales have a medium hop bitterness and flavor. They often don't have hop aroma. Irish-style red ales have low to medium candy-like caramel malt sweetness and may have a balanced subtle degree of roast barley or roast malt character and complexity.  Irish-style Red Ales have a medium body. The style may have low levels of fruity-ester flavor and aroma. Diacetyl should be absent or at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.",
+        "ibuMin": "20",
+        "ibuMax": "28",
+        "abvMin": "4",
+        "abvMax": "4.5",
+        "srmMin": "11",
+        "srmMax": "18",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:38"
+      }
+    },
+    {
+      "id": "qzy0E7",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "description": "Recently made popular by west coast American breweries, Imperial Red ales feature high hop bitterness, full-flavored caramel malt profiles and a higher original gravity. While balance is key, Imperial Red ales are more malt-forward than other hoppy American beer styles.\r\n\r\nFlavor\r\n\r\nAlaskan Imperial Red is a full-bodied deep mahogany ale with ruby red highlights. Citrus notes of chamomile, grapefruit and Meyer lemon brighten the aroma. A zesty array of hop flavors from pineapple and cherry to green mint and hibiscus meld with the nutty, roasted caramel and subtle dried fruit flavors of the complex malt profile to create a surprisingly fresh, yet warming example of the style.",
+      "abv": "8.5",
+      "ibu": "80",
+      "glasswareId": 5,
+      "srmId": 35,
+      "availableId": 1,
+      "styleId": 33,
+      "isOrganic": "Y",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/qzy0E7/upload_NeYHsM-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/qzy0E7/upload_NeYHsM-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/qzy0E7/upload_NeYHsM-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/qzy0E7/upload_NeYHsM-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/qzy0E7/upload_NeYHsM-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/qzy0E7/upload_NeYHsM-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cold",
+      "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+      "originalGravity": "1.061",
+      "createDate": "2015-06-20 12:11:30",
+      "updateDate": "2018-06-07 20:01:52",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 35,
+        "name": "35",
+        "hex": "470606"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "p3I2UJ",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/p3I2UJ/upload_RAZn7M-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/p3I2UJ/upload_RAZn7M-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/p3I2UJ/upload_RAZn7M-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/p3I2UJ/upload_RAZn7M-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/p3I2UJ/upload_RAZn7M-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/p3I2UJ/upload_RAZn7M-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-14 14:03:55",
+      "updateDate": "2015-12-17 06:43:56",
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "RjuJIu",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/RjuJIu/upload_UkNLHE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/RjuJIu/upload_UkNLHE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/RjuJIu/upload_UkNLHE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/RjuJIu/upload_UkNLHE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/RjuJIu/upload_UkNLHE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/RjuJIu/upload_UkNLHE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-07-21 11:55:22",
+      "updateDate": "2016-06-23 17:57:25",
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "5aqIIE",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "description": "BIG. HOPPY. RED. Irish beer gone incognito! Our IRA has a beautiful burnt orange/red color with the unmistakable aroma and flavor of American hops. This beer is brewed to be dry with full flavor of Nugget, Apollo & Cascade dry hopping. With over two pounds of hops per barrel (that's a lot) its like no beer ever brewed in Erie.",
+      "abv": "8",
+      "ibu": "60",
+      "glasswareId": 2,
+      "availableId": 1,
+      "styleId": 22,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/5aqIIE/upload_sjlJTZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/5aqIIE/upload_sjlJTZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/5aqIIE/upload_sjlJTZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/5aqIIE/upload_sjlJTZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/5aqIIE/upload_sjlJTZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/5aqIIE/upload_sjlJTZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2017-01-03 12:47:55",
+      "glass": {
+        "id": 2,
+        "name": "Goblet",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 22,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Irish Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Irish-Style Red Ale",
+        "shortName": "Irish Red",
+        "description": "Irish-style red ales range from light red-amber-copper to light brown in color. These ales have a medium hop bitterness and flavor. They often don't have hop aroma. Irish-style red ales have low to medium candy-like caramel malt sweetness and may have a balanced subtle degree of roast barley or roast malt character and complexity.  Irish-style Red Ales have a medium body. The style may have low levels of fruity-ester flavor and aroma. Diacetyl should be absent or at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.",
+        "ibuMin": "20",
+        "ibuMax": "28",
+        "abvMin": "4",
+        "abvMax": "4.5",
+        "srmMin": "11",
+        "srmMax": "18",
+        "ogMin": "1.04",
+        "fgMin": "1.01",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:23:38"
+      }
+    },
+    {
+      "id": "htbWwF",
+      "name": "Imperial Red Ale",
+      "nameDisplay": "Imperial Red Ale",
+      "description": "Big on the spicy, skunky hops, bigger on the rich red malt. A variation of our original 1993 \"Lagunitas Red.\" Still in the handy 6-pack carriers for your enjoyment.",
+      "abv": "7.8",
+      "ibu": "84",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 32,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/htbWwF/upload_YWY7ya-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/htbWwF/upload_YWY7ya-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/htbWwF/upload_YWY7ya-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/htbWwF/upload_YWY7ya-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/htbWwF/upload_YWY7ya-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/htbWwF/upload_YWY7ya-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-02-03 13:06:50",
+      "updateDate": "2015-12-16 15:34:33",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 32,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Amber/Red Ale",
+        "shortName": "Amber",
+        "description": "American amber/red ales range from light copper to light brown in color. They are characterized by American-variety hops used to produce the perception of medium hop bitterness, flavor, and medium aroma. Amber ales have medium-high to high maltiness with medium to low caramel character. They should have medium to medium-high body. The style may have low levels of fruityester flavor and aroma. Diacetyl can be either absent or barely perceived at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.",
+        "ibuMin": "30",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "6",
+        "srmMin": "11",
+        "srmMax": "18",
+        "ogMin": "1.048",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:52"
+      }
+    },
+    {
+      "id": "meCiGU",
+      "name": "Imperial Red Ale - Beer Camp #65",
+      "nameDisplay": "Imperial Red Ale - Beer Camp #65",
+      "description": "This imperial Red Ale takes the intense hop profile found in a traditional double IPA and turns up the malt.  It has big aromatic hop notes of grapefruit, peach, and melon balanced by a smooth and surprisingly robust malt body.",
+      "abv": "8.1",
+      "availableId": 2,
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/meCiGU/upload_jvF7gG-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/meCiGU/upload_jvF7gG-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/meCiGU/upload_jvF7gG-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/meCiGU/upload_jvF7gG-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/meCiGU/upload_jvF7gG-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/meCiGU/upload_jvF7gG-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-11-02 20:36:26",
+      "updateDate": "2015-12-16 20:14:42",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "dlOnTr",
+      "name": "Imperial Red Eye PA",
+      "nameDisplay": "Imperial Red Eye PA",
+      "description": "Red Eye PA Combining the resiny, citrus hop character of Simcoe, Summit and Amarillo hops with the caramel/munich malt flavors typical of a red ale gives this IPA a different \"look\" compared to most.",
+      "abv": "7",
+      "ibu": "65",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 30,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/dlOnTr/upload_EAqskA-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/dlOnTr/upload_EAqskA-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/dlOnTr/upload_EAqskA-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/dlOnTr/upload_EAqskA-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/dlOnTr/upload_EAqskA-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/dlOnTr/upload_EAqskA-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-05-05 12:30:45",
+      "updateDate": "2015-12-16 16:41:11",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 30,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style India Pale Ale",
+        "shortName": "American IPA",
+        "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale",
+        "ibuMin": "50",
+        "ibuMax": "70",
+        "abvMin": "6.3",
+        "abvMax": "7.5",
+        "srmMin": "6",
+        "srmMax": "14",
+        "ogMin": "1.06",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:37"
+      }
+    },
+    {
+      "id": "w15bKJ",
+      "name": "Imperial Red I.P.A",
+      "nameDisplay": "Imperial Red I.P.A",
+      "abv": "9",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/w15bKJ/upload_DnwDsU-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/w15bKJ/upload_DnwDsU-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/w15bKJ/upload_DnwDsU-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/w15bKJ/upload_DnwDsU-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/w15bKJ/upload_DnwDsU-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/w15bKJ/upload_DnwDsU-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2015-12-16 09:23:13",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "NkzudD",
+      "name": "Imperial Red IPA",
+      "nameDisplay": "Imperial Red IPA",
+      "abv": "10",
+      "styleId": 33,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/NkzudD/upload_DG4GNe-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/NkzudD/upload_DG4GNe-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/NkzudD/upload_DG4GNe-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/NkzudD/upload_DG4GNe-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/NkzudD/upload_DG4GNe-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/NkzudD/upload_DG4GNe-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-01-22 20:54:13",
+      "updateDate": "2018-12-05 17:51:05",
+      "style": {
+        "id": 33,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial Red Ale",
+        "shortName": "Imperial Red",
+        "description": "Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.",
+        "ibuMin": "55",
+        "ibuMax": "85",
+        "abvMin": "7.9",
+        "abvMax": "10.5",
+        "srmMin": "10",
+        "srmMax": "15",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.028",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 17:05:43"
+      }
+    },
+    {
+      "id": "nGzo8b",
+      "name": "Imperial Reggae Red",
+      "nameDisplay": "Imperial Reggae Red",
+      "description": "A rich red ale with an assertive ABV masked by bold esters and toasty, caramel malt flavors.",
+      "abv": "10",
+      "ibu": "45",
+      "availableId": 2,
+      "styleId": 163,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/nGzo8b/upload_hfPG9g-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/nGzo8b/upload_hfPG9g-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/nGzo8b/upload_hfPG9g-large.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-08-28 23:31:36",
+      "updateDate": "2018-08-29 20:25:35",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 163,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Double Red Ale",
+        "shortName": "Double Red",
+        "description": "Double Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is high, arising from any variety of hops. Medium to medium-high caramel malt character is present. Low to medium biscuit or toasted characters may also be present. Hop flavor is high and balanced with other beer characters. Hop bitterness is high to very high. Alcohol content is medium to high. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is medium to full.",
+        "createDate": "2015-04-07 17:06:23"
+      }
+    },
+    {
+      "id": "4gjbbx",
+      "name": "Imperial Running Man",
+      "nameDisplay": "Imperial Running Man",
+      "description": "Big bold, creamy milk stout with a kick. We took our Running Man and beefed him up with more grain, more hops and more of that sweetness that makes this milk stout memorable.",
+      "abv": "9.3",
+      "ibu": "45",
+      "availableId": 1,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/4gjbbx/upload_sG3RLr-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/4gjbbx/upload_sG3RLr-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/4gjbbx/upload_sG3RLr-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/4gjbbx/upload_sG3RLr-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/4gjbbx/upload_sG3RLr-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/4gjbbx/upload_sG3RLr-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-04-09 01:54:03",
+      "updateDate": "2015-12-18 17:37:54",
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "BlvduQ",
+      "name": "Imperial Russian Stout",
+      "nameDisplay": "Imperial Russian Stout (2013)",
+      "abv": "10",
+      "availableId": 2,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "year": 2013,
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/BlvduQ/upload_9Civvu-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/BlvduQ/upload_9Civvu-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/BlvduQ/upload_9Civvu-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/BlvduQ/upload_9Civvu-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/BlvduQ/upload_9Civvu-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/BlvduQ/upload_9Civvu-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-01-03 12:54:08",
+      "updateDate": "2015-12-17 07:59:28",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "ZngDqd",
+      "name": "Imperial Russian Stout",
+      "nameDisplay": "Imperial Russian Stout",
+      "description": "From Yorkshire to Russia with Love. Black Sheep Brewery is one of 12 brewers each producing its own version of Imperial Russian Stout to take part in a grand tasting to be held in Saint Petersburg.",
+      "abv": "8.5",
+      "glasswareId": 5,
+      "availableId": 2,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ZngDqd/upload_TQDOUO-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ZngDqd/upload_TQDOUO-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ZngDqd/upload_TQDOUO-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ZngDqd/upload_TQDOUO-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ZngDqd/upload_TQDOUO-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ZngDqd/upload_TQDOUO-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-05-09 01:20:15",
+      "updateDate": "2015-12-17 04:06:42",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "pD5RiK",
+      "name": "Imperial Russian Stout",
+      "nameDisplay": "Imperial Russian Stout",
+      "description": "Brewed in the authentic historical style of an Imperial Russian Stout, this beer is massive. Intensely aromatic (notes of anise, black currants, coffee, roastiness and alcohol) and heavy on the palate, this brew goes where few can - and fewer dare even try. The style originated from Czarist Russia's demand for ever thicker English stouts. Expect our version of this mysterious brew to pour like Siberian crude and taste even heavier!",
+      "abv": "10.5",
+      "ibu": "65",
+      "glasswareId": 8,
+      "srmId": 40,
+      "availableId": 4,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/pD5RiK/upload_CFed31-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/pD5RiK/upload_CFed31-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/pD5RiK/upload_CFed31-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/pD5RiK/upload_CFed31-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/pD5RiK/upload_CFed31-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/pD5RiK/upload_CFed31-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "warm",
+      "servingTemperatureDisplay": "Warm - (14-16C/57-61F)",
+      "createDate": "2012-04-17 15:59:22",
+      "updateDate": "2017-01-09 16:19:36",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 40,
+        "name": "40",
+        "hex": "36080A"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "yaf5NI",
+      "name": "Imperial Rye IPA",
+      "nameDisplay": "Imperial Rye IPA",
+      "description": "Intense citrus and floral aroma followed by a smooth medium full mouth feel. Citrus leads the flavor profile, with rye spice and bitterness coming through in the finish.",
+      "abv": "8.4",
+      "ibu": "80",
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/yaf5NI/upload_ldg4Cx-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/yaf5NI/upload_ldg4Cx-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/yaf5NI/upload_ldg4Cx-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/yaf5NI/upload_ldg4Cx-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/yaf5NI/upload_ldg4Cx-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/yaf5NI/upload_ldg4Cx-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-02-22 18:03:57",
+      "updateDate": "2015-12-16 23:21:56",
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "vxGazF",
+      "name": "Imperial Rye Porter",
+      "nameDisplay": "Imperial Rye Porter",
+      "description": "Imperial Rye Porter is a dark ale with lots of character, brewed by Spike and Kjetil.  The best of both worlds!",
+      "abv": "9",
+      "ibu": "45",
+      "styleId": 19,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/vxGazF/upload_gvKVup-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/vxGazF/upload_gvKVup-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/vxGazF/upload_gvKVup-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/vxGazF/upload_gvKVup-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/vxGazF/upload_gvKVup-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/vxGazF/upload_gvKVup-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-07 17:04:44",
+      "updateDate": "2015-12-16 15:15:58",
+      "style": {
+        "id": 19,
+        "categoryId": 1,
+        "category": {
+          "id": 1,
+          "name": "British Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Robust Porter",
+        "shortName": "Robust Porter",
+        "description": "Robust porters are black in color and have a roast malt flavor, often reminiscent of cocoa, but no roast barley flavor. These porters have a sharp bitterness of black malt without a highly burnt/charcoal flavor. Caramel and other malt sweetness should be present and in harmony with other distinguishing porter characters. Robust porters range from medium to full in body and have a malty sweetness. Hop bitterness is medium to high, with hop aroma and flavor ranging from negligible to medium. Diacetyl is acceptable at very low levels. Fruity esters should be evident, balanced with roast malt and hop bitterness.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "6.5",
+        "srmMin": "30",
+        "srmMax": "30",
+        "ogMin": "1.045",
+        "fgMin": "1.008",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:21:45"
+      }
+    },
+    {
+      "id": "CTWbJd",
+      "name": "Imperial Saison",
+      "nameDisplay": "Imperial Saison",
+      "description": "Fruity in aroma and flavor, look for earthy yeast tones and a moderate tartness. Semi-dry with a touch of sweetness.",
+      "abv": "8.6",
+      "ibu": "29",
+      "glasswareId": 8,
+      "srmId": 7,
+      "availableId": 1,
+      "styleId": 72,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/CTWbJd/upload_k9423g-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/CTWbJd/upload_k9423g-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/CTWbJd/upload_k9423g-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/CTWbJd/upload_k9423g-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/CTWbJd/upload_k9423g-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/CTWbJd/upload_k9423g-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-06-26 20:36:27",
+      "updateDate": "2017-08-30 19:26:16",
+      "glass": {
+        "id": 8,
+        "name": "Tulip",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 7,
+        "name": "7",
+        "hex": "F39C00"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 72,
+        "categoryId": 5,
+        "category": {
+          "id": 5,
+          "name": "Belgian And French Origin Ales",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "French & Belgian-Style Saison",
+        "shortName": "Saison",
+        "description": "Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French & Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "4.5",
+        "abvMax": "8.5",
+        "srmMin": "4",
+        "srmMax": "14",
+        "ogMin": "1.055",
+        "fgMin": "1.004",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:34:55"
+      }
+    },
+    {
+      "id": "69NARn",
+      "name": "Imperial Schwarzbier",
+      "nameDisplay": "Imperial Schwarzbier",
+      "description": "This is a high-gravity interpretation of the classic German style black lager. Generous amounts of dehusked German barley were used to give the beer its dark color without adding the roasted or burnt flavors that are associated with typical dark beers. This coupled with lower hopping rates lends to a smooth flavor with medium body and mildly warming finish.",
+      "abv": "7.6",
+      "styleId": 84,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/69NARn/upload_mIuzv8-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/69NARn/upload_mIuzv8-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/69NARn/upload_mIuzv8-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/69NARn/upload_mIuzv8-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/69NARn/upload_mIuzv8-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/69NARn/upload_mIuzv8-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-08-26 02:14:53",
+      "updateDate": "2015-12-18 04:32:17",
+      "style": {
+        "id": 84,
+        "categoryId": 7,
+        "category": {
+          "id": 7,
+          "name": "European-germanic Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "German-Style Schwarzbier",
+        "shortName": "Schwarzbier",
+        "description": "These very dark brown to black beers have a mild roasted malt character without the associated bitterness. This is not a fullbodied beer, but rather a moderate body gently enhances malt flavor and aroma with low to moderate levels of sweetness. Hop bitterness is low to medium in character. Noble-type hop flavor and aroma should be low but perceptible. There should be no fruity esters. Diacetyl should not be perceived.",
+        "ibuMin": "22",
+        "ibuMax": "30",
+        "abvMin": "3.8",
+        "abvMax": "5",
+        "srmMin": "25",
+        "srmMax": "30",
+        "ogMin": "1.044",
+        "fgMin": "1.01",
+        "fgMax": "1.016",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:37:12"
+      }
+    },
+    {
+      "id": "aflL50",
+      "name": "Imperial Scoville",
+      "nameDisplay": "Imperial Scoville",
+      "description": "The Imperial Scoville pushes the boundaries with a bigger malt bill, higher ABV, more hops, and more heat with the addition of red Thai peppers in the dry hop. The Thai pepper provides 20x more heat than jalapeños alone as well as a touch more sweetness. Not a punisher but rather a sizzler",
+      "abv": "9.8",
+      "availableId": 2,
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/aflL50/upload_z5VCNn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/aflL50/upload_z5VCNn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/aflL50/upload_z5VCNn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/aflL50/upload_z5VCNn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/aflL50/upload_z5VCNn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/aflL50/upload_z5VCNn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-09-23 01:29:36",
+      "updateDate": "2018-06-20 16:18:12",
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "9THDde",
+      "name": "Imperial Session Ale",
+      "nameDisplay": "Imperial Session Ale",
+      "abv": "8.8",
+      "styleId": 108,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/9THDde/upload_uCzk2L-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/9THDde/upload_uCzk2L-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/9THDde/upload_uCzk2L-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/9THDde/upload_uCzk2L-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/9THDde/upload_uCzk2L-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/9THDde/upload_uCzk2L-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-12 01:22:36",
+      "updateDate": "2015-12-17 07:36:00",
+      "style": {
+        "id": 108,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Session Beer",
+        "shortName": "Session",
+        "description": "Any style of beer can be made lower in strength than described in the classic style guidelines. The goal should be to reach a balance between the style's character and the lower alcohol content. Drinkability is a character in the overall balance of these beers. Beers in this category must not exceed 4.1% alcohol by weight (5.1% alcohol by volume).",
+        "ibuMin": "10",
+        "ibuMax": "30",
+        "abvMin": "4",
+        "abvMax": "5.1",
+        "srmMin": "2",
+        "srmMax": "2",
+        "ogMin": "1.034",
+        "fgMin": "1.004",
+        "fgMax": "1.01",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:42:20"
+      }
+    },
+    {
+      "id": "A771ld",
+      "name": "Imperial Smoked Amber",
+      "nameDisplay": "Imperial Smoked Amber",
+      "abv": "8.5",
+      "ibu": "36",
+      "styleId": 129,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/A771ld/upload_zjVWTL-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/A771ld/upload_zjVWTL-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/A771ld/upload_zjVWTL-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/A771ld/upload_zjVWTL-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/A771ld/upload_zjVWTL-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/A771ld/upload_zjVWTL-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-02-28 13:33:51",
+      "updateDate": "2015-12-17 09:20:02",
+      "style": {
+        "id": 129,
+        "categoryId": 11,
+        "category": {
+          "id": 11,
+          "name": "Hybrid/mixed Beer",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "Smoke Beer (Lager or Ale)",
+        "shortName": "Smoke Beer",
+        "description": "Any style of beer can be smoked; the goal is to reach a balance between the style's character and the smoky properties. Type of wood or other sources of smoke should be specified as well as the style the beer is based upon.",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:45:19"
+      }
+    },
+    {
+      "id": "xFaOT8",
+      "name": "Imperial Smoked Porter With Cacao Nibs",
+      "nameDisplay": "Imperial Smoked Porter With Cacao Nibs",
+      "description": "We started with a rich, dark ale brewed with Cherrywood smoked malt and aged it in Bourbon Barrels for 8 months. Then we blended it with a young dark ale, further aging it on house smoked Cacao Nibs. The result is a luscious ale with intense flavors of dark chocolate and smoke.",
+      "abv": "10",
+      "glasswareId": 2,
+      "availableId": 2,
+      "styleId": 158,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/xFaOT8/upload_jcKiSC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/xFaOT8/upload_jcKiSC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/xFaOT8/upload_jcKiSC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/xFaOT8/upload_jcKiSC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/xFaOT8/upload_jcKiSC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/xFaOT8/upload_jcKiSC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2017-03-10 14:55:29",
+      "updateDate": "2017-08-30 18:40:22",
+      "glass": {
+        "id": 2,
+        "name": "Goblet",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 158,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Porter",
+        "shortName": "American Imperial Porter",
+        "description": "American-style imperial porters are black in color. No roast barley or strong burnt/astringent black malt character should be perceived. Medium malt, caramel and cocoa-like sweetness. Hop bitterness is perceived at a medium-low to medium level. Hop flavor and aroma may vary from being low to medium-high. This is a full bodied beer. Ale-like fruity esters should be evident but not overpowering and compliment hop character and malt derived sweetness. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "35",
+        "ibuMax": "50",
+        "abvMin": "5.5",
+        "abvMax": "9.5",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "ogMax": "1.1",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2013-08-10 12:42:51",
+        "updateDate": "2015-04-07 15:49:32"
+      }
+    },
+    {
+      "id": "ZZJCcZ",
+      "name": "Imperial Smoked Porter With Vanilla Beans",
+      "nameDisplay": "Imperial Smoked Porter With Vanilla Beans",
+      "description": "This Imperial Smoked Porter starts with a rich, dark ale brewed with Cherrywood smoked malt which has been aged in Bourbon Barrels for 8 months. Then we blended it with a young, dark ale and added vanilla; creating a velvety smooth ale with layers of dark malt, light smoke, and vanilla.",
+      "abv": "10",
+      "glasswareId": 2,
+      "availableId": 2,
+      "styleId": 158,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/ZZJCcZ/upload_OcoDxE-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/ZZJCcZ/upload_OcoDxE-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/ZZJCcZ/upload_OcoDxE-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/ZZJCcZ/upload_OcoDxE-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/ZZJCcZ/upload_OcoDxE-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/ZZJCcZ/upload_OcoDxE-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "servingTemperature": "cool",
+      "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+      "createDate": "2017-03-10 14:56:13",
+      "updateDate": "2017-08-30 18:34:15",
+      "glass": {
+        "id": 2,
+        "name": "Goblet",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 158,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Porter",
+        "shortName": "American Imperial Porter",
+        "description": "American-style imperial porters are black in color. No roast barley or strong burnt/astringent black malt character should be perceived. Medium malt, caramel and cocoa-like sweetness. Hop bitterness is perceived at a medium-low to medium level. Hop flavor and aroma may vary from being low to medium-high. This is a full bodied beer. Ale-like fruity esters should be evident but not overpowering and compliment hop character and malt derived sweetness. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "35",
+        "ibuMax": "50",
+        "abvMin": "5.5",
+        "abvMax": "9.5",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "ogMax": "1.1",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2013-08-10 12:42:51",
+        "updateDate": "2015-04-07 15:49:32"
+      }
+    },
+    {
+      "id": "PEcKf5",
+      "name": "Imperial Smoked Rye Porter",
+      "nameDisplay": "Imperial Smoked Rye Porter",
+      "abv": "11.3",
+      "styleId": 38,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/PEcKf5/upload_Th8aC9-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/PEcKf5/upload_Th8aC9-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/PEcKf5/upload_Th8aC9-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/PEcKf5/upload_Th8aC9-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/PEcKf5/upload_Th8aC9-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/PEcKf5/upload_Th8aC9-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-14 13:48:38",
+      "updateDate": "2015-12-17 07:49:51",
+      "style": {
+        "id": 38,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Smoke Porter",
+        "shortName": "Smoke Porter",
+        "description": "Smoke porters are chestnut brown to black in color. They can exhibit a mild to assertive smoke character in balance with other beer characters. Black malt character can be perceived in some porters, while others may be absent of strong roast character. Roast barley character should be absent. Medium to full malt sweetness, caramel and chocolate are acceptable along with medium to medium-high hop bitterness. These beers are usually medium to full bodied. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "8.7",
+        "srmMin": "20",
+        "srmMax": "20",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:41"
+      }
+    },
+    {
+      "id": "tcfk11",
+      "name": "Imperial Smoking Mirror",
+      "nameDisplay": "Imperial Smoking Mirror",
+      "abv": "9.6",
+      "styleId": 38,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/tcfk11/upload_PyFeKs-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/tcfk11/upload_PyFeKs-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/tcfk11/upload_PyFeKs-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/tcfk11/upload_PyFeKs-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/tcfk11/upload_PyFeKs-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/tcfk11/upload_PyFeKs-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-01-05 12:58:27",
+      "updateDate": "2015-12-17 19:25:17",
+      "style": {
+        "id": 38,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Smoke Porter",
+        "shortName": "Smoke Porter",
+        "description": "Smoke porters are chestnut brown to black in color. They can exhibit a mild to assertive smoke character in balance with other beer characters. Black malt character can be perceived in some porters, while others may be absent of strong roast character. Roast barley character should be absent. Medium to full malt sweetness, caramel and chocolate are acceptable along with medium to medium-high hop bitterness. These beers are usually medium to full bodied. Fruity esters are acceptable. Hop flavor and aroma may vary from being negligible to medium in character.",
+        "ibuMin": "20",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "8.7",
+        "srmMin": "20",
+        "srmMax": "20",
+        "ogMin": "1.04",
+        "fgMin": "1.006",
+        "fgMax": "1.014",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:27:41"
+      }
+    },
+    {
+      "id": "2389NT",
+      "name": "Imperial Snake Hollow",
+      "nameDisplay": "Imperial Snake Hollow",
+      "description": "Snake Hollow was the original name of the Potosi Hollow and is a brew with real character. According to tradition, an India Pale Ale requires a plentiful addition of hops during the kettle boil. Subsequently during the aging process, additional hops flavorings are introduced, providing fine aromatic hop character.",
+      "abv": "6.5",
+      "ibu": "65",
+      "availableId": 3,
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "Y",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2389NT/upload_2D857x-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2389NT/upload_2D857x-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2389NT/upload_2D857x-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2389NT/upload_2D857x-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2389NT/upload_2D857x-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2389NT/upload_2D857x-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-05 17:54:48",
+      "updateDate": "2018-11-02 02:13:07",
+      "available": {
+        "id": 3,
+        "name": "Not Available",
+        "description": "Beer is not currently available."
+      },
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "fhIrs4",
+      "name": "Imperial Sneakbox",
+      "nameDisplay": "Imperial Sneakbox",
+      "description": "This 8.4% double IPA is an amped up version of our pale ale and brewed with a ton of Citra hops",
+      "abv": "8.4",
+      "styleId": 31,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/fhIrs4/upload_gh89k5-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/fhIrs4/upload_gh89k5-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/fhIrs4/upload_gh89k5-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/fhIrs4/upload_gh89k5-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/fhIrs4/upload_gh89k5-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/fhIrs4/upload_gh89k5-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2018-03-09 13:35:08",
+      "updateDate": "2018-03-09 13:36:10",
+      "style": {
+        "id": 31,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "Imperial or Double India Pale Ale",
+        "shortName": "Imperial IPA",
+        "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.",
+        "ibuMin": "65",
+        "ibuMax": "100",
+        "abvMin": "7.5",
+        "abvMax": "10.5",
+        "srmMin": "5",
+        "srmMax": "13",
+        "ogMin": "1.075",
+        "fgMin": "1.012",
+        "fgMax": "1.02",
+        "createDate": "2012-03-21 20:06:45",
+        "updateDate": "2015-04-07 15:26:46"
+      }
+    },
+    {
+      "id": "E6v8su",
+      "name": "Imperial Spruce Pilsner",
+      "nameDisplay": "Imperial Spruce Pilsner",
+      "description": "India Spruce Pilsner is an Imperial Pilsner, fermented with local, hand-picked blue spruce tips. The spruce presence, rooted in historical brewing practices, is enormous and gives the beer a refreshing gin quality. This beer is impressively light bodied, considering the immense spruce flavors and the prodigious additions of hops.",
+      "abv": "10.4",
+      "ibu": "85",
+      "styleId": 98,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/E6v8su/upload_0L3q51-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/E6v8su/upload_0L3q51-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/E6v8su/upload_0L3q51-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/E6v8su/upload_0L3q51-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/E6v8su/upload_0L3q51-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/E6v8su/upload_0L3q51-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-08-09 15:10:35",
+      "updateDate": "2016-08-09 15:22:56",
+      "style": {
+        "id": 98,
+        "categoryId": 8,
+        "category": {
+          "id": 8,
+          "name": "North American Lager",
+          "createDate": "2012-03-21 20:06:46"
+        },
+        "name": "American-Style Pilsener",
+        "shortName": "American Pilsener",
+        "description": "This classic and unique pre-Prohibition American-style Pilsener is straw to deep gold in color. Hop bitterness, flavor and aroma are medium to high, and use of noble-type hops for flavor and aroma is preferred. Up to 25 percent corn and/or rice in the grist should be used. Malt flavor and aroma are medium. This is a light-medium to medium-bodied beer. Sweet corn-like dimethylsulfide (DMS), fruity esters and American hop-derived citrus flavors or aromas should not be perceived. Diacetyl is not acceptable. There should be no chill haze. Competition organizers may wish to subcategorize this style into rice and corn subcategories.",
+        "ibuMin": "25",
+        "ibuMax": "40",
+        "abvMin": "5",
+        "abvMax": "6",
+        "srmMin": "3",
+        "srmMax": "6",
+        "ogMin": "1.045",
+        "fgMin": "1.012",
+        "fgMax": "1.018",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:40:08"
+      }
+    },
+    {
+      "id": "eS7K86",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "description": "his distinctive type of beer was originally brewed to withstand the abuses of shipping in foul weather to Imperial Russia. It was a favourite of Russian nobility whose taste for the finest food and drink was world famous.\r\n\r\nA rich flavourful brew; deep chocolate in colour with a roasted barley nose and flavour that is a complexity of malt, hops, alcohol and yeast. Fermented in ‘stone Yorkshire squares’.  \r\n\r\nServing Suggestions • Espresso coffee; Stilton and walnuts; baked sultana and lemon cheesecake; steak au poivre; caviar; rich apricot glazed bread; coffee trifle with roasted almonds.\r\n\r\nBest served at about 15°C.\r\n\r\nIngredients • Water, malted barley,  roasted malt, cane sugar, yeast, hops, seaweed finings, carbon dioxide.",
+      "abv": "7",
+      "glasswareId": 5,
+      "srmId": 40,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/eS7K86/upload_YhY47q-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/eS7K86/upload_YhY47q-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/eS7K86/upload_YhY47q-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/eS7K86/upload_YhY47q-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/eS7K86/upload_YhY47q-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/eS7K86/upload_YhY47q-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2018-08-03 18:51:31",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 40,
+        "name": "40",
+        "hex": "36080A"
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "MSqVcX",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "abv": "8",
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/MSqVcX/upload_Af6zMN-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/MSqVcX/upload_Af6zMN-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/MSqVcX/upload_Af6zMN-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/MSqVcX/upload_Af6zMN-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/MSqVcX/upload_Af6zMN-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/MSqVcX/upload_Af6zMN-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-12-22 20:41:21",
+      "updateDate": "2017-08-30 17:35:30",
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "HHmOVj",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "description": "Knee Deep’s Bourbon Barrel Aged Imperial Stout is a smooth tasting brew that has big malt flavors and plenty of bitterness which creates a well-balanced, bourbon flavored beer.  The barrel aging process gives this beer a spicy, vanilla character with a pleasant and warming finish.",
+      "abv": "9.4",
+      "glasswareId": 5,
+      "availableId": 1,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HHmOVj/upload_zxGS9K-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HHmOVj/upload_zxGS9K-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HHmOVj/upload_zxGS9K-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HHmOVj/upload_zxGS9K-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HHmOVj/upload_zxGS9K-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HHmOVj/upload_zxGS9K-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-12-06 11:27:47",
+      "updateDate": "2015-12-16 20:27:04",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "v1l7Q4",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "abv": "9",
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/v1l7Q4/upload_GE6ARC-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/v1l7Q4/upload_GE6ARC-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/v1l7Q4/upload_GE6ARC-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/v1l7Q4/upload_GE6ARC-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/v1l7Q4/upload_GE6ARC-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/v1l7Q4/upload_GE6ARC-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-11-01 12:49:06",
+      "updateDate": "2015-12-17 06:43:49",
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "r0y96l",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "description": "Blacker than night, stouter than stout is our Imperial Stout. Brewed with a lot of malt & a touch of honey, Imperial Stout is rich & robust with deep, deep notes of dark chocolate & espresso.",
+      "abv": "10.5",
+      "glasswareId": 5,
+      "availableId": 4,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/r0y96l/upload_Qde74U-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/r0y96l/upload_Qde74U-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/r0y96l/upload_Qde74U-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/r0y96l/upload_Qde74U-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/r0y96l/upload_Qde74U-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/r0y96l/upload_Qde74U-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-10 15:17:30",
+      "updateDate": "2017-01-10 21:11:19",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "available": {
+        "id": 4,
+        "name": "Seasonal",
+        "description": "Available at the same time of year, every year."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "INJWpy",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "description": "Dark and thick like your favorite dessert with a bonus.  Highly roasted malted barley, and plenty of it, gives the beer uncommon richness and smoky, roasty depth...kinda like a hydraulic sandwich in a glass",
+      "abv": "9.9",
+      "ibu": "72.45",
+      "glasswareId": 5,
+      "srmId": 41,
+      "availableId": 1,
+      "styleId": 42,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/INJWpy/upload_BSNVef-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/INJWpy/upload_BSNVef-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/INJWpy/upload_BSNVef-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/INJWpy/upload_BSNVef-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/INJWpy/upload_BSNVef-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/INJWpy/upload_BSNVef-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2015-12-15 21:24:54",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 41,
+        "name": "Over 40",
+        "hex": "000000"
+      },
+      "available": {
+        "id": 1,
+        "name": "Year Round",
+        "description": "Available year round as a staple beer."
+      },
+      "style": {
+        "id": 42,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Stout",
+        "shortName": "American Stout",
+        "description": "Initial low to medium malt sweetness with a degree of caramel, chocolate and/or roasted coffee flavor with a distinctive dryroasted bitterness in the finish. Coffee-like roasted barley and roasted malt aromas are prominent. Some slight roasted malt acidity is permissible and a medium- to full-bodied mouthfeel is appropriate. Hop bitterness may be moderate to high. Hop aroma and flavor is moderate to high, often with American citrus-type and/or resiny hop character. The perception of fruity esters is low. Roasted malt/barley astringency may be low but not excessive. Diacetyl (butterscotch) should be negligible or not perceived. Head retention is excellent.",
+        "ibuMin": "35",
+        "ibuMax": "60",
+        "abvMin": "5.7",
+        "abvMax": "8.8",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.05",
+        "fgMin": "1.01",
+        "fgMax": "1.022",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:43"
+      }
+    },
+    {
+      "id": "HqN7j8",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "description": "This massive Stout pours a mahogany black with a thick, brown head. The aroma is all chocolate roasted malt. The aroma is all chocolate and toasted malt. The first wave of flavor embraces anise and dark, bitter chocolate but opens up to include coffee, smoke and rich sweet malt. The alcohol strength warms this beer as it goes down your throat.",
+      "abv": "10",
+      "glasswareId": 6,
+      "srmId": 41,
+      "availableId": 2,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/HqN7j8/upload_imbjxn-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/HqN7j8/upload_imbjxn-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/HqN7j8/upload_imbjxn-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/HqN7j8/upload_imbjxn-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/HqN7j8/upload_imbjxn-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/HqN7j8/upload_imbjxn-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "foodPairings": "Long-aged cheeses and dark chocolate desserts.",
+      "createDate": "2012-08-23 17:57:37",
+      "updateDate": "2015-12-16 17:48:58",
+      "glass": {
+        "id": 6,
+        "name": "Snifter",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 41,
+        "name": "Over 40",
+        "hex": "000000"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "723mYY",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "description": "Like India Pale Ale, the classic Imperial Stouts were originally brewed with high levels of alcohol and hops to withstand the rigors of a long sea journey, not to India but to Imperial Russia and the Baltic States. Our version is an over-the-top riff on the style, with a huge grain bill featuring several kinds of malted barley, wheat, rye, oats, and spelt. Robust grain and coffee flavors are counterbalanced by date and plum notes from the Belgian yeast. To add extra complexity and depth, this Imperial Stout is made up of a blend of freshly brewed beer and several barrel-aged beers, carefully balanced. Za Vas!",
+      "abv": "11",
+      "ibu": "63",
+      "glasswareId": 5,
+      "srmId": 40,
+      "availableId": 2,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/723mYY/upload_QP8ZeT-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/723mYY/upload_QP8ZeT-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/723mYY/upload_QP8ZeT-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/723mYY/upload_QP8ZeT-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/723mYY/upload_QP8ZeT-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/723mYY/upload_QP8ZeT-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:43:28",
+      "updateDate": "2017-01-11 03:36:32",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "srm": {
+        "id": 40,
+        "name": "40",
+        "hex": "36080A"
+      },
+      "available": {
+        "id": 2,
+        "name": "Limited",
+        "description": "Limited availability."
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "QsiuW7",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/QsiuW7/upload_JCFukZ-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/QsiuW7/upload_JCFukZ-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/QsiuW7/upload_JCFukZ-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/QsiuW7/upload_JCFukZ-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/QsiuW7/upload_JCFukZ-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/QsiuW7/upload_JCFukZ-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-01-04 12:46:59",
+      "updateDate": "2015-12-16 23:33:10",
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "QLmVPH",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout (2015)",
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "year": 2015,
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/QLmVPH/upload_ZUKhJ3-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/QLmVPH/upload_ZUKhJ3-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/QLmVPH/upload_ZUKhJ3-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/QLmVPH/upload_ZUKhJ3-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/QLmVPH/upload_ZUKhJ3-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/QLmVPH/upload_ZUKhJ3-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-01-05 12:46:06",
+      "updateDate": "2015-12-17 19:23:13",
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    },
+    {
+      "id": "2dNChR",
+      "name": "Imperial Stout",
+      "nameDisplay": "Imperial Stout",
+      "abv": "9",
+      "ibu": "57",
+      "glasswareId": 5,
+      "styleId": 43,
+      "isOrganic": "N",
+      "isRetired": "N",
+      "labels": {
+        "icon": "https://brewerydb-images.s3.amazonaws.com/beer/2dNChR/upload_kcN6AO-icon.png",
+        "medium": "https://brewerydb-images.s3.amazonaws.com/beer/2dNChR/upload_kcN6AO-medium.png",
+        "large": "https://brewerydb-images.s3.amazonaws.com/beer/2dNChR/upload_kcN6AO-large.png",
+        "contentAwareIcon": "https://brewerydb-images.s3.amazonaws.com/beer/2dNChR/upload_kcN6AO-contentAwareIcon.png",
+        "contentAwareMedium": "https://brewerydb-images.s3.amazonaws.com/beer/2dNChR/upload_kcN6AO-contentAwareMedium.png",
+        "contentAwareLarge": "https://brewerydb-images.s3.amazonaws.com/beer/2dNChR/upload_kcN6AO-contentAwareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-09-22 12:31:44",
+      "updateDate": "2015-12-17 06:28:28",
+      "glass": {
+        "id": 5,
+        "name": "Pint",
+        "createDate": "2012-01-03 02:41:33"
+      },
+      "style": {
+        "id": 43,
+        "categoryId": 3,
+        "category": {
+          "id": 3,
+          "name": "North American Origin Ales",
+          "createDate": "2012-03-21 20:06:45"
+        },
+        "name": "American-Style Imperial Stout",
+        "shortName": "American Imperial Stout",
+        "description": "Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.",
+        "ibuMin": "50",
+        "ibuMax": "80",
+        "abvMin": "7",
+        "abvMax": "12",
+        "srmMin": "40",
+        "srmMax": "40",
+        "ogMin": "1.08",
+        "fgMin": "1.02",
+        "fgMax": "1.03",
+        "createDate": "2012-03-21 20:06:46",
+        "updateDate": "2015-04-07 15:28:49"
+      }
+    }
+  ],
+  "status": "success"
+}
