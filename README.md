@@ -75,5 +75,5 @@ An example of a beer data point:
         "createDate": "2012-03-21 20:06:45",
         "updateDate": "2015-04-07 15:23:38"
       }
-    }
+}
 ```
