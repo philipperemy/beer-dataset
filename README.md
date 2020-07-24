@@ -1,4 +1,4 @@
-# Beer Database
+# Largest Beer Database :beers:
 
 Scraped from https://brewerydb.com/ in late 2019.
 
