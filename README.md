@@ -6,7 +6,7 @@ Perfect for some data science / ML analysis.
 
 To re-download the whole database, you will need a pro account. Support them if you are into beers!
 
-It contains **30,280** records in JSON format.
+It contains **30,280** records in JSON format. I also provide a script `download.py` to download the images of the labels.
 
 An example of a beer data point:
 ```json
